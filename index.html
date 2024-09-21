@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shalaREPO</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Urbanist', sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+            margin: 0;
+            padding: 10px;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+            position: relative;
+        }
+        .content {
+            position: relative;
+            z-index: 1;
+            user-select: none; /* Disable text selection */
+        }
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(255, 255, 255, 0);
+            z-index: 0; /* Set below the buttons */
+        }
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+            40% { transform: translateY(-10px); }
+            60% { transform: translateY(-5px); }
+        }
+        h1 {
+            font-size: 7vw;
+            animation: tilt 5s infinite ease-in-out;
+            margin-bottom: 20px;
+            text-shadow: 0 0 10px #f4f4f4;
+        }
+        .sub-header {
+            font-size: 5vw;
+            margin: 5px 0;
+            animation: bounce 1s infinite;
+            text-shadow: 0 0 10px #f4f4f4;
+        }
+        p {
+            font-size: 4vw;
+            margin: 10px 0;
+        }
+        a {
+            font-size: 5vw;
+            text-decoration: none;
+            padding: 12px 18px;
+            border-radius: 5px;
+            color: #2980b9;
+            background-color: #f4f4f4;
+            border: 2px solid #2980b9;
+            transition: background-color 0.3s, transform 0.3s;
+            display: inline-block;
+            margin: 5px;
+            position: relative; /* Ensure buttons are above the overlay */
+            z-index: 2; /* Bring buttons above overlay */
+        }
+        a.zebra {
+            color: #555;
+            border: 2px solid #555;
+        }
+        a:hover {
+            background-color: #e0e0e0;
+            transform: scale(1.03);
+        }
+        @keyframes tilt {
+            0%, 100% { transform: rotate(1deg); }
+            50% { transform: rotate(-1deg); }
+        }
+        @media (min-width: 768px) {
+            h1 { font-size: 4vw; }
+            .sub-header { font-size: 2.8vw; }
+            p { font-size: 2.2vw; }
+            a { font-size: 2.8vw; }
+        }
+        .emoji {
+            position: absolute;
+            top: -50px;
+            font-size: 2rem;
+            opacity: 0.8;
+            animation: fall linear forwards;
+            z-index: 0;
+        }
+        @keyframes fall {
+            0% { transform: translateY(0); opacity: 0.8; }
+            90% { opacity: 0.8; }
+            100% { transform: translateY(100vh); opacity: 0; }
+        }
+        .explosion {
+            position: absolute;
+            font-size: 2rem;
+            animation: explode 0.5s forwards;
+            z-index: 2;
+        }
+        @keyframes explode {
+            0% { transform: scale(1); opacity: 1; }
+            100% { transform: scale(2); opacity: 0; }
+        }
+        .notification {
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            background-color: rgba(255, 255, 255, 0.9);
+            border: 2px solid #2980b9;
+            border-radius: 5px;
+            padding: 10px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 0.5s, transform 0.5s;
+            z-index: 10;
+        }
+        .notification.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>hii i made a repo for<br>roothide/bootstrap tweaks</h1>
+        <p class="sub-header">👇 add shalaREPO 👇</p>
+        <p>
+            <a href="sileo://source/https://salameanon.github.io/shalarepo">sileo</a>
+            <a class="zebra" href="zbra://sources/add/https://salameanon.github.io/shalarepo">zebra</a>
+        </p>
+    </div>
+    <div class="overlay"></div>
+    <div class="notification" id="clickNotification">
+        Left Click
+    </div>
+    <script>
+        let cursorX = 0;
+        let cursorY = 0;
+        let spawnInterval;
+
+        document.addEventListener('mousemove', (event) => {
+            cursorX = event.clientX;
+            cursorY = event.clientY;
+        });
+
+        function createEmoji() {
+            const emoji = document.createElement('div');
+            emoji.classList.add('emoji');
+            emoji.textContent = '🍆'; // Eggplant emoji
+
+            const randomX = Math.random() * window.innerWidth;
+            emoji.style.left = `${randomX}px`;
+
+            document.body.appendChild(emoji);
+
+            const fallDuration = Math.random() * 3 + 2;
+            emoji.style.animationDuration = `${fallDuration}s`;
+
+            const interval = setInterval(() => {
+                const emojiRect = emoji.getBoundingClientRect();
+                if (
+                    cursorX >= emojiRect.left &&
+                    cursorX <= emojiRect.right &&
+                    cursorY >= emojiRect.top &&
+                    cursorY <= emojiRect.bottom
+                ) {
+                    explodeEmoji(emoji);
+                    clearInterval(interval);
+                }
+            }, 50);
+
+            emoji.addEventListener('animationend', () => {
+                emoji.remove();
+                clearInterval(interval);
+            });
+        }
+
+        function explodeEmoji(emoji) {
+            const explosion = document.createElement('div');
+            explosion.classList.add('explosion');
+            explosion.textContent = '💥';
+            explosion.style.left = `${cursorX}px`;
+            explosion.style.top = `${cursorY}px`;
+
+            document.body.appendChild(explosion);
+
+            explosion.addEventListener('animationend', () => {
+                explosion.remove();
+            });
+
+            emoji.remove();
+        }
+
+        function setSpawnInterval() {
+            spawnInterval = window.innerWidth < 768 ? 1000 : 500;
+            clearInterval(createEmojiInterval);
+            createEmojiInterval = setInterval(createEmoji, spawnInterval);
+        }
+
+        let createEmojiInterval;
+        setSpawnInterval();
+        window.addEventListener('resize', setSpawnInterval);
+
+        window.addEventListener('click', (event) => {
+            showNotification("Left Click");
+        });
+
+        window.addEventListener('contextmenu', (event) => {
+            event.preventDefault();
+            showNotification("Right Click");
+        });
+
+        function showNotification(message) {
+            const notification = document.getElementById('clickNotification');
+            notification.textContent = message;
+            notification.classList.add('active');
+            setTimeout(() => {
+                notification.classList.remove('active');
+            }, 2000);
+        }
+    </script>
+</body>
+</html>
