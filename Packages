@@ -1,0 +1,36 @@
+Package: com.rpgfarm.a-font
+Version: 1.10.1
+Architecture: iphoneos-arm64e
+Maintainer: Baw Appie
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.rpgfarm.a-font.deb
+Section: Customization
+Description: Change your font system wide!
+Author: Baw Appie
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fi.repo.co.kr%2Fimages%2Fcom.rpgfarm.a-font-icon-afont.png.png&s=120x120&f=webp
+Name: A-font
+Installed-Size: 2476
+Size: 1334478
+MD5Sum: fdaed2efc7a40db7a7689b3e08bad800
+SHA1: 938ecaa8e9678ea219a0ae5b2750f63c67f32f12
+SHA256: fbd4af1bc659c80fc6e366eda652531a834bc46a227ddf587ec803553e49fe5f
+Depiction: 
+
+Package: 0xcc.woodfairy.koi
+Version: 1.1.7-ok15
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 1456
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 15.0), dev.traurige.libkitten (>= 1.4)
+Filename: debs/0xcc.woodfairy.koi_1.1.7-ok15_iphoneos-arm.deb
+Size: 1041120
+MD5sum: 859c383cf209851e09625f9bf8676f77
+SHA1: 5a2495d1c0d405374139b47186406f5aa964472e
+SHA256: 855f6d51a44c4639fb6579d7f3544f2affc151d7210a26aad3e24814264550e4
+Section: iOS 15 Patches
+Description: Colourise the force touch menu background based on the app icon colour
+Author: woodfairy & Litten
+Depiction: https://repo.litten.love/depictions/Koi/index.html
+Icon: https://paisseon.github.io/icons/Koi.png
+Name: Koi 🐠
+Sileodepiction: https://repo.litten.love/depictions/Koi/index.json
