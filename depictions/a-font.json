@@ -1,23 +1,114 @@
 {
-  "Package": "com.rpgfarm.a-font",
-  "Version": "1.10.1",
-  "Architecture": "iphoneos-arm64e",
-  "Maintainer": "Baw Appie",
-  "Depends": [
-    "mobilesubstrate",
-    "preferenceloader"
-  ],
-  "Filename": "debs/com.rpgfarm.a-font.deb",
-  "Section": "Customization",
-  "Description": "Change your font system wide!",
-  "Author": "Baw Appie",
-  "Icon": "https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fi.repo.co.kr%2Fimages%2Fcom.rpgfarm.a-font-icon-afont.png.png&s=120x120&f=webp",
-  "Name": "A-font",
-  "Installed-Size": 2476,
-  "Size": 1334478,
-  "MD5Sum": "fdaed2efc7a40db7a7689b3e08bad800",
-  "SHA1": "938ecaa8e9678ea219a0ae5b2750f63c67f32f12",
-  "SHA256": "fbd4af1bc659c80fc6e366eda652531a834bc46a227ddf587ec803553e49fe5f",
-  "Depiction": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/depictions/a-font.html",
-  "Sileodepiction": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/depictions/a-font.json"
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tintColor": "#CBA0DD",
+    "headerImage": "https://example.com/images/a-font-header.png",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "title": "Description"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "A-Font is a customizable font pack designed to give your iOS device a fresh and modern look. It includes multiple font styles that can be applied system-wide or for specific apps, bringing a personalized aesthetic to your device."
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Features"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Wide variety of font styles, including modern, classic, and minimalistic designs.\n- Full support for system-wide font changes.\n- Easy-to-use preference pane for customizing fonts per app.\n- Dynamic font rendering for clear and sharp text on all devices."
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Preferences"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- **Enable**: Turn A-Font on or off.\n- **Font Style**: Choose from a variety of pre-installed fonts.\n- **Per-App Fonts**: Set different fonts for specific apps.\n- **Font Size**: Customize the size of the fonts globally or per app.\n- **Bold Text**: Enable or disable bold text for all fonts."
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Known Issues"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Some apps may not fully support custom fonts and might display text incorrectly.\n- Font rendering may vary depending on the iOS version."
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Information"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "YourName"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.0.0"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 13.0 - 16.4"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionStackView",
+                    "views": [
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Source Code",
+                            "action": "https://github.com/yourusername/a-font",
+                            "openExternal": true
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "tabname": "Change Log",
+            "class": "DepictionStackView",
+            "tintColor": "#CBA0DD",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.0.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Initial release of A-Font.\n- Multiple font styles supported.\n- System-wide and per-app font customization."
+                }
+            ]
+        }
+    ]
 }
