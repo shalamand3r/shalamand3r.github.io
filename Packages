@@ -197,7 +197,7 @@ Filename: debs/com.creaturecoding.tweaksettings.deb
 Section: Tweaks
 Description: Dedicated settings app for tweaks
 Author: CreatureSurvive
-Icon: 
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/tweaksettings.png
 Name: TweakSettings
 Installed-Size: 1064
 Size: 449224
