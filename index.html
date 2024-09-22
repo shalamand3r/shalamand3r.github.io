@@ -23,36 +23,34 @@
             overflow: hidden;
             position: relative;
         }
-        /* Dark mode styles */
         @media (prefers-color-scheme: dark) {
             body {
                 background-color: #333;
                 color: #f4f4f4;
             }
             a {
-                color: white; /* Text color for dark mode */
-                background-color: #1e90ff; /* Button background for Sileo in dark mode */
-                border: 2px solid #1e90ff; /* Button border for dark mode */
+                color: white;
+                background-color: #1e90ff;
+                border: 2px solid #1e90ff;
             }
             a.zebra {
-                background-color: #555; /* Solid grey for Zebra in dark mode */
+                background-color: #555;
             }
             a:hover {
-                background-color: #1e90ff; /* Matching Sileo hover color */
+                background-color: #1e90ff;
             }
             a.zebra:hover {
-                background-color: #555; /* Matching Zebra hover color */
+                background-color: #555;
             }
             .notification {
-                background-color: rgba(0, 0, 0, 0.9); /* Notification background for dark mode */
-                border: 2px solid #1e90ff; /* Notification border for dark mode */
+                background-color: rgba(0, 0, 0, 0.9);
+                border: 2px solid #1e90ff;
             }
         }
-        /* Rest of your styles */
         .content {
             position: relative;
             z-index: 1;
-            user-select: none; /* Disable text selection */
+            user-select: none;
         }
         .overlay {
             position: absolute;
@@ -61,7 +59,7 @@
             right: 0;
             bottom: 0;
             background-color: rgba(255, 255, 255, 0);
-            z-index: 0; /* Set below the buttons */
+            z-index: 0;
         }
         @keyframes bounce {
             0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
@@ -72,13 +70,13 @@
             font-size: 7vw;
             animation: tilt 5s infinite ease-in-out;
             margin-bottom: 20px;
-            text-shadow: 0 0 5px #f4f4f4; /* Reduced outline */
+            text-shadow: 0 0 5px #f4f4f4;
         }
         .sub-header {
             font-size: 5vw;
             margin: 5px 0;
             animation: bounce 1s infinite;
-            text-shadow: 0 0 5px #f4f4f4; /* Reduced outline */
+            text-shadow: 0 0 5px #f4f4f4;
         }
         p {
             font-size: 4vw;
@@ -89,26 +87,34 @@
             text-decoration: none;
             padding: 12px 18px;
             border-radius: 5px;
-            color: white; /* Text color for buttons */
-            background-color: #2980b9; /* Button background for Sileo */
-            border: 2px solid #2980b9; /* Button border */
+            color: white;
+            background-color: #1BC0BC;
+            border: 2px solid #1BC0BC;
             transition: background-color 0.3s, transform 0.3s;
             display: inline-block;
             margin: 5px;
-            position: relative; /* Ensure buttons are above the overlay */
-            z-index: 2; /* Bring buttons above overlay */
+            position: relative;
+            z-index: 2;
         }
         a.zebra {
-            color: white; /* Text color for Zebra */
-            background-color: #555; /* Solid grey for Zebra */
-            border: 2px solid #555; /* Border for Zebra */
+            color: white;
+            background-color: #555;
+            border: 2px solid #555;
+        }
+        a.discord {
+            background-color: #7289DA;
+            border: 2px solid #7289DA;
         }
         a:hover {
-            background-color: #2980b9; /* Keep Sileo button hover the same */
+            background-color: #1BC0BC;
+            transform: scale(1.03);
+        }
+        a.discord:hover {
+            background-color: #7289DA;
             transform: scale(1.03);
         }
         a.zebra:hover {
-            background-color: #555; /* Keep Zebra button hover the same */
+            background-color: #555;
             transform: scale(1.03);
         }
         @keyframes tilt {
@@ -171,13 +177,11 @@
         <p>
             <a href="sileo://source/https://shalamand3r.github.io/">sileo</a>
             <a class="zebra" href="zbra://sources/add/https://shalamand3r.github.io/">zebra</a>
-            <a href="https://discord.com/invite/twwttTGSuk" style="background-color: #7289DA;">discord</a>
+            <a class="discord" href="https://discord.com/invite/twwttTGSuk">discord</a>
         </p>
     </div>
     <div class="overlay"></div>
-    <div class="notification" id="clickNotification">
-        Left Click
-    </div>
+    <div class="notification" id="clickNotification">Left Click</div>
     <script>
         let cursorX = 0;
         let cursorY = 0;
@@ -191,7 +195,7 @@
         function createEmoji() {
             const emoji = document.createElement('div');
             emoji.classList.add('emoji');
-            emoji.textContent = '🍆'; // Eggplant emoji
+            emoji.textContent = '🍆';
 
             const randomX = Math.random() * window.innerWidth;
             emoji.style.left = `${randomX}px`;
@@ -229,33 +233,14 @@
 
             document.body.appendChild(explosion);
 
-            explosion.addEventListener('animationend', () => {
+            setTimeout(() => {
                 explosion.remove();
-            });
+            }, 500);
 
             emoji.remove();
         }
 
-        function setSpawnInterval() {
-            spawnInterval = window.innerWidth < 768 ? 1000 : 500;
-            clearInterval(createEmojiInterval);
-            createEmojiInterval = setInterval(createEmoji, spawnInterval);
-        }
-
-        let createEmojiInterval = setInterval(createEmoji, spawnInterval);
-        setSpawnInterval();
-
-        window.addEventListener('resize', setSpawnInterval);
-
-        function showClickNotification() {
-            const clickNotification = document.getElementById('clickNotification');
-            clickNotification.classList.add('active');
-            setTimeout(() => {
-                clickNotification.classList.remove('active');
-            }, 1000);
-        }
-
-        document.addEventListener('click', showClickNotification);
+        spawnInterval = setInterval(createEmoji, 1000);
     </script>
 </body>
 </html>
