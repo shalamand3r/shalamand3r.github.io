@@ -1,0 +1,35 @@
+Package: com.rpgfarm.a-font
+Version: 1.10.1
+Architecture: iphoneos-arm64e
+Maintainer: Baw Appie
+Installed-Size: 2476
+Depends: mobilesubstrate, preferenceloader
+Size: 1041120
+MD5sum: 01b1c8b7b6552093d04de9f5be50ff65
+SHA1: c3f43c400bb689d9d1aca56fc72916d2320a89df
+SHA256: 90bd627e7bb1eed784f42e974d4faec3810953292bccf3c71103ff641e576d41
+Section: Customization
+Description: Change your font system wide!
+Author: Baw Appie
+Depiction: https://repo.co.kr/depictions/com.rpgfarm.a-font
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fi.repo.co.kr%2Fimages%2Fcom.rpgfarm.a-font-icon-afont.png.png&s=120x120&f=webp
+Name: A-Font
+
+Package: emt.paisseon.satella
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: Lilliana
+Installed-Size: 412
+Depends: ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
+Conflicts: ai.paisseon.satella
+Size: 65334
+MD5sum: 184034689423b68624c9db4bb0bb3520
+SHA1: 4d00c57c00784b0378be9c7fe69c7d565e285909
+SHA256: 80248e666f545d8b2a7286244cb6e6bb1867514f1f63cfe77acf718ebf9d4cc1
+Section: Tweaks
+Description: Modern in-app purchase cracker
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/satella.json&name=Satella&dev=Paisseon
+Icon: https://paisseon.github.io/icons/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/depictions/satella.json
