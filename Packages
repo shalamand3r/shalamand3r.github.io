@@ -1,0 +1,36 @@
+Package: com.rpgfarm.a-font
+Version: 1.10.1
+Architecture: iphoneos-arm64e
+Maintainer: Baw Appie
+Depends: mobilesubstrate, preferenceloader, rootless-compat, com.roothide.patchloader
+Filename: debs/com.rpgfarm.a-font.deb
+Section: Customization
+Description: Change your font system wide!
+Author: Baw Appie
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fi.repo.co.kr%2Fimages%2Fcom.rpgfarm.a-font-icon-afont.png.png&s=120x120&f=webp
+Name: A-font
+Installed-Size: 2476
+Size: 1334478
+MD5Sum: fdaed2efc7a40db7a7689b3e08bad800
+SHA1: 938ecaa8e9678ea219a0ae5b2750f63c67f32f12
+SHA256: fbd4af1bc659c80fc6e366eda652531a834bc46a227ddf587ec803553e49fe5f
+
+Package: xyz.cypwn.satella
+Version: 1.9.0
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7), rootless-compat, com.roothide.patchloader
+Conflicts: ai.paisseon.satella
+Filename: debs/emt.paisseon.satella.deb
+Section: Tweaks
+Description: Modern in-app purchase cracker
+Author: Paisseon
+Icon: https://github.com/Paisseon/paisseon.github.io/blob/emt/icons/Satella.png?raw=true
+Name: Satella
+Installed-Size: 456
+Size: 89362
+MD5Sum: 611ae99efee10c059f4a517b2756b503
+SHA1: cd16b83bcd1d70ee38683d6e6cb7860ecda8b19d
+SHA256: 33fefae3c6ac1226d8fc4e6fd881fea59f5e27b5f974cc4f4764005a010aa56d
+
+
