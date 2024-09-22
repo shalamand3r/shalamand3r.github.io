@@ -23,6 +23,32 @@
             overflow: hidden;
             position: relative;
         }
+        /* Dark mode styles */
+        @media (prefers-color-scheme: dark) {
+            body {
+                background-color: #333;
+                color: #f4f4f4;
+            }
+            a {
+                color: white; /* Text color for dark mode */
+                background-color: #1e90ff; /* Button background for Sileo in dark mode */
+                border: 2px solid #1e90ff; /* Button border for dark mode */
+            }
+            a.zebra {
+                background-color: #555; /* Solid grey for Zebra in dark mode */
+            }
+            a:hover {
+                background-color: #1e90ff; /* Matching Sileo hover color */
+            }
+            a.zebra:hover {
+                background-color: #555; /* Matching Zebra hover color */
+            }
+            .notification {
+                background-color: rgba(0, 0, 0, 0.9); /* Notification background for dark mode */
+                border: 2px solid #1e90ff; /* Notification border for dark mode */
+            }
+        }
+        /* Rest of your styles */
         .content {
             position: relative;
             z-index: 1;
@@ -46,13 +72,13 @@
             font-size: 7vw;
             animation: tilt 5s infinite ease-in-out;
             margin-bottom: 20px;
-            text-shadow: 0 0 10px #f4f4f4;
+            text-shadow: 0 0 5px #f4f4f4; /* Reduced outline */
         }
         .sub-header {
             font-size: 5vw;
             margin: 5px 0;
             animation: bounce 1s infinite;
-            text-shadow: 0 0 10px #f4f4f4;
+            text-shadow: 0 0 5px #f4f4f4; /* Reduced outline */
         }
         p {
             font-size: 4vw;
@@ -63,9 +89,9 @@
             text-decoration: none;
             padding: 12px 18px;
             border-radius: 5px;
-            color: #2980b9;
-            background-color: #f4f4f4;
-            border: 2px solid #2980b9;
+            color: white; /* Text color for buttons */
+            background-color: #2980b9; /* Button background for Sileo */
+            border: 2px solid #2980b9; /* Button border */
             transition: background-color 0.3s, transform 0.3s;
             display: inline-block;
             margin: 5px;
@@ -73,11 +99,16 @@
             z-index: 2; /* Bring buttons above overlay */
         }
         a.zebra {
-            color: #555;
-            border: 2px solid #555;
+            color: white; /* Text color for Zebra */
+            background-color: #555; /* Solid grey for Zebra */
+            border: 2px solid #555; /* Border for Zebra */
         }
         a:hover {
-            background-color: #e0e0e0;
+            background-color: #2980b9; /* Keep Sileo button hover the same */
+            transform: scale(1.03);
+        }
+        a.zebra:hover {
+            background-color: #555; /* Keep Zebra button hover the same */
             transform: scale(1.03);
         }
         @keyframes tilt {
@@ -210,27 +241,20 @@
             createEmojiInterval = setInterval(createEmoji, spawnInterval);
         }
 
-        let createEmojiInterval;
+        let createEmojiInterval = setInterval(createEmoji, spawnInterval);
         setSpawnInterval();
+
         window.addEventListener('resize', setSpawnInterval);
 
-        window.addEventListener('click', (event) => {
-            showNotification("Left Click");
-        });
-
-        window.addEventListener('contextmenu', (event) => {
-            event.preventDefault();
-            showNotification("Right Click");
-        });
-
-        function showNotification(message) {
-            const notification = document.getElementById('clickNotification');
-            notification.textContent = message;
-            notification.classList.add('active');
+        function showClickNotification() {
+            const clickNotification = document.getElementById('clickNotification');
+            clickNotification.classList.add('active');
             setTimeout(() => {
-                notification.classList.remove('active');
-            }, 2000);
+                clickNotification.classList.remove('active');
+            }, 1000);
         }
+
+        document.addEventListener('click', showClickNotification);
     </script>
 </body>
 </html>
