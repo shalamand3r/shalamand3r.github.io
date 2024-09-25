@@ -57,13 +57,8 @@
           "class": "DepictionTableTextView"
         },
         {
-          "title": "Last Update",
+          "title": "Last Updated",
           "text": "09/25/24",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "License",
-          "text": "Free",
           "class": "DepictionTableTextView"
         },
         {
@@ -73,14 +68,15 @@
         },
         {
           "title": "Compatibility",
-          "text": "17.0+",
+          "text": "17.0",
           "class": "DepictionTableTextView"
         },
         {
           "class": "DepictionTableButtonView",
           "title": "Support",
-          "action": "discord://discord.gg/twwttTGSuk",
-          "openExternal": true
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#CBA0DD"
         },
         {
           "spacing": 16,
@@ -111,23 +107,34 @@
     },
     {
       "tabname": "Changelog",
+      "class": "DepictionStackView",
       "views": [
         {
-          "title": "2.0.0",
-          "text": "",
-          "class": "DepictionTableTextView"
+          "class": "DepictionSubheaderView",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "title": "2.0.0"
         },
         {
-          "markdown": "17.0 support!",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionMarkdownView",
+          "markdown": "- 17.0 support!"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "title": "1.0.0"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Initial release with dedicated settings for tweaks."
         },
         {
           "spacing": 8,
           "class": "DepictionSpacerView"
         }
       ],
-      "class": "DepictionStackView"
+      "tintColor": "#CBA0DD"
     }
   ],
   "class": "DepictionTabView"
