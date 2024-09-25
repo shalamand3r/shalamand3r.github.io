@@ -1,0 +1,378 @@
+Package: com.rpgfarm.a-font
+Version: 1.10.1
+Architecture: iphoneos-arm64e
+Maintainer: Baw Appie
+Depends: mobilesubstrate, preferenceloader, rootless-compat, com.roothide.patchloader
+Filename: debs/com.rpgfarm.a-font.deb
+Section: Customization
+Description: Change your font system wide!
+Author: Baw Appie
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fi.repo.co.kr%2Fimages%2Fcom.rpgfarm.a-font-icon-afont.png.png&s=120x120&f=webp
+Name: A-font
+Installed-Size: 2476
+Size: 1334478
+MD5Sum: fdaed2efc7a40db7a7689b3e08bad800
+SHA1: 938ecaa8e9678ea219a0ae5b2750f63c67f32f12
+SHA256: fbd4af1bc659c80fc6e366eda652531a834bc46a227ddf587ec803553e49fe5f
+Depiction: https://repo.co.kr/depictions/com.rpgfarm.a-font
+SileoDepiction: https://repo.co.kr/api/package/getSileoDepictions/com.rpgfarm.a-font
+
+Package: xyz.cypwn.satella
+Version: 1.9.0
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7), rootless-compat, com.roothide.patchloader
+Conflicts: ai.paisseon.satella
+Filename: debs/xyz.cypwn.satella_1.9.0.deb
+Section: Tweaks
+Description: Modern in-app purchase cracker!
+Author: Paisseon
+Icon: https://github.com/Paisseon/paisseon.github.io/blob/emt/icons/Satella.png?raw=true
+Name: Satella
+Installed-Size: 456
+Size: 89362
+MD5Sum: 611ae99efee10c059f4a517b2756b503
+SHA1: cd16b83bcd1d70ee38683d6e6cb7860ecda8b19d
+SHA256: 33fefae3c6ac1226d8fc4e6fd881fea59f5e27b5f974cc4f4764005a010aa56d
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
+Sileodepiction: https://paisseon.github.io/depictions/Satella.json
+
+Package: com.ichitaso.youtubepatcher
+Version: 0.5
+Architecture: iphoneos-arm64e
+Maintainer: ichitaso
+Depends: rootless-compat, com.roothide.patchloader
+Filename: debs/com.ichitaso.youtubepatcher.deb
+Section: Tweaks
+Description: Block ads and allow background playback
+Author: ichitaso
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fichitaso%2Ffile%2Fmain%2Fimages%2FYoutubePatcher.png&s=120x120&f=webp
+Name: YouTubePatcher
+Installed-Size: 72
+Size: 5292
+MD5Sum: 83847bc5ec4ff55cc1a4460c4304c106
+SHA1: a07a0d961c6e5cbf47aef38d9bfb6971da33e97f
+SHA256: 4deba6e20d7e044bc77051aa6c214e094816401520bee211e28aba27cb94a369
+Depiction: https://cydia.ichitaso.com/depiction/youtubepatcher.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/youtubepatcher.json
+
+Package: com.mtac.alpine
+Version: 1.4
+Architecture: iphoneos-arm64e
+Maintainer: MTAC
+Depends: rootless-compat, com.roothide.patchloader
+Filename: debs/com.mtac.alpine.deb
+Section: Tweaks
+Description: tvOS alerts for iOS
+Author: MTAC
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/alpine.png?raw=true
+Name: Alpine
+Installed-Size: 1112
+Size: 653686
+MD5Sum: c4c7cd2c90b31faa7919ade18dda59e9
+SHA1: 12f834eb216b7fe5d602fefdf0ad4e685f8ba2bf
+SHA256: a29cfd450764718569fb178c70397e9747cc5204492f4b30342581f0a810c504
+Depiction: https://havoc.app/depiction/alpine
+SileoDepiction: https://havoc.app/package/alpine/depiction.json
+
+Package: com.mtac.lynxtwo
+Version: 2.5.2
+Architecture: iphoneos-arm64e
+Maintainer: MTAC
+Depends: rootless-compat, com.roothide.patchloader, ws.hbang.common
+Filename: debs/com.mtac.lynxtwo.deb
+Section: Tweaks
+Description: Ultimate iDevice customization
+Author: MTAC
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F64a1d7f9351a82652447cb09&s=120x120&f=webp
+Name: Lynx 2
+Installed-Size: 2744
+Size: 1603252
+MD5Sum: 22ef78225ebc9dc12b53a37fa6504f2b
+SHA1: 97b0a30a5fc6c11abebfa5a9c54dc94f3d0c65a6
+SHA256: 4639a146e6bf1428713307715446346eef38b25541c148cd0e5608de8eaa73da
+Depiction: https://havoc.app/depiction/lynxtwo
+SileoDepiction: https://havoc.app/package/lynxtwo/depiction.json
+
+Package: com.ps.emodeji
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Depends: rootless-compat, com.roothide.patchloader
+Filename: debs/com.ps.emodeji.deb
+Section: Tweaks
+Description: Turn camera app labels (photo, video) into emojis
+Author: PoomSmart
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Femojiport-fonts-repo.png&s=120x120&f=webp
+Name: eModeji
+Installed-Size: 168
+Size: 7366
+MD5Sum: 65b548ac43bbc3986da4d62ddc6dc83b
+SHA1: 2e12da670a8a21a8390eaa7889e2562c14ea6252
+SHA256: 57f457464ded4a718e57536c5fa6fcb0e3396b8e5e9c42e642a8b889ea457f6e
+
+Package: com.yourepo.johnnyb186.barmojiios15
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: DigitalDarkroom
+Depends: rootless-compat, com.roothide.patchloader
+Filename: debs/com.digitaldarkroor.barmoji.deb
+Section: Tweaks
+Description: Quick emoji access on notched devices
+Author: DigitalDarkroom
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Fmedia%2Fcom.cpdigitaldarkroom.barmoji%2Ficon.png&s=120x120&f=webp
+Name: Barmoji
+Size: 56636
+MD5Sum: 7b60233ccfc7e7c89ebb1002959e02c0
+SHA1: b842bed3675bc594ac25c110c02103036cec0d6a
+SHA256: b8342e9ec1ed4f85cb24ba7d0214ed516f082c0896b8031d0a1cafed2a0dcc41
+Depiction: https://repo.packix.com/package/com.cpdigitaldarkroom.barmoji
+SileoDepiction: https://repo.packix.com/depictions/com.cpdigitaldarkroom.barmoji/depiction.json
+
+Package: com.ryannair05.cask3
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Ryan Nair
+Depends: rootless-compat, com.roothide.patchloader, dev.theos.orion14
+Filename: debs/com.ryannair05.cask3.deb
+Section: Tweaks
+Description: Animated table scrolling!
+Author: Ryan Nair
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fimg.chariz.cloud%2Ficon%2Fcask-3%2Ficon%403x.png&s=120x120&f=webp
+Name: Cask3 
+Installed-Size: 862
+Size: 345620
+MD5Sum: 30c393c32f7f873fa74a505ffe23d1dd
+SHA1: 19ff90e619f0b3e479121c3469c899de24b86854
+SHA256: 83b9accb711116615f12c7d91b01a6f42141d73bed5576da49e12d784c7b9bc6
+Depiction: https://chariz.com/get/cask-3
+SileoDepiction: https://chariz.com/api/sileo/package/com.ryannair05.cask3/depiction.json
+
+Package: com.yourepo.b4db1r3r3p0.oleddarkmode
+Version: 0.5.1-11
+Architecture: iphoneos-arm64e
+Maintainer: fr0st & b4db1r3
+Depends: rootless-compat, com.roothide.patchloader
+Filename: debs/com.yourepo.b4db1r3r3p0.oleddarkmode.deb
+Section: Tweaks
+Description: A true dark mode for OLED devices
+Author: fr0st & b4db1r3
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fskitty.xyz%2Frepo%2Ficons%2Fcom.skitty.dune.png&s=120x120&f=webp
+Name: OLED Dark Mode 
+Installed-Size:
+Size: 12144
+MD5Sum: 798f39146f6c1910b1cb4cc850024813
+SHA1: 2612cca90ac70dfcd243401092f2d32c7677e011
+SHA256: 78acbe2503ff069f5387ab73bc35b4315bbf525293b62d42b54839eaaaa46c73
+Depiction: https://b4db1r3r3p0.yourepo.com/pack/oleddarkmode
+SileoDepiction: https://b4db1r3r3p0.yourepo.com/sileo/depiction/oleddarkmode
+
+Package: com.galacticdev.isponsorblock
+Version: 1.2.8
+Architecture: iphoneos-arm64e
+Maintainer: iCraze
+Depends: rootless-compat, com.roothide.patchloader, ws.hbang.alderis
+Filename: debs/com.galacticdev.isponsorblock.deb
+Section: Tweaks
+Description: Skips "this video is sponsored by..." on youtube
+Author: iCraze
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fajayyy%2FSponsorBlock%2Fmaster%2Fpublic%2Ficons%2FLogoSponsorBlocker64px.png&s=120x120&f=webp
+Name: iSponsorBlock
+Installed-Size: 368
+Size: 125114
+MD5Sum: e6237a64bf4286c5164e498b57aacdad
+SHA1: 49593dee2c99f66313c6d26ed9c8f9c0cdabadcc
+SHA256: 837e30a7671c7a9ae131e656f57dd798e2f8b95ee305b9cc4c758e3428cb026a
+
+Package: me.gmoran.colorboard
+Version: 0.0.4
+Architecture: iphoneos-arm64e
+Maintainer: Guillermo Moran
+Depends: rootless-compat, com.roothide.patchloader, com.opa334.choicy, com.creaturecoding.tweaksettings
+Filename: debs/me.gmoran.colorboard.deb
+Section: Tweaks
+Description: Adaptive keyboard color based on app icon. SYSTEM APPS WILL CRASH IF COLORBOARD IS INJECTED INTO THEM. USE THE TWEAKSETTINGS APP TO BLOCK COLORBOARD FROM BEING INJECTED INTO SYSTEM APPS SUCH AS SETTINGS, MESSAGES, SIRI, ETC. BY USING CHOICY. IF THIS SOUNDS TOO COMPLICATED, IT'S PROBABLY BEST YOU USE DON'T INSTALL THIS TWEAK.
+Author: Guillermo Moran
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo.packix.com%2Fmedia%2Fcom.ikilledappl3.glitchykeys%2Ficon.png&s=120x120&f=webp
+Name: ColorBoard
+Installed-Size: 136
+Size: 6352
+MD5Sum: dfb36ed6cd503ba067145b14bea9dadf
+SHA1: 494a55924dc833cc89dd61a998e14ede502a074c
+SHA256: 6c48f104e7eee55105a75b19ba46616220ef8fad05f95cc46b508c1994b03987
+
+Package: com.creaturecoding.tweaksettings
+Version: 1.0.8
+Architecture: iphoneos-arm64e
+Maintainer: CreatureSurvive
+Depends: rootless-compat, com.roothide.patchloader
+Filename: debs/com.creaturecoding.tweaksettings.deb
+Section: Tweaks
+Description: Dedicated settings app for tweaks
+Author: CreatureSurvive
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/tweaksettings.png?raw=true
+Name: TweakSettings
+Installed-Size: 1064
+Size: 449224
+MD5Sum: caa5f5451a92da90b0440c14bc5fadf8
+SHA1: 6d2ca2ca0eec9aa1e32974ccb51fbad7926cf8dd
+SHA256: c810e45079ca86a3c49851b490d78ddbec7334de482db9bd0b1403866965fbac
+Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
+
+Package: com.raulsaeed.bhtiktok++
+Version: 1.1-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: raul saeed
+Depends: rootless-compat, com.roothide.patchloader
+Filename: debs/com.raulsaeed.bhtiktok++.deb
+Section: Tweaks
+Description: An awesome tweak for TikTok!
+Author: raul saeed
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo-archive-cdn.dynastic.co%2F792656d39dd4546c53411e48e35a9afa.png_120.png&s=120x120&f=webp
+Name: BHTikTok++
+Installed-Size: 916
+Size: 175272
+MD5Sum: fb0d1e20b6309b43ca10c796423217e8
+SHA1: 42391f6566ba48b0ab4d6a824465b6cfa73266fc
+SHA256: 7704e8dc7282f1f9a9232964d69b13d401b59181f9229e7b3ef4828f8ee9e89d
+
+Package: com.cydiageek.fastdeletekey
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: CydiaGeek
+Depends: rootless-compat, com.roothide.patchloader
+Filename: debs/com.cydiageek.fastdeletekey.deb
+Section: Tweaks
+Description: A better delete key
+Author: CydiaGeek
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/fastdeletekey.png?raw=true
+Name: FastDeleteKey
+Installed-Size: 637
+Size: 86832
+MD5Sum: 3d8f8d388749d1b89c6ca251713997e4
+SHA1: 7d7c798037d2a865a016999a06f64cbbba852700
+SHA256: 077db7f3568b8762d5e2f0930141d754cdc2a1fc826e028b0799302794f2c79c
+
+Package: tw.hiraku.keyboardaccio
+Version: 2.4.6
+Architecture: iphoneos-arm64e
+Maintainer: Hiriaku
+Depends: rootless-compat, com.roothide.patchloader
+Filename: debs/tw.hiraku.keyboardaccio.deb
+Section: Tweaks
+Description: Switch between your first two keyboards with ease
+Author: Hiraku
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmtac.app%2Frepo%2Fassets%2Fcom.mtac.prefs.localizer%2Ficon-rounded.png&s=120x120&f=webp
+Name: Keyboard Accio
+Installed-Size: 174
+Size: 7240
+MD5Sum: dec859c53c0510f0db7e9d5367298aa5
+SHA1: 92410e1a9bca0f4f3ad43762761f958df9da453c
+SHA256: e375f8d0a755496786da0f988a8964376dfdb15901f3c146faaeabd5e7115efc
+
+Package: com.creaturecoding.shuffle
+Version: 1.6.2
+Architecture: iphoneos-arm64e
+Maintainer: CreatureSurvive
+Depends: rootless-compat, com.roothide.patchloader, com.creaturecoding.libcspreferences
+Filename: debs/com.creaturecoding.shuffle.deb
+Section: Tweaks
+Description: Organize your settings
+Author: CreatureSurvive
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fi.imgur.com%2FuFWkBXD.png&s=120x120&f=webp
+Name: Shuffle
+Installed-Size: 1484
+Size: 319534
+MD5Sum: 805e23e5f4737f981c5e2706547d261c
+SHA1: c7a67a795bff33ceee6ff1f3a0491a64eb058a4a
+SHA256: 89bec1e38f53914afdf0d8ee5fae500971ad2f321b43259a7fe64027d7469706
+Depiction: https://creaturecoding.com/?page=depiction&id=shuffle
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
+
+Package: com.creaturecoding.libcspreferences
+Version: 1.5.8
+Architecture: iphoneos-arm64e
+Maintainer: CreatureSurvive
+Depends: rootless-compat, com.roothide.patchloader
+Filename: debs/com.creaturecoding.libcspreferences.deb
+Section: Libraries
+Description: A preference library that doesn't suck!
+Author: CreatureSurvive
+Tag: role::developer
+Name: libCSPreferences
+Installed-Size: 2332
+Size: 977094
+MD5Sum: e6da86127085407b6b2fd21d5cb0ca13
+SHA1: 2fc3a39f22ba73c16c9970c4ac204ed0625f1605
+SHA256: 171596916dfbd674d3045aa60b894ad4228c6c2b51ac1deb95b1f14b3c69bd64
+Depiction: https://creaturecoding.com/?page=depiction&id=libcspreferences
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcspreferences
+
+Package: com.kingpuffdaddi.hotspotqr
+Version: 1.1.3
+Architecture: iphoneos-arm64e
+Maintainer: KingPuffdaddi
+Depends: rootless-compat, com.roothide.patchloader
+Filename: debs/com.kingpuffdaddi.hotspotqr.deb
+Section: Tweaks
+Description: Generate a QR code for joining your hotspot
+Author: KingPuffdaddi
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.bolencki13.axinen.quickshare2.png&s=120x120&f=webp
+Name: HotspotQR
+Installed-Size: 173
+Size: 10600
+MD5Sum: 3dd3d018592bd97273fea62173a66daf
+SHA1: 3fcce957d4bfa92cc508bf9df05bee7cccdc8b7e
+SHA256: 971f037c0411f82847d2ca391eb162f492aa439894ef0b591b5aa34cc676a32f
+
+Package: com.kingpuffdaddi.wifiqr
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: KingPuffdaddi
+Depends: rootless-compat, com.roothide.patchloader
+Filename: debs/com.kingpuffdaddi.wifiqr.deb
+Section: Tweaks
+Description: Generate a QR code for joining your current WiFi
+Author: KingPuffdaddi
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.bolencki13.axinen.quickshare2.png&s=120x120&f=webp
+Name: WiFiQR
+Installed-Size: 388
+Size: 33494
+MD5Sum: afc9811d2cf0e9dc1b1531a6d74b58b6
+SHA1: a311eb615b360bd3ea841a54b3e3c8a8c9bf838e
+SHA256: 3f8b9a7aec12a6fb53199a46f9fdae60f15d2ad7012cdfa3aa98290e633ec22e
+
+Package: com.ps.recordpause
+Version: 2.0.3
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Depends: rootless-compat, com.roothide.patchloader
+Filename: debs/com.ps.recordpause.deb
+Section: Tweaks
+Description: Pause/resume video recording by tapping the elapsed time in the iOS camera app.
+Author: PoomSmart
+Name: RecordPause
+Installed-Size: 
+Size: 13316
+MD5Sum: e5c5b8c0abdeaf78798b1d9ddaf46f0e
+SHA1: 0777e47e53d1da52c40c587fe63a30076d46b4cc
+SHA256: 3875db90a6c27ae0388e3c14594d5ee47f22e2ae9128f0935c7ca9d912e2c00f
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Forg.thebigboss.recordpause.png&s=120x120&f=webp
+
+Package: twitter.nowesr1.photosplus
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: nowesr1
+Depends: rootless-compat, com.roothide.patchloader
+Filename: debs/twitter.nowesr1.photosplus.deb
+Section: Tweaks
+Description: Awesome tweak for the stock photos app!
+Author: nowesr1
+Name: PhotosPlus
+Installed-Size: 
+Size: 31964
+MD5Sum: b2f7fd6787eb24e1b869612ab83f0544
+SHA1: 6d480e225b45d05c4dde9ddc0fe258bf4e7549a3
+SHA256: 83f8fb1e57b889715b8f9058be2a8f0d5e316281d87087dc1c3301bf5eb3b7ef
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/photosplus.png?raw=true
