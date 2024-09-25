@@ -1,0 +1,158 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://creaturecoding.com/content/projects/tweaksettings/tweaksettings_banner.png",
+  "tintColor": "#1c1c1e",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "markdown": "## Tweak Settings\nDedicated settings app for tweaks",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "url": "https://creaturecoding.com/content/projects/tweaksettings/screenshots/screen_1.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "url": "https://creaturecoding.com/content/projects/tweaksettings/screenshots/screen_2.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "url": "https://creaturecoding.com/content/projects/tweaksettings/screenshots/screen_3.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "url": "https://creaturecoding.com/content/projects/tweaksettings/screenshots/screen_4.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "url": "https://creaturecoding.com/content/projects/tweaksettings/screenshots/screen_5.png",
+              "accessibilityText": "Screenshot"
+            }
+          ]
+        },
+        {
+          "spacing": 8,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "markdown": "___\n## Tweak Settings \n\nA dedicated app for loading tweak preferences. \n\n___\n### Current Features\n\n- Load and edit tweak preferences\n- Search installed tweak preferences\n- Long press any tweak settings cell to open that settings page in the Settings app\n- Search tweaks from Spotlight and launch straight to the settings page\n- Universal URL's tweaks:root=/\n- (respring, safemode, uicache, ldrestart, reboot, userspace reboot, disable tweak injection) shortcut actions\n\n___\n\nTweak Settings is [open source](https://github.com/CreatureSurvive/TweakSettings) on Github",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Package Downloads",
+          "useMargins": true,
+          "useBottomMargin": true,
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionLabelView",
+          "useMargins": true,
+          "usePadding": false,
+          "textColor": "#adadad",
+          "alignment": 0,
+          "text": "Total downloads: (76,393)"
+        },
+        {
+          "class": "DepictionLabelView",
+          "useMargins": true,
+          "usePadding": false,
+          "textColor": "#adadad",
+          "alignment": 0,
+          "text": "Total downloads this version: (36,176)"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Version",
+          "text": "1.0.8",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Last Update",
+          "text": "05/07/23",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "License",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Developer",
+          "text": "Creature Survive",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Compatibility",
+          "text": "iOS 10.0 to 15.5",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Support",
+          "action": "mailto:support@creaturecoding.com?subject=Tweak+Settings+%281.0.8%29",
+          "openExternal": true
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionImageView",
+          "alignment": 1,
+          "cornerRadius": 0,
+          "height": 32,
+          "width": 32,
+          "URL": "https://creaturecoding.com/repo/CydiaIcon@2x.png"
+        },
+        {
+          "class": "DepictionLabelView",
+          "useMargins": false,
+          "usePadding": false,
+          "textColor": "aaa",
+          "fontSize": 8,
+          "alignment": 1,
+          "text": "CreatureCoding"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        }
+      ]
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "title": "2.0.0",
+          "text": "N/A",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "markdown": "Patched for roothide\n",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        }
+      ]
+    }
+  ]
+}
