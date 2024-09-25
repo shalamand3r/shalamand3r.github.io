@@ -52,43 +52,13 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "class": "DepictionSubheaderView",
-          "title": "Package Downloads",
-          "useMargins": true,
-          "useBottomMargin": true,
-          "useBoldText": true
-        },
-        {
-          "class": "DepictionLabelView",
-          "useMargins": true,
-          "usePadding": false,
-          "textColor": "#adadad",
-          "alignment": 0,
-          "text": "Total downloads: (76,393)"
-        },
-        {
-          "class": "DepictionLabelView",
-          "useMargins": true,
-          "usePadding": false,
-          "textColor": "#adadad",
-          "alignment": 0,
-          "text": "Total downloads this version: (36,176)"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
           "title": "Version",
-          "text": "1.0.8",
+          "text": "2.0.0",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Last Update",
-          "text": "05/07/23",
+          "text": "09/25/24",
           "class": "DepictionTableTextView"
         },
         {
@@ -103,13 +73,13 @@
         },
         {
           "title": "Compatibility",
-          "text": "iOS 10.0 to 15.5",
+          "text": "17.0+",
           "class": "DepictionTableTextView"
         },
         {
           "class": "DepictionTableButtonView",
           "title": "Support",
-          "action": "mailto:support@creaturecoding.com?subject=Tweak+Settings+%281.0.8%29",
+          "action": "safari://discord.gg/twwttTGSuk",
           "openExternal": true
         },
         {
@@ -144,20 +114,17 @@
       "views": [
         {
           "title": "2.0.0",
-          "text": "N/A",
+          "text": "",
           "class": "DepictionTableTextView"
         },
         {
-          "markdown": "- 17.0 support!\n",
+          "markdown": "17.0 support!",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
         {
           "spacing": 8,
           "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionSeparatorView"
         }
       ],
       "class": "DepictionStackView"
