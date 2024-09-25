@@ -8,7 +8,7 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "## Tweak Settings\nDedicated settings app for tweaks",
+          "markdown": "# TweakSettings\n## *Creature Survive*\n### Features:\n- Load and edit tweak preferences\n- Search installed tweak preferences\n- Long press any tweak settings cell to open that settings page in the Settings app\n- Search tweaks from Spotlight and launch straight to the settings page\n- Universal URL's `tweaks:root=/`\n- (respring, safemode, uicache, ldrestart, reboot, userspace reboot, disable tweak injection) shortcut actions\n\n___\n\nTweak Settings is [open source](https://github.com/CreatureSurvive/TweakSettings) on Github",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -38,15 +38,6 @@
               "accessibilityText": "Screenshot"
             }
           ]
-        },
-        {
-          "spacing": 8,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "markdown": "___\n## Current Features\n- Load and edit tweak preferences\n- Search installed tweak preferences\n- Long press any tweak settings cell to open that settings page in the Settings app\n- Search tweaks from Spotlight and launch straight to the settings page\n- Universal URL's `tweaks:root=/`\n- (respring, safemode, uicache, ldrestart, reboot, userspace reboot, disable tweak injection) shortcut actions\n\n___\n\nTweak Settings is [open source](https://github.com/CreatureSurvive/TweakSettings) on Github",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSeparatorView"
