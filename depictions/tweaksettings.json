@@ -79,7 +79,7 @@
         {
           "class": "DepictionTableButtonView",
           "title": "Support",
-          "action": "safari://discord.gg/twwttTGSuk",
+          "action": "discord://discord.gg/twwttTGSuk",
           "openExternal": true
         },
         {
