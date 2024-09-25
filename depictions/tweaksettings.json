@@ -1,14 +1,14 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://creaturecoding.com/content/projects/tweaksettings/tweaksettings_banner.png",
-  "tintColor": "#1c1c1e",
+  "tintColor": "#505052",
   "tabs": [
     {
       "class": "DepictionStackView",
       "tabname": "Details",
       "views": [
         {
-          "markdown": "# TweakSettings\n## *Creature Survive*\n### Features:\n- Load and edit tweak preferences\n- Search installed tweak preferences\n- Long press any tweak settings cell to open that settings page in the Settings app\n- Search tweaks from Spotlight and launch straight to the settings page\n- Universal URL's `tweaks:root=/`\n- (respring, safemode, uicache, ldrestart, reboot, userspace reboot, disable tweak injection) shortcut actions\n\n___\n\nTweak Settings is [open source](https://github.com/CreatureSurvive/TweakSettings) on Github",
+          "markdown": "### Features:\n- Load and edit tweak preferences\n- Search installed tweak preferences\n- Long press any tweak settings cell to open that settings page in the Settings app\n- Search tweaks from Spotlight and launch straight to the settings page\n- Universal URL's `tweaks:root=/`\n- (respring, safemode, uicache, ldrestart, reboot, userspace reboot, disable tweak injection) shortcut actions",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -67,7 +67,7 @@
           "title": "Support",
           "action": "https://discord.gg/twwttTGSuk",
           "openExternal": true,
-          "tintColor": "#1c1c1e"
+          "tintColor": "#505052"
         },
         {
           "spacing": 16,
@@ -115,7 +115,7 @@
           "class": "DepictionSpacerView"
         }
       ],
-      "tintColor": "#CBA0DD"
+      "tintColor": "#505052"
     }
   ],
   "class": "DepictionTabView"
