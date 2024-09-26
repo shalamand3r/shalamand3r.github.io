@@ -8,14 +8,14 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Load and edit tweak preferences\n- Search installed tweak preferences\n- Long press any tweak settings cell to open that settings page in the Settings app\n- Quick actions\n\n### Barmoji Features:\n- Adds a quick access emoji bar to the stock keyboard\n- Option to add a bottom bar (for iPhone X)\n- Other device users can replace the predictive text bar with Barmoji",
+          "markdown": "### Features:\n\n### Barmoji Features:\n- Adds a quick access emoji bar to the stock keyboard\n- Option to add a bottom bar (for iPhone X)\n- Other device users can replace the predictive text bar with Barmoji",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{127, 275}",
+          "itemSize": "{160, 346}",
           "screenshots": [
             {
               "url": "https://repo.packix.com/media/com.cpdigitaldarkroom.barmoji/screenshots/0.jpeg",
