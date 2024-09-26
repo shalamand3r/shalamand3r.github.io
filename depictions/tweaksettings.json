@@ -8,7 +8,7 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Load and edit tweak preferences\n- Search installed tweak preferences\n- Long press any tweak settings cell to open that settings page in the Settings app\n- Search tweaks from Spotlight and launch straight to the settings page\n- Universal URL's `tweaks:root=/`\n- (respring, safemode, uicache, ldrestart, reboot, userspace reboot, disable tweak injection) shortcut actions",
+          "markdown": "### Features:\n- Load and edit tweak preferences\n- Search installed tweak preferences\n- Long press any tweak settings cell to open that settings page in the Settings app\n- (respring, safemode, uicache, ldrestart, reboot, userspace reboot, disable tweak injection) shortcut actions",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -64,10 +64,13 @@
         },
         {
           "class": "DepictionTableButtonView",
-          "title": "Support",
+          "title": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
           "openExternal": true,
           "tintColor": "#505052"
+        },
+        {
+          "class": "DepictionSeparatorView"
         },
         {
           "spacing": 16,
