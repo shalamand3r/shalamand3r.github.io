@@ -79,7 +79,7 @@
           "cornerRadius": 0,
           "height": 32,
           "width": 32,
-          "URL": "https://creaturecoding.com/repo/CydiaIcon@2x.png"
+          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/tweaksettings.png?raw=true"
         },
         {
           "class": "DepictionLabelView",
@@ -88,7 +88,7 @@
           "textColor": "aaa",
           "fontSize": 8,
           "alignment": 1,
-          "text": "CreatureCoding"
+          "text": "TweakSettings"
         },
         {
           "spacing": 16,
