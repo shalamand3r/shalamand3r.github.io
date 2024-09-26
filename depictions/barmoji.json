@@ -8,7 +8,7 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "Compatible with **iOS 10, 11, 12 & 13**  \n\nBarmoji adds a quick access emoji bar to the stock keyboard  \n\niPhone X users have the option of adding a bottom bar as you've come to know and love, while other device users can replace the predictive text bar with Barmoji.",
+          "markdown": "### Features:\n- Load and edit tweak preferences\n- Search installed tweak preferences\n- Long press any tweak settings cell to open that settings page in the Settings app\n- Quick actions\n\n### Barmoji Features:\n- Adds a quick access emoji bar to the stock keyboard\n- Option to add a bottom bar (for iPhone X)\n- Other device users can replace the predictive text bar with Barmoji",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -43,7 +43,7 @@
         },
         {
           "title": "Compatibility",
-          "text": "iOS 10.0 - 13.5.1",
+          "text": "17.0",
           "class": "DepictionTableTextView"
         },
         {
