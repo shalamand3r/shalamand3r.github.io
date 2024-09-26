@@ -8,7 +8,7 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Load and edit tweak preferences\n- Search installed tweak preferences\n- Long press any tweak settings cell to open that settings page in the Settings app\n- (respring, safemode, uicache, ldrestart, reboot, userspace reboot, disable tweak injection) shortcut actions",
+          "markdown": "### Features:\n- Load and edit tweak preferences\n- Search installed tweak preferences\n- Long press any tweak settings cell to open that settings page in the Settings app\n- Quick actions",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
