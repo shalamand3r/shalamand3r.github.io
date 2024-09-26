@@ -70,9 +70,6 @@
           "tintColor": "#505052"
         },
         {
-          "class": "DepictionSeparatorView"
-        },
-        {
           "spacing": 16,
           "class": "DepictionSpacerView"
         },
