@@ -1,40 +1,24 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://creaturecoding.com/content/projects/tweaksettings/tweaksettings_banner.png",
-  "tintColor": "#505052",
+  "tintColor": "#dbdad6",
   "tabs": [
     {
       "class": "DepictionStackView",
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Load and edit tweak preferences\n- Search installed tweak preferences\n- Long press any tweak settings cell to open that settings page in the Settings app\n- Quick actions",
+          "markdown": "Compatible with **iOS 10, 11, 12 & 13**  \n\nBarmoji adds a quick access emoji bar to the stock keyboard  \n\niPhone X users have the option of adding a bottom bar as you've come to know and love, while other device users can replace the predictive text bar with Barmoji.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{160, 346}",
+          "itemSize": "{127, 275}",
           "screenshots": [
             {
-              "url": "https://creaturecoding.com/content/projects/tweaksettings/screenshots/screen_1.png",
-              "accessibilityText": "Screenshot"
-            },
-            {
-              "url": "https://creaturecoding.com/content/projects/tweaksettings/screenshots/screen_2.png",
-              "accessibilityText": "Screenshot"
-            },
-            {
-              "url": "https://creaturecoding.com/content/projects/tweaksettings/screenshots/screen_3.png",
-              "accessibilityText": "Screenshot"
-            },
-            {
-              "url": "https://creaturecoding.com/content/projects/tweaksettings/screenshots/screen_4.png",
-              "accessibilityText": "Screenshot"
-            },
-            {
-              "url": "https://creaturecoding.com/content/projects/tweaksettings/screenshots/screen_5.png",
+              "url": "https://repo.packix.com/media/com.cpdigitaldarkroom.barmoji/screenshots/0.jpeg",
               "accessibilityText": "Screenshot"
             }
           ]
@@ -44,22 +28,22 @@
         },
         {
           "title": "Version",
-          "text": "2.0.0",
+          "text": "2020.5",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Last Updated",
-          "text": "09/25/24",
+          "text": "June 21, 2020",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Developer",
-          "text": "Creature Survive",
+          "text": "MiRO92",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Compatibility",
-          "text": "17.0",
+          "text": "iOS 10.0 - 13.5.1",
           "class": "DepictionTableTextView"
         },
         {
@@ -67,7 +51,7 @@
           "title": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
           "openExternal": true,
-          "tintColor": "#505052"
+          "tintColor": "#dbdad6"
         },
         {
           "spacing": 16,
@@ -104,18 +88,18 @@
           "class": "DepictionSubheaderView",
           "useBoldText": true,
           "useBottomMargin": false,
-          "title": "2.0.0"
+          "title": "2020.5"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- 17.0 support!"
+          "markdown": "- Changes by MiRO92\n- Add option to set emojis per row\n- Add option to adjust left and right offsets\n- Add option to set custom height for bottom bar\n- Removed full width option, just 0 left and right insets for full width\n- Add option to hide the globe button\n- Add option to hide the dictation button\n- Fix Barmoji being displayed during dictation\n- Fix Barmoji being displayed while in landscape bottom bar"
         },
         {
           "spacing": 8,
           "class": "DepictionSpacerView"
         }
       ],
-      "tintColor": "#505052"
+      "tintColor": "#dbdad6"
     }
   ],
   "class": "DepictionTabView"
