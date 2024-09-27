@@ -8,7 +8,7 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Adds a quick access emoji bar to the stock keyboard\n- Option to add a bottom bar (for iPhone X)",
+          "markdown": "### Features:\n- Adds a quick access emoji bar to the stock keyboard",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -16,7 +16,7 @@
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
-          "tintColor": "#dbdad7"
+          "tintColor": "#5865f2"
         },
         {
           "class": "DepictionScreenshotsView",
@@ -34,7 +34,7 @@
         },
         {
           "title": "Version",
-          "text": "1.0.0",
+          "text": "2.0.0",
           "class": "DepictionTableTextView"
         },
         {
@@ -51,13 +51,6 @@
           "title": "Compatibility",
           "text": "17.0",
           "class": "DepictionTableTextView"
-        },
-        {
-          "class": "DepictionTableButtonView",
-          "title": "Join the Discord",
-          "action": "https://discord.gg/twwttTGSuk",
-          "openExternal": true,
-          "tintColor": "#dbdad7"
         },
         {
           "spacing": 16,
