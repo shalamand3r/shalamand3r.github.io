@@ -102,15 +102,15 @@
             border: 2px solid #555;
         }
         a.discord {
-            background-color: #7289DA;
-            border: 2px solid #7289DA;
+            background-color: #5865F2; /* Changed to #5865F2 */
+            border: 2px solid #5865F2; /* Changed to #5865F2 */
         }
         a:hover {
             background-color: #1BC0BC;
             transform: scale(1.03);
         }
         a.discord:hover {
-            background-color: #7289DA;
+            background-color: #5865F2; /* Changed to #5865F2 */
             transform: scale(1.03);
         }
         a.zebra:hover {
@@ -151,25 +151,6 @@
             0% { transform: scale(1); opacity: 1; }
             100% { transform: scale(2); opacity: 0; }
         }
-        .notification {
-            position: fixed;
-            bottom: 20px;
-            left: 20px;
-            background-color: rgba(255, 255, 255, 0.9);
-            border: 2px solid #2980b9;
-            border-radius: 5px;
-            padding: 10px;
-            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-            opacity: 0;
-            transform: translateY(20px);
-            transition: opacity 0.5s, transform 0.5s;
-            z-index: 10;
-        }
-        .notification.active {
-            opacity: 1;
-            transform: translateY(0);
-        }
-
         /* Total package count styling */
         .package-count {
             font-size: 1.1rem;
@@ -179,6 +160,15 @@
         @keyframes flash {
             0% { color: black; }
             100% { color: lightgrey; }
+        }
+
+        /* Fade in/out animation for iOS supported text */
+        @keyframes fadeInOut {
+            0%, 100% { opacity: 0; }
+            50% { opacity: 1; }
+        }
+        .package-count {
+            animation: fadeInOut 2s infinite;
         }
     </style>
 </head>
@@ -194,7 +184,6 @@
         <p class="package-count">17.0 supported</p>
     </div>
     <div class="overlay"></div>
-    <div class="notification" id="clickNotification">Left Click</div>
     <script>
         let cursorX = 0;
         let cursorY = 0;
