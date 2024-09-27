@@ -1,16 +1,22 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/barmoji.png?raw=true",
-  "tintColor": "#dbdad6",
+  "tintColor": "#dbdad7",
   "tabs": [
     {
       "class": "DepictionStackView",
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n\n### Barmoji Features:\n- Adds a quick access emoji bar to the stock keyboard\n- Option to add a bottom bar (for iPhone X)\n- Other device users can replace the predictive text bar with Barmoji",
+          "markdown": "### Features:\n- Adds a quick access emoji bar to the stock keyboard\n- Option to add a bottom bar (for iPhone X)",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "tintColor": "#dbdad7"
         },
         {
           "class": "DepictionScreenshotsView",
@@ -28,17 +34,17 @@
         },
         {
           "title": "Version",
-          "text": "2020.5",
+          "text": "1.0.0",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Last Updated",
-          "text": "June 21, 2020",
+          "text": "09/27/24",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Developer",
-          "text": "MiRO92",
+          "text": "DigitalDarkroom",
           "class": "DepictionTableTextView"
         },
         {
@@ -51,7 +57,7 @@
           "title": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
           "openExternal": true,
-          "tintColor": "#dbdad6"
+          "tintColor": "#dbdad7"
         },
         {
           "spacing": 16,
@@ -99,7 +105,7 @@
           "class": "DepictionSpacerView"
         }
       ],
-      "tintColor": "#dbdad6"
+      "tintColor": "#dbdad7"
     }
   ],
   "class": "DepictionTabView"
