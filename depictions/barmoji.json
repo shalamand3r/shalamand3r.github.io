@@ -94,11 +94,11 @@
           "class": "DepictionSubheaderView",
           "useBoldText": true,
           "useBottomMargin": false,
-          "title": "2020.5"
+          "title": "2.0.0"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- Changes by MiRO92\n- Add option to set emojis per row\n- Add option to adjust left and right offsets\n- Add option to set custom height for bottom bar\n- Removed full width option, just 0 left and right insets for full width\n- Add option to hide the globe button\n- Add option to hide the dictation button\n- Fix Barmoji being displayed during dictation\n- Fix Barmoji being displayed while in landscape bottom bar"
+          "markdown": "- 17.0 support!"
         },
         {
           "spacing": 8,
