@@ -20,7 +20,6 @@
         },
         {
           "class": "DepictionSeparatorView",
-          "tintColor": "#5b40d6"
         },
         {
           "title": "Version",
@@ -85,7 +84,6 @@
         },
         {
           "class": "DepictionSeparatorView",
-          "tintColor": "#5b40d6"
         },
         {
           "title": "Version",
