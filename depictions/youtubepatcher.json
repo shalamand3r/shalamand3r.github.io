@@ -75,7 +75,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.0\n- Patched to work with iOS 17.0! 🎉"
+          "markdown": "### 1.0\n- Now supports iOS 17.0! 🎉"
         },
         {
           "class": "DepictionButtonView",
