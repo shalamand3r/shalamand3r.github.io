@@ -8,7 +8,7 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Block ALL ads\n- Allow background playback\n- Support both YouTube and YouTube Music!",
+          "markdown": "### Features:\n- Block ALL ads\n- Allow background playback\n- Supports both YouTube and YouTube Music!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
