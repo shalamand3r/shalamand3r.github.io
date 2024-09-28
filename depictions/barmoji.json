@@ -1,43 +1,22 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/tweaksettings.png?raw=true",
-  "tintColor": "#505052",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/barmoji.png?raw=true",
+  "tintColor": "#dbdad7",
   "tabs": [
     {
       "class": "DepictionStackView",
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Load and edit tweak preferences\n- Search installed tweak preferences\n- Long press any tweak settings cell to open that settings page in the Settings app\n- Quick actions",
+          "markdown": "### Features:\n- Adds a quick access emoji bar to the stock keyboard",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
         {
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 8,
-          "itemSize": "{160, 346}",
-          "screenshots": [
-            {
-              "url": "https://creaturecoding.com/content/projects/tweaksettings/screenshots/screen_1.png",
-              "accessibilityText": "Screenshot"
-            },
-            {
-              "url": "https://creaturecoding.com/content/projects/tweaksettings/screenshots/screen_2.png",
-              "accessibilityText": "Screenshot"
-            },
-            {
-              "url": "https://creaturecoding.com/content/projects/tweaksettings/screenshots/screen_3.png",
-              "accessibilityText": "Screenshot"
-            },
-            {
-              "url": "https://creaturecoding.com/content/projects/tweaksettings/screenshots/screen_4.png",
-              "accessibilityText": "Screenshot"
-            },
-            {
-              "url": "https://creaturecoding.com/content/projects/tweaksettings/screenshots/screen_5.png",
-              "accessibilityText": "Screenshot"
-            }
-          ]
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "tintColor": "#5865f2"
         },
         {
           "class": "DepictionSeparatorView"
@@ -49,25 +28,18 @@
         },
         {
           "title": "Last Updated",
-          "text": "09/25/24",
+          "text": "09/27/24",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Developer",
-          "text": "Creature Survive",
+          "text": "DigitalDarkroom",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Compatibility",
           "text": "17.0",
           "class": "DepictionTableTextView"
-        },
-        {
-          "class": "DepictionTableButtonView",
-          "title": "Join the Discord",
-          "action": "https://discord.gg/twwttTGSuk",
-          "openExternal": true,
-          "tintColor": "#505052"
         },
         {
           "spacing": 16,
@@ -101,21 +73,25 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionSubheaderView",
-          "useBoldText": true,
-          "useBottomMargin": false,
-          "title": "2.0.0"
+          "class": "DepictionMarkdownView",
+          "markdown": "### 2.0.0"
         },
         {
           "class": "DepictionMarkdownView",
           "markdown": "- 17.0 support!"
         },
         {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "tintColor": "#5865f2"
+        },
+        {
           "spacing": 8,
           "class": "DepictionSpacerView"
         }
       ],
-      "tintColor": "#505052"
+      "tintColor": "#dbdad7"
     }
   ],
   "class": "DepictionTabView"
