@@ -8,7 +8,7 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- No ads\n- Background playback\n- Supports YouTube and YouTubeMusic!",
+          "markdown": "### Features:\n- Block ALL ads\n- Background playback\n- Supports YouTube and YouTube Music!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -24,12 +24,12 @@
         },
         {
           "title": "Version",
-          "text": "2.0.0",
+          "text": "1.0",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Last Updated",
-          "text": "09/27/24",
+          "text": "09/28/24",
           "class": "DepictionTableTextView"
         },
         {
@@ -75,7 +75,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 2.0.0\n- 17.0 support!"
+          "markdown": "### 1.0\n- Patched for iOS 17.0! 🎉"
         },
         {
           "class": "DepictionButtonView",
@@ -89,7 +89,7 @@
         },
         {
           "title": "Version",
-          "text": "2.0.0",
+          "text": "1.0",
           "class": "DepictionTableTextView"
         },
         {
