@@ -13,6 +13,10 @@
           "class": "DepictionMarkdownView"
         },
         {
+          "class": "DepictionSeparatorView",
+          "tintColor": "#505052"
+        },
+        {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
@@ -24,7 +28,7 @@
         },
         {
           "title": "Version",
-          "text": "2.0.0",
+          "text": "1.1",
           "class": "DepictionTableTextView"
         },
         {
@@ -75,7 +79,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 2.0.0\n- 17.0 support!"
+          "markdown": "### 1.1\n-  Now supports iOS 17.0! 🎉"
+        },
+        {
+          "class": "DepictionSeparatorView",
+          "tintColor": "#505052"
         },
         {
           "class": "DepictionButtonView",
@@ -89,7 +97,7 @@
         },
         {
           "title": "Version",
-          "text": "2.0.0",
+          "text": "1.1",
           "class": "DepictionTableTextView"
         },
         {
