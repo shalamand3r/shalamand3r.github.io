@@ -8,7 +8,7 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Change your font system-wide!",
+          "markdown": "### Features:\n- Change your font system-wide!\n- Import custom font .ttf files downloaded from *google fonts* to **/var/containers/Bundle/Application/.jbroot-XYZ/Library/A-Font** using filza",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -17,6 +17,12 @@
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
           "tintColor": "#5865f2"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Google Fonts",
+          "action": "https://fonts.google.com/",
+          "tintColor": "#EA4335"
         },
         {
           "class": "DepictionSeparatorView",
