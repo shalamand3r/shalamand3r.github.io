@@ -8,7 +8,7 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Use fullscreen or alert only background blur\n- Set type of background blur styling (iOS/tvOS)\n• Choose interface style (dark/light/system) for all alert elements\n• Tap anywhere outside alert view to dismiss\n- Hide cancel button globally (automatically enables tap to dismiss)\n- Use tvOS styling for share sheet background & actions",
+          "markdown": "### Features:\n- Use fullscreen or alert-only background blur\n- Set type of background blur styling (iOS/tvOS)\n- Choose interface style (dark/light/system) for all alert elements\n- Tap anywhere outside alert view to dismiss\n- Hide cancel button globally (automatically enables tap to dismiss)\n- Use tvOS styling for share sheet background & actions",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
