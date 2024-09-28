@@ -46,6 +46,9 @@
           "class": "DepictionSpacerView"
         },
         {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "class": "DepictionImageView",
           "alignment": 1,
           "cornerRadius": 0,
