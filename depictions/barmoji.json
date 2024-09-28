@@ -20,30 +20,6 @@
         },
         {
           "class": "DepictionSeparatorView"
-        }
-      ]
-    },
-    {
-      "tabname": "Changelog",
-      "class": "DepictionStackView",
-      "views": [
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### 2.0.0"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "- 17.0 support!"
-        },
-        {
-          "class": "DepictionButtonView",
-          "text": "Join the Discord",
-          "action": "https://discord.gg/twwttTGSuk",
-          "tintColor": "#5865f2"
-        },
-        {
-          "spacing": 8,
-          "class": "DepictionSpacerView"
         },
         {
           "title": "Version",
@@ -88,6 +64,30 @@
         },
         {
           "spacing": 16,
+          "class": "DepictionSpacerView"
+        }
+      ]
+    },
+    {
+      "tabname": "Changelog",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 2.0.0"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 17.0 support!"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "tintColor": "#5865f2"
+        },
+        {
+          "spacing": 8,
           "class": "DepictionSpacerView"
         }
       ],
