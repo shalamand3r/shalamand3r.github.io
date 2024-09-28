@@ -19,7 +19,8 @@
           "tintColor": "#5865f2"
         },
         {
-          "class": "DepictionSeparatorView"
+          "class": "DepictionSeparatorView",
+          "tintColor": "#dbdad7"
         },
         {
           "title": "Version",
@@ -74,11 +75,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 2.0.0"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "- 17.0 support!"
+          "markdown": "### 2.0.0\n- 17.0 support!"
         },
         {
           "class": "DepictionButtonView",
@@ -87,7 +84,52 @@
           "tintColor": "#5865f2"
         },
         {
-          "spacing": 8,
+          "class": "DepictionSeparatorView",
+          "tintColor": "#dbdad7"
+        },
+        {
+          "title": "Version",
+          "text": "2.0.0",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Last Updated",
+          "text": "09/27/24",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Developer",
+          "text": "DigitalDarkroom",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Compatibility",
+          "text": "17.0",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionImageView",
+          "alignment": 1,
+          "cornerRadius": 0,
+          "height": 32,
+          "width": 32,
+          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/barmoji.png?raw=true"
+        },
+        {
+          "class": "DepictionLabelView",
+          "useMargins": false,
+          "usePadding": false,
+          "textColor": "aaa",
+          "fontSize": 8,
+          "alignment": 1,
+          "text": "Barmoji"
+        },
+        {
+          "spacing": 16,
           "class": "DepictionSpacerView"
         }
       ],
