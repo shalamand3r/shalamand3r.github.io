@@ -8,7 +8,7 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Mask album artwork images in various third party music apps!d",
+          "markdown": "### Features:\n- Mask album artwork images in various third party music apps!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
