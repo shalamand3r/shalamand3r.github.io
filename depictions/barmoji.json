@@ -19,17 +19,6 @@
           "tintColor": "#5865f2"
         },
         {
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 8,
-          "itemSize": "{160, 346}",
-          "screenshots": [
-            {
-              "url": "https://repo.packix.com/media/com.cpdigitaldarkroom.barmoji/screenshots/0.jpeg",
-              "accessibilityText": "Screenshot"
-            }
-          ]
-        },
-        {
           "class": "DepictionSeparatorView"
         },
         {
@@ -62,7 +51,7 @@
           "cornerRadius": 0,
           "height": 32,
           "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/tweaksettings.png?raw=true"
+          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/barmoji.png?raw=true"
         },
         {
           "class": "DepictionLabelView",
@@ -71,7 +60,7 @@
           "textColor": "aaa",
           "fontSize": 8,
           "alignment": 1,
-          "text": "TweakSettings"
+          "text": "Barmoji"
         },
         {
           "spacing": 16,
@@ -84,14 +73,18 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionSubheaderView",
-          "useBoldText": true,
-          "useBottomMargin": false,
-          "title": "2.0.0"
+          "class": "DepictionMarkdownView",
+          "markdown": "### 2.0.0"
         },
         {
           "class": "DepictionMarkdownView",
           "markdown": "- 17.0 support!"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "tintColor": "#5865f2"
         },
         {
           "spacing": 8,
