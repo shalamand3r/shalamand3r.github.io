@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/barmoji.png?raw=true",
+  "headerImage": "https://github.com/shalamand3r/shalamand3er.github.io/blob/main/banners/barmoji.png?raw=true",
   "tintColor": "#dbdad7",
   "tabs": [
     {
@@ -17,9 +17,6 @@
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
           "tintColor": "#5865f2"
-        },
-        {
-          "class": "DepictionSeparatorView"
         },
         {
           "title": "Version",
@@ -44,9 +41,6 @@
         {
           "spacing": 16,
           "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionImageView",
@@ -77,11 +71,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 2.0.0"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "- 17.0 support!"
+          "markdown": "### 2.0.0\n- 17.0 support!"
         },
         {
           "class": "DepictionButtonView",
