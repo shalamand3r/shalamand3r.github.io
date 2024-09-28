@@ -8,9 +8,13 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Block ALL annoying ads\n- Allow background playback when app isn't open\n- Includes support for both YouTube and YouTube Music!",
+          "markdown": "### Features:\n- Block ALL ads\n- Allow background playback\n- Support both YouTube and YouTube Music!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView",
+          "tintColor": "#9e4a4d"
         },
         {
           "class": "DepictionButtonView",
