@@ -129,6 +129,12 @@
           "text": "SmallBoard"
         },
         {
+          "class": "DepictionRatingView",
+          "rating": 5,
+          "alignment": 1,
+          "tintColor": "#5a5854"
+        },
+        {
           "spacing": 16,
           "class": "DepictionSpacerView"
         }
