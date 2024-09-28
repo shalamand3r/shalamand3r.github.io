@@ -1,14 +1,14 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/lynx2.png?raw=true",
-  "tintColor": "#5b40d6",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/shuffle.png?raw=true",
+  "tintColor": "#8e8f92",
   "tabs": [
     {
       "class": "DepictionStackView",
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Ultimate iDevice customization! Only app specific features work. Categories like springboard and control center will not work for obvious reasons.",
+          "markdown": "### Features:\n- Organize your settings!\n- Copy your tweak list\n- Browse installed packages\n- Hide tweak preferences\n- View tweak info",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -33,7 +33,7 @@
         },
         {
           "title": "Developer",
-          "text": "MTAC",
+          "text": "CreatureSurvive",
           "class": "DepictionTableTextView"
         },
         {
@@ -51,7 +51,7 @@
           "cornerRadius": 0,
           "height": 32,
           "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/lynx2.png?raw=true"
+          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/shuffle.png?raw=true"
         },
         {
           "class": "DepictionLabelView",
@@ -60,7 +60,7 @@
           "textColor": "aaa",
           "fontSize": 8,
           "alignment": 1,
-          "text": "Lynx 2"
+          "text": "Shuffle"
         },
         {
           "spacing": 16,
@@ -97,7 +97,7 @@
         },
         {
           "title": "Developer",
-          "text": "MTAC",
+          "text": "CreatureSurvive",
           "class": "DepictionTableTextView"
         },
         {
@@ -115,7 +115,7 @@
           "cornerRadius": 0,
           "height": 32,
           "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/lynx2.png?raw=true"
+          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/shuffle.png?raw=true"
         },
         {
           "class": "DepictionLabelView",
@@ -124,14 +124,14 @@
           "textColor": "aaa",
           "fontSize": 8,
           "alignment": 1,
-          "text": "Lynx 2"
+          "text": "Shuffle"
         },
         {
           "spacing": 16,
           "class": "DepictionSpacerView"
         }
       ],
-      "tintColor": "#5b40d6"
+      "tintColor": "#8e8f92"
     }
   ],
   "class": "DepictionTabView"
