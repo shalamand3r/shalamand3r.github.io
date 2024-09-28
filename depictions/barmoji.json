@@ -19,17 +19,6 @@
           "tintColor": "#5865f2"
         },
         {
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 8,
-          "itemSize": "{160, 346}",
-          "screenshots": [
-            {
-              "url": "https://repo.packix.com/media/com.cpdigitaldarkroom.barmoji/screenshots/0.jpeg",
-              "accessibilityText": "Screenshot"
-            }
-          ]
-        },
-        {
           "class": "DepictionSeparatorView"
         },
         {
@@ -84,10 +73,8 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionSubheaderView",
-          "useBoldText": true,
-          "useBottomMargin": false,
-          "title": "2.0.0"
+          "class": "DepictionMarkdownView",
+          "markdown": "### 2.0.0"
         },
         {
           "class": "DepictionMarkdownView",
