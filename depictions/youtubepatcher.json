@@ -1,16 +1,20 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/youtubepatcher.png?raw=true",
-  "tintColor": "#9e4a4d",
+  "tintColor": "#641c24",
   "tabs": [
     {
       "class": "DepictionStackView",
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- No ads\n- Background playback\n- Supports YouTube and YouTubeMusic!",
+          "markdown": "### Features:\n- Block ALL ads\n- Allow background playback\n- Support both YouTube and YouTube Music!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView",
+          "tintColor": "#641c24"
         },
         {
           "class": "DepictionButtonView",
@@ -20,16 +24,16 @@
         },
         {
           "class": "DepictionSeparatorView",
-          "tintColor": "#9e4a4d"
+          "tintColor": "#641c24"
         },
         {
           "title": "Version",
-          "text": "2.0.0",
+          "text": "1.0",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Last Updated",
-          "text": "09/27/24",
+          "text": "09/28/24",
           "class": "DepictionTableTextView"
         },
         {
@@ -75,7 +79,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 2.0.0\n- 17.0 support!"
+          "markdown": "### 1.0\n- Now supports iOS 17.0! 🎉"
+        },
+        {
+          "class": "DepictionSeparatorView",
+          "tintColor": "#641c24"
         },
         {
           "class": "DepictionButtonView",
@@ -85,11 +93,11 @@
         },
         {
           "class": "DepictionSeparatorView",
-          "tintColor": "#9e4a4d"
+          "tintColor": "#641c24"
         },
         {
           "title": "Version",
-          "text": "2.0.0",
+          "text": "1.0",
           "class": "DepictionTableTextView"
         },
         {
@@ -133,7 +141,7 @@
           "class": "DepictionSpacerView"
         }
       ],
-      "tintColor": "#9e4a4d"
+      "tintColor": "#641c24"
     }
   ],
   "class": "DepictionTabView"

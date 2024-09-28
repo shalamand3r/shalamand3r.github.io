@@ -8,9 +8,12 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Ultimate iDevice customization! Only app specific features work. Categories like springboard and control center will not work for obvious reasons.",
+          "markdown": "### Features:\n- Generate a QR code directly from settings for quickly sharing your WiFi network with others",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView",
         },
         {
           "class": "DepictionButtonView",
@@ -74,7 +77,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.2\n- 17.0 support!"
+          "markdown": "### 1.2\n- Patched for iOS 17.0! 🎉"
         },
         {
           "class": "DepictionButtonView",
