@@ -90,6 +90,12 @@
           "tintColor": "#5865f2"
         },
         {
+          "class": "DepictionButtonView",
+          "text": "Google Fonts",
+          "action": "https://fonts.google.com/",
+          "tintColor": "#EA4335"
+        },
+        {
           "class": "DepictionSeparatorView",
           "tintColor": "#4bb0bf"
         },
