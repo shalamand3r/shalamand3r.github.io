@@ -82,6 +82,10 @@
           "markdown": "### 1.0\n- Now supports iOS 17.0! 🎉"
         },
         {
+          "class": "DepictionSeparatorView",
+          "tintColor": "#9e4a4d"
+        },
+        {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
