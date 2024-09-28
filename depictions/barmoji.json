@@ -74,11 +74,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 2.0.0"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "- 17.0 support!"
+          "markdown": "### 2.0.0\n- 17.0 support!"
         },
         {
           "class": "DepictionButtonView",
