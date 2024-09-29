@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/kbappdock.png?raw=true",
-  "tintColor": "#d2bfc1",
+  "tintColor": "#c5dbc4",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -137,7 +137,7 @@
           "class": "DepictionSpacerView"
         }
       ],
-      "tintColor": "#d2bfc1"
+      "tintColor": "#c5dbc4"
     }
   ],
   "class": "DepictionTabView"
