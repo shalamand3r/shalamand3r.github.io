@@ -1,14 +1,14 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/wifiqr.png?raw=true",
-  "tintColor": "#177ef3",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/recordpause.png?raw=true",
+  "tintColor": "#d2bfc1",
   "tabs": [
     {
       "class": "DepictionStackView",
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Generate a QR code for your current WiFi network\n- Quickly share your WiFi network with others\n- Integrates directly into the Wifi page in Settings",
+          "markdown": "### Features:\n- Pause and resume video recording in the iOS camera app",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -26,7 +26,7 @@
         },
         {
           "title": "Version",
-          "text": "1.2",
+          "text": "2.0.4",
           "class": "DepictionTableTextView"
         },
         {
@@ -36,7 +36,7 @@
         },
         {
           "title": "Developer",
-          "text": "KingPuffdaddi",
+          "text": "PoomSmart",
           "class": "DepictionTableTextView"
         },
         {
@@ -54,7 +54,7 @@
           "cornerRadius": 0,
           "height": 32,
           "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/wifiqr.png?raw=true"
+          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/recordpause.png?raw=true"
         },
         {
           "class": "DepictionLabelView",
@@ -77,7 +77,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.2\n- Now supports iOS 17.0! 🎉"
+          "markdown": "### 2.0.4\n- Now supports iOS 17.0! 🎉"
         },
         {
           "class": "DepictionSeparatorView",
@@ -93,7 +93,7 @@
         },
         {
           "title": "Version",
-          "text": "1.2",
+          "text": "2.0.4",
           "class": "DepictionTableTextView"
         },
         {
@@ -103,7 +103,7 @@
         },
         {
           "title": "Developer",
-          "text": "KingPuffdaddi",
+          "text": "PoomSmart",
           "class": "DepictionTableTextView"
         },
         {
@@ -121,7 +121,7 @@
           "cornerRadius": 0,
           "height": 32,
           "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/wifiqr.png?raw=true"
+          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/recordpause.png?raw=true"
         },
         {
           "class": "DepictionLabelView",
@@ -137,7 +137,7 @@
           "class": "DepictionSpacerView"
         }
       ],
-      "tintColor": "#177ef3"
+      "tintColor": "#d2bfc1"
     }
   ],
   "class": "DepictionTabView"
