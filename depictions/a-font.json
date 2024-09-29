@@ -8,9 +8,13 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Change your font system-wide!\n- Import custom font .ttf files downloaded from _google fonts_ to **/var/containers/Bundle/Application/.jbroot-XYZ/Library/A-Font** using filza",
+          "markdown": "### Features:\n- Change your font system-wide!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView",
+          "tintColor": "#4bb0bf"
         },
         {
           "class": "DepictionButtonView",
@@ -30,7 +34,7 @@
         },
         {
           "title": "Version",
-          "text": "2.0.0",
+          "text": "2.0",
           "class": "DepictionTableTextView"
         },
         {
@@ -81,7 +85,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 2.0.0\n- 17.0 support!"
+          "markdown": "### 2.0\n- Now supports iOS 17.0! 🎉"
+        },
+        {
+          "class": "DepictionSeparatorView",
+          "tintColor": "#4bb0bf"
         },
         {
           "class": "DepictionButtonView",
@@ -101,7 +109,7 @@
         },
         {
           "title": "Version",
-          "text": "2.0.0",
+          "text": "2.0",
           "class": "DepictionTableTextView"
         },
         {
@@ -156,6 +164,10 @@
           "markdown": "### Tutorial:\nFollow these steps to install custom fonts:\n\n1. Download a .ttf font from [Google Fonts](https://fonts.google.com/).\n2. Use Filza to move the font to **/var/containers/Bundle/Application/.jbroot-XYZ/Library/A-Font**.\n3. Apply the font system-wide."
         },
         {
+          "class": "DepictionSeparatorView",
+          "tintColor": "#4bb0bf"
+        },
+        {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
@@ -173,7 +185,7 @@
         },
         {
           "title": "Version",
-          "text": "2.0.0",
+          "text": "2.0",
           "class": "DepictionTableTextView"
         },
         {
