@@ -8,7 +8,7 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Change your font system-wide!\n- Import custom font .ttf files downloaded from _google fonts_ to **/var/containers/Bundle/Application/.jbroot-XYZ/Library/A-Font** using filza",
+          "markdown": "### Features:\n- Change your font system-wide!\n-",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
