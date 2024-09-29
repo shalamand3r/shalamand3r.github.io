@@ -8,9 +8,12 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Organize your settings!\n- Copy your tweak list\n- Browse installed packages\n- Hide tweak preferences\n- View tweak info",
+          "markdown": "### Features:\n- Organizes your settings app!\n- Customizable to your liking \n- View installed tweak info",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView",
         },
         {
           "class": "DepictionButtonView",
@@ -23,7 +26,7 @@
         },
         {
           "title": "Version",
-          "text": "2.0.0",
+          "text": "1.6.3",
           "class": "DepictionTableTextView"
         },
         {
@@ -74,7 +77,10 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 2.0.0\n- 17.0 support!"
+          "markdown": "### 1.6.3\n- Now supports iOS 17.0! 🎉"
+        },
+         {
+          "class": "DepictionSeparatorView",
         },
         {
           "class": "DepictionButtonView",
@@ -87,7 +93,7 @@
         },
         {
           "title": "Version",
-          "text": "2.0.0",
+          "text": "1.6.3",
           "class": "DepictionTableTextView"
         },
         {
