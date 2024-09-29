@@ -146,6 +146,16 @@
         }
       ],
       "tintColor": "#4bb0bf"
+    },
+    {
+      "tabname": "Tutorial",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Tutorial:\nFollow these steps to install custom fonts:\n\n1. Download a .ttf font from [Google Fonts](https://fonts.google.com/).\n2. Use Filza to move the font to **/var/containers/Bundle/Application/.jbroot-XYZ/Library/A-Font**.\n3. Apply the font system-wide."
+        }
+      ]
     }
   ],
   "class": "DepictionTabView"
