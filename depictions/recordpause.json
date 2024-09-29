@@ -63,7 +63,7 @@
           "textColor": "aaa",
           "fontSize": 8,
           "alignment": 1,
-          "text": "WifiQR"
+          "text": "RecordPause"
         },
         {
           "spacing": 16,
@@ -130,7 +130,7 @@
           "textColor": "aaa",
           "fontSize": 8,
           "alignment": 1,
-          "text": "WifiQR"
+          "text": "RecordPause"
         },
         {
           "spacing": 16,
