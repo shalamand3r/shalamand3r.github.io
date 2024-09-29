@@ -8,7 +8,7 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Load and edit tweak preferences\n- Search installed tweak preferences\n- Long press any tweak settings cell to open that settings page in the Settings app\n- Quick actions",
+          "markdown": "### Features:\n- Manage tweaks through a dedicated app \n- No need to inject tweaks into the stock settings app\n- Quick actions (respring, uicache)",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
