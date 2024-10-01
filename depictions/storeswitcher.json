@@ -1,14 +1,14 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/recordpause.png?raw=true",
-  "tintColor": "#d2bfc1",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/storeswitcher.png?raw=true",
+  "tintColor": "#213b4c",
   "tabs": [
     {
       "class": "DepictionStackView",
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Pause and resume video recording in the iOS camera app",
+          "markdown": "### Features:\n- Adds a button to switch to any previoously signed in accounts in the App Store",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -26,7 +26,7 @@
         },
         {
           "title": "Version",
-          "text": "2.0.3",
+          "text": "1.0.5",
           "class": "DepictionTableTextView"
         },
         {
@@ -36,7 +36,7 @@
         },
         {
           "title": "Developer",
-          "text": "PoomSmart",
+          "text": "0xkuj",
           "class": "DepictionTableTextView"
         },
         {
@@ -54,7 +54,7 @@
           "cornerRadius": 0,
           "height": 32,
           "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/recordpause.png?raw=true"
+          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/storeswitcher.png?raw=true"
         },
         {
           "class": "DepictionLabelView",
@@ -63,7 +63,7 @@
           "textColor": "aaa",
           "fontSize": 8,
           "alignment": 1,
-          "text": "RecordPause"
+          "text": "StoreSwitcher"
         },
         {
           "spacing": 16,
@@ -77,7 +77,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 2.0.3\n- Now supports iOS 17.0! 🎉"
+          "markdown": "### 1.0.5\n- Now supports iOS 17.0! 🎉"
         },
         {
           "class": "DepictionSeparatorView",
@@ -93,7 +93,7 @@
         },
         {
           "title": "Version",
-          "text": "2.0.3",
+          "text": "1.0.5",
           "class": "DepictionTableTextView"
         },
         {
@@ -103,7 +103,7 @@
         },
         {
           "title": "Developer",
-          "text": "PoomSmart",
+          "text": "0xkuj",
           "class": "DepictionTableTextView"
         },
         {
@@ -121,7 +121,7 @@
           "cornerRadius": 0,
           "height": 32,
           "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/recordpause.png?raw=true"
+          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/storeswitcher.png?raw=true"
         },
         {
           "class": "DepictionLabelView",
@@ -130,14 +130,14 @@
           "textColor": "aaa",
           "fontSize": 8,
           "alignment": 1,
-          "text": "RecordPause"
+          "text": "StoreSwitcher"
         },
         {
           "spacing": 16,
           "class": "DepictionSpacerView"
         }
       ],
-      "tintColor": "#d2bfc1"
+      "tintColor": "#213b4c"
     }
   ],
   "class": "DepictionTabView"
