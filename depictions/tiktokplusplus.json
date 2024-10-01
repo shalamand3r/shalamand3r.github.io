@@ -1,19 +1,19 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/recordpause.png?raw=true",
-  "tintColor": "#d2bfc1",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/bhtiktokplus.png?raw=true",
+  "tintColor": "#17083a",
   "tabs": [
     {
       "class": "DepictionStackView",
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Pause and resume video recording in the iOS camera app",
+          "markdown": "### Features:\n- An awesome tweak for TikTok!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
         {
-          "class": "DepictionSeparatorView",
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionButtonView",
@@ -22,21 +22,21 @@
           "tintColor": "#5865f2"
         },
         {
-          "class": "DepictionSeparatorView",
+          "class": "DepictionSeparatorView"
         },
         {
           "title": "Version",
-          "text": "2.0.3",
+          "text": "1.3.1",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Last Updated",
-          "text": "09/27/24",
+          "text": "10/01/24",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Developer",
-          "text": "PoomSmart",
+          "text": "raulsaeed",
           "class": "DepictionTableTextView"
         },
         {
@@ -54,7 +54,7 @@
           "cornerRadius": 0,
           "height": 32,
           "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/recordpause.png?raw=true"
+          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/bhtiktokplus.png?raw=true"
         },
         {
           "class": "DepictionLabelView",
@@ -63,7 +63,7 @@
           "textColor": "aaa",
           "fontSize": 8,
           "alignment": 1,
-          "text": "RecordPause"
+          "text": "BHTikTok++"
         },
         {
           "spacing": 16,
@@ -77,10 +77,18 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 2.0.3\n- Now supports iOS 17.0! 🎉"
+          "markdown": "### 1.3.1\n- Added a share sheet toggle. Keep this option disabled to auto-save videos to your camera roll"
         },
         {
-          "class": "DepictionSeparatorView",
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.2.1\n- Added the ability to download HD Videos"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.1.1\n- Now supports iOS 17.0! 🎉"
+        },
+        {
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionButtonView",
@@ -89,21 +97,21 @@
           "tintColor": "#5865f2"
         },
         {
-          "class": "DepictionSeparatorView",
+          "class": "DepictionSeparatorView"
         },
         {
           "title": "Version",
-          "text": "2.0.3",
+          "text": "1.3.1",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Last Updated",
-          "text": "09/27/24",
+          "text": "10/01/24",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Developer",
-          "text": "PoomSmart",
+          "text": "raulsaeed",
           "class": "DepictionTableTextView"
         },
         {
@@ -121,7 +129,7 @@
           "cornerRadius": 0,
           "height": 32,
           "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/recordpause.png?raw=true"
+          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/bhtiktokplus.png?raw=true"
         },
         {
           "class": "DepictionLabelView",
@@ -130,14 +138,14 @@
           "textColor": "aaa",
           "fontSize": 8,
           "alignment": 1,
-          "text": "RecordPause"
+          "text": "BHTikTok++"
         },
         {
           "spacing": 16,
           "class": "DepictionSpacerView"
         }
       ],
-      "tintColor": "#d2bfc1"
+      "tintColor": "#17083a"
     }
   ],
   "class": "DepictionTabView"
