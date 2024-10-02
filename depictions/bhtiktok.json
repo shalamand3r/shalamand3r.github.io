@@ -8,7 +8,7 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- No ads\n- Download videos and photos\n- Download sounds\n- Spoof upload region\n- Display usernames instead of nicknames\n- Disable ull-to-refresh\n- Disable warnings such as sensitive content\n- Disable live streams\n- Skip recommendations\n- Remove watermarks\n- Show/Hide UI button\n- Copy video description\n- Auto scroll\n- Force enable video progress bar\n- Confirm likes/comments/follows\n- Save profile picture\n- Copy profile information\n- Profile video counter\n- Video upload date\n- Video like count\n- Force upload in HD\n- Extend bio\n- Extend comment\n- Always open in Safari\n- Region spoofing\n- Fake verified checkmark\n- Fake follower count\n- Fake following count\n- App lock",
+          "markdown": "### Features:\n- No ads!\n- Download photos, videos and sounds\n- Display usernames instead of nicknames\n- Disable pull-to-refresh\n- Disable sensitive content warnings\n- Remove live streams\n- Auto skip recommendations\n- Remove watermarks when saving to camera roll\n- Show/hide UI\n- Auto scroll\n- Force enable video progress bar\n- Confirm likes/comments/follows\n- Save profile picture\n- Upload date and like count in video preview\n- Force upload in HD\n- Larger bio and comment character limit\n- Region (and upload region) spoofing\n- Display a fake verified checkmark\n- Spoof follower/following count (CLIENT)\n- Lock app with biometrics",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
