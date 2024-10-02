@@ -8,7 +8,7 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- No Ads\n- Download Videos\n- Download HD Videos\n- Download Photos\n- Download Musics\n- Upload Region\n- Show Username\n- Disable Pull-to-refresh\n- Disable Unsensitive warning\n- Disable Warnings\n- Disable Live Broadcast\n- Skip Recommendations\n- Remove Watermark\n- Show/Hide UI button\n- Copy video description\n- Copy video link\n- Copy Music link\n- Auto Play Next Video\n- Show progress bar\n- Confirm like\n- Confirm comment like\n- Confirm comment dislike\n- Confirm follow\n- Save profile image\n- Copy profile information\n- Profile Video Count\n- Video Upload Date\n- Video Like Count\n- Always Upload In HD\n- Extend bio\n- Extend comment\n- Always open in Safari\n- Changing region\n- Fake verify blue mark\n- Fake Follower count\n- Fake Following count\n- Padlock",
+          "markdown": "### Features:\n- No ads\n- Download videos and photos\n- Download sounds\n- Spoof upload region\n- Display usernames instead of nicknames\n- Disable ull-to-refresh\n- Disable warnings such as sensitive content\n- Disable live streams\n- Skip recommendations\n- Remove watermarks\n- Show/Hide UI button\n- Copy video description\n- Auto scroll\n- Force enable video progress bar\n- Confirm likes/comments/follows\n- Save profile picture\n- Copy profile information\n- Profile video counter\n- Video upload date\n- Video like count\n- Force upload in HD\n- Extend bio\n- Extend comment\n- Always open in Safari\n- Region spoofing\n- Fake verified checkmark\n- Fake follower count\n- Fake following count\n- App lock",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
