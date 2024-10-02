@@ -85,7 +85,11 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.1.1\n- Now supports iOS 17.0! 🎉"
+          "markdown": "### 1.1.1\n- Enable transparent comment section\n- Option to stop video looping\n- Fixed button images"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.0.1\n- Now supports iOS 17.0! 🎉"
         },
         {
           "class": "DepictionSeparatorView"
