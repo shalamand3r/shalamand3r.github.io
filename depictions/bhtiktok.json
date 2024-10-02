@@ -8,7 +8,7 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- No ads!\n- Download photos, videos and sounds\n- Display usernames instead of nicknames\n- Disable pull-to-refresh\n- Disable sensitive content warnings\n- Remove live streams\n- Auto skip recommendations\n- Remove watermarks when saving to camera roll\n- Show/hide UI\n- Auto scroll\n- Force enable video progress bar\n- Confirm likes/comments/follows\n- Save profile picture\n- Upload date and like count in video preview\n- Force upload in HD\n- Larger bio and comment character limit\n- Region (and upload region) spoofing\n- Display a fake verified checkmark\n- Spoof follower/following count (CLIENT)\n- Lock app with biometrics",
+          "markdown": "### Features:\n- No ads!\n- Download photos, videos and sounds\n- Display usernames instead of nicknames\n- Disable pull-to-refresh\n- Disable sensitive content warnings\n- Remove live streams\n- Auto skip recommendations\n- Remove watermarks when saving videos\n- Show/hide UI\n- Auto scroll\n- Force enable video progress bar\n- Confirm likes/comments/follows\n- Save profile picture\n- Upload date and like count in video preview\n- Force upload in HD\n- Larger bio and comment character limit\n- Region (and upload region) spoofing\n- Display a fake verified checkmark\n- Spoof follower/following count (CLIENT)\n- Lock app with biometrics",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
