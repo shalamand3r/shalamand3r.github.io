@@ -9,8 +9,8 @@
       "views": [
         {
           "class": "DepictionButtonView",
-          "text": "Original Author",
-          "action": "",
+          "text": "Original Tweak",
+          "action": "https://cydia.ichitaso.com/depiction/youtubepatcher.html",
           "openExternal": true,
           "tintColor": "#641c24"
         },
@@ -30,10 +30,6 @@
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
           "tintColor": "#5865f2"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
         }
       ]
     },
@@ -41,6 +37,16 @@
       "tabname": "Changelog",
       "class": "DepictionStackView",
       "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://cydia.ichitaso.com/depiction/youtubepatcher.html",
+          "openExternal": true,
+          "tintColor": "#641c24"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
         {
           "markdown": "### 1.0 🎉\n- Now supports iOS 17.0! 🚀",
           "class": "DepictionMarkdownView"
@@ -53,10 +59,6 @@
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
           "tintColor": "#5865f2"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
         }
       ]
     }
