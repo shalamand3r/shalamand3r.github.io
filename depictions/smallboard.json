@@ -34,9 +34,6 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "class": "DepictionSeparatorView"
-        },
-        {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
