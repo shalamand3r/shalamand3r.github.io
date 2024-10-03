@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🖤 A proper OLED darkmode\n- 🧩 Hooks directly into iOS's system colors\n- 🪶 An extremely lightweight tweak\n- 💡 Preserves battery (probably) by turning off uneeded pixels",
+          "markdown": "### Features:\n- 🖤 A proper OLED darkmode\n- 🧩 Hooks directly into iOS's system colors\n- 🪶 An extremely lightweight tweak\n- 💡 Preserves battery (probably) by turning off unused pixels",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },

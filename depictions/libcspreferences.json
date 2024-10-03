@@ -8,66 +8,29 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- A preference library that doesn't suck!",
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/CreatureSurvive/libCSPreferences",
+          "openExternal": true,
+          "tintColor": "#8e8f92"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Features:\n- 🙌 A preference library that doesn't suck!\n- 📱 Supports 3D Touch",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
         {
-          "class": "DepictionSeparatorView",
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
           "tintColor": "#5865f2"
-        },
-        {
-          "class": "DepictionSeparatorView",
-        },
-        {
-          "title": "Version",
-          "text": "1.6.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Last Updated",
-          "text": "09/27/24",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Developer",
-          "text": "CreatureSurvive",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Compatibility",
-          "text": "17.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionImageView",
-          "alignment": 1,
-          "cornerRadius": 0,
-          "height": 32,
-          "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/libcspreferences.png?raw=true"
-        },
-        {
-          "class": "DepictionLabelView",
-          "useMargins": false,
-          "usePadding": false,
-          "textColor": "aaa",
-          "fontSize": 8,
-          "alignment": 1,
-          "text": "libCSPreferences"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
         }
       ]
     },
@@ -76,68 +39,30 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionMarkdownView",
-          "markdown": "### 1.6.0\n- Now supports iOS 17.0! 🎉"
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/CreatureSurvive/libCSPreferences",
+          "openExternal": true,
+          "tintColor": "#8e8f92"
         },
         {
-          "class": "DepictionSeparatorView",
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 1.6.0\n- 🎉 shalaREPO Release",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
           "tintColor": "#5865f2"
-        },
-        {
-          "class": "DepictionSeparatorView",
-        },
-        {
-          "title": "Version",
-          "text": "1.6.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Last Updated",
-          "text": "09/27/24",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Developer",
-          "text": "CreatureSurvive",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Compatibility",
-          "text": "17.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionImageView",
-          "alignment": 1,
-          "cornerRadius": 0,
-          "height": 32,
-          "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/libcspreferences.png?raw=true"
-        },
-        {
-          "class": "DepictionLabelView",
-          "useMargins": false,
-          "usePadding": false,
-          "textColor": "aaa",
-          "fontSize": 8,
-          "alignment": 1,
-          "text": "libCSPreferences"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
         }
-      ],
-      "tintColor": "#ff8d19"
+      ]
     }
   ],
   "class": "DepictionTabView"
