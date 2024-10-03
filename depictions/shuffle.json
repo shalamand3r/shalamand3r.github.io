@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 📁 Organizes your settings app into sections\n- 📝 View installed tweak information\n- 🛠️ Manage installed tweaks",
+          "markdown": "### Features:\n- 📁 Organizes settings into sections\n- 📝 View installed tweak information\n- 🛠️ Manage installed tweaks",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
