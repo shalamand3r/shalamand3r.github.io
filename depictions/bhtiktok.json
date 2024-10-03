@@ -26,7 +26,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Customization:\n- 👁️‍🗨️ Show/Hide UI elements\n- 🛑 Disable pull-to-refresh\n- ⛔ Disable sensitive content warnings\n- 🖊️ Larger character limit (comments + bio)\n- 🕒 Force enable video progress bar\n- 🔢 Spoof follower/following count (CLIENT)\n",
+          "markdown": "### Customization:\n- 👁️‍🗨️ Show/Hide UI elements\n- 🛑 Disable pull-to-refresh\n- ⛔ Disable sensitive content warnings\n- 🖊️ Larger character limit (comments + bio)\n- 🕒 Force enable video progress bar\n",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -34,7 +34,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Spoofing & Privacy:\n- ✅ Confirm likes/comments/follows\n- 🌎 Region spoofing\n- 🔒 Lock app with biometrics\n",
+          "markdown": "### Spoofing & Privacy:\n- ✅ Confirm likes/comments/follows\n- 🌎 Region spoofing\n- 🔢 Spoof follower/following count (CLIENT)\n- 🔒 Lock app with biometrics\n",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
