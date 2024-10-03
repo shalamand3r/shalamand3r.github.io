@@ -48,7 +48,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.0 🎉\n- Now supports iOS 17.0! 🚀",
+          "markdown": "### 1.0\n- 🎉 Initial Release",
           "class": "DepictionMarkdownView"
         },
         {
