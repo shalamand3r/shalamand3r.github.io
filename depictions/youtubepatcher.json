@@ -26,7 +26,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Appearance:\n- 🌙 Includes DarkerDarkMode by PoomSmart",
+          "markdown": "### Appearance:\n- 🌙 Includes PoomSmart's DarkerDarkMode",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
