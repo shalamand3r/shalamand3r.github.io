@@ -11,8 +11,8 @@
           "class": "DepictionButtonView",
           "text": "Original Tweak",
           "action": "https://github.com/raulsaeed/TikTokPlusPlus",
-          "tintColor": "#2f1464",
-          "openExternal": true
+          "openExternal": true,
+          "tintColor": "#2f1464"
         },
         {
           "class": "DepictionSeparatorView"
@@ -45,8 +45,8 @@
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
-          "tintColor": "#5865f2",
-          "openExternal": true
+          "openExternal": true,
+          "tintColor": "#5865f2"
         },
         {
           "class": "DepictionSeparatorView"
@@ -63,8 +63,11 @@
         },
         {
           "title": "Compatibility",
-          "text": "17.0",
+          "text": "arm64e",
           "class": "DepictionTableTextView"
+        },
+        {
+          "class": "DepictionSpacerView"
         }
       ]
     },
@@ -76,8 +79,8 @@
           "class": "DepictionButtonView",
           "text": "Original Tweak",
           "action": "https://github.com/raulsaeed/TikTokPlusPlus",
-          "tintColor": "#2f1464",
-          "openExternal": true
+          "openExternal": true,
+          "tintColor": "#2f1464"
         },
         {
           "class": "DepictionSeparatorView"
@@ -105,7 +108,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.0.1\n- 🆕 Initial Release"
+          "markdown": "### 1.0.1\n- 🛠️ Initial Release"
         },
         {
           "class": "DepictionSeparatorView"
@@ -114,8 +117,11 @@
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
-          "tintColor": "#5865f2",
-          "openExternal": true
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        },
+        {
+          "class": "DepictionSeparatorView"
         },
         {
           "title": "Version",
@@ -129,11 +135,10 @@
         },
         {
           "title": "Compatibility",
-          "text": "17.0",
+          "text": "arm64e",
           "class": "DepictionTableTextView"
         }
-      ],
-      "tintColor": "#17083a"
+      ]
     }
   ],
   "class": "DepictionTabView"
