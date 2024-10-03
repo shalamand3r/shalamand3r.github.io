@@ -26,7 +26,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Notes:\n- ⁉️ For whatever reason, the stock Apple Music app does NOT work with N95\n- 📦 N95 is larger than most other tweaks (~30mb)",
+          "markdown": "### Notes:\n- 📦 N95 is larger than most tweaks (~30MB)\n- ⁉️ For whatever reason, the stock Apple Music app does NOT work with N95",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
