@@ -8,7 +8,7 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Content:\n- 🚫 No ads or sponsored videos\n- 📅 Upload date and like count in video previews\n- 🆔 Display usernames instead of nicknames\n- ⬇️ Download photos, videos, and sounds\n- 🎥 Remove live streams\n- 🖼️ Save profile pictures\n- 📺 Force HD uploads\n\n### Customization:\n- 👁️‍🗨️ Show/Hide UI elements\n- 🛑 Disable pull-to-refresh\n- ⛔ Disable sensitive content warnings\n- 🖊️ Larger character limit (comments and bio)\n- 🕒 Force enable video progress bar\n- ✔️ Display a fake checkmark (CLIENT)\n- 🔢 Spoof follower/following count (CLIENT)\n\n### Spoofing & Privacy:\n- ✅ Confirm likes/comments/follows\n- 🌎 Region spoofing\n- 🔒 Lock app with biometrics",
+          "markdown": "### Content:\n- 🚫 No ads or sponsored videos\n- 📅 Upload date and like count in video previews\n- 🆔 Display usernames instead of nicknames\n- ⬇️ Download photos, videos, and sounds\n- 🎥 Remove live streams\n- 🖼️ Save profile pictures\n- 📺 Force HD uploads\n\n\n### Customization:\n- 👁️‍🗨️ Show/Hide UI elements\n- 🛑 Disable pull-to-refresh\n- ⛔ Disable sensitive content warnings\n- 🖊️ Larger character limit (comments and bio)\n- 🕒 Force enable video progress bar\n- ✔️ Display a fake checkmark (CLIENT)\n- 🔢 Spoof follower/following count (CLIENT)\n\n\n### Spoofing & Privacy:\n- ✅ Confirm likes/comments/follows\n- 🌎 Region spoofing\n- 🔒 Lock app with biometrics",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
