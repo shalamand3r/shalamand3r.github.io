@@ -45,7 +45,7 @@
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
-          "tintColor": "#5865f2",
+          "tintColor": "#5165f6",
           "openExternal": true
         },
         {
@@ -139,7 +139,7 @@
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
-          "tintColor": "#5865f2",
+          "tintColor": "#5165f6",
           "openExternal": true
         },
         {
