@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 💰 A modern in-app purchase cracker!\n- ✅ Equal app compatibility as LocalIAPStore\n- ⚙️ Configurable features (receipts, stealth)\n- 📱 Works on sideloaded apps \n- 🌍 Open source",
+          "markdown": "### Features:\n- 💰 A modern in-app purchase cracker!\n- ✅ Equal app compatibility as LocalIAPStore\n- ⚙️ Configurable features (receipts, stealth)\n- 📱 Works on sideloaded apps\n- 🌍 Open source",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
