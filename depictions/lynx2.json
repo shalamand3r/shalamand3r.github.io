@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://havoc.app/package/lynxtwo",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/lynx2.png?raw=true",
   "tintColor": "#5b40d6",
   "tabs": [
     {
@@ -10,7 +10,7 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://creaturecoding.com/?page=depiction&id=shuffle",
+          "action": "https://havoc.app/package/lynxtwo",
           "openExternal": true,
           "tintColor": "#5b40d6"
         },
@@ -49,7 +49,7 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://creaturecoding.com/?page=depiction&id=shuffle",
+          "action": "https://havoc.app/package/lynxtwo",
           "openExternal": true,
           "tintColor": "#5b40d6"
         },
