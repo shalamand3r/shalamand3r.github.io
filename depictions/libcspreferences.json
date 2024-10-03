@@ -12,7 +12,7 @@
           "text": "Original Tweak",
           "action": "https://github.com/CreatureSurvive/libCSPreferences",
           "openExternal": true,
-          "tintColor": "#8e8f92"
+          "tintColor": "#ff8d19"
         },
         {
           "class": "DepictionSeparatorView"
@@ -43,7 +43,7 @@
           "text": "Original Tweak",
           "action": "https://github.com/CreatureSurvive/libCSPreferences",
           "openExternal": true,
-          "tintColor": "#8e8f92"
+          "tintColor": "#ff8d19"
         },
         {
           "class": "DepictionSeparatorView"
