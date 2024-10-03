@@ -9,10 +9,10 @@
       "views": [
         {
           "class": "DepictionButtonView",
-          "text": "Original Tweak",
-          "action": "",  // Add your link here
+          "text": "Original Author",
+          "action": "",
           "openExternal": true,
-          "tintColor": "#641c24"  // Same as the top tint color
+          "tintColor": "#641c24"
         },
         {
           "class": "DepictionSeparatorView"
