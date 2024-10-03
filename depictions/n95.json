@@ -8,64 +8,29 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Mask album artwork images in various third party music apps!",
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://havoc.app/package/n95",
+          "openExternal": true,
+          "tintColor": "#f7e483"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Features:\n- 📸 Mask album artwork in your favorite music apps!\n- ✨ Large variety of styles to pick from\n- 📂 Import custom themes",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
           "tintColor": "#5865f2"
-        },
-        {
-          "class": "DepictionSeparatorView",
-          "tintColor": "#f7e483"
-        },
-        {
-          "title": "Version",
-          "text": "2.0.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Last Updated",
-          "text": "09/27/24",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Developer",
-          "text": "ETHN",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Compatibility",
-          "text": "17.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionImageView",
-          "alignment": 1,
-          "cornerRadius": 0,
-          "height": 32,
-          "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/n95.png?raw=true"
-        },
-        {
-          "class": "DepictionLabelView",
-          "useMargins": false,
-          "usePadding": false,
-          "textColor": "aaa",
-          "fontSize": 8,
-          "alignment": 1,
-          "text": "N95"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
         }
       ]
     },
@@ -74,66 +39,30 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionMarkdownView",
-          "markdown": "### 2.0.0\n- 17.0 support!"
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://havoc.app/package/n95",
+          "openExternal": true,
+          "tintColor": "#f7e483"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 4.5\n- 🎉 shalaREPO Release",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
           "tintColor": "#5865f2"
-        },
-        {
-          "class": "DepictionSeparatorView",
-          "tintColor": "#f7e483"
-        },
-        {
-          "title": "Version",
-          "text": "2.0.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Last Updated",
-          "text": "09/27/24",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Developer",
-          "text": "ETHN",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Compatibility",
-          "text": "17.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionImageView",
-          "alignment": 1,
-          "cornerRadius": 0,
-          "height": 32,
-          "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/n95.png?raw=true"
-        },
-        {
-          "class": "DepictionLabelView",
-          "useMargins": false,
-          "usePadding": false,
-          "textColor": "aaa",
-          "fontSize": 8,
-          "alignment": 1,
-          "text": "N95"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
         }
-      ],
-      "tintColor": "#f7e483"
+      ]
     }
   ],
   "class": "DepictionTabView"
