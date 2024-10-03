@@ -47,10 +47,6 @@
           "action": "https://discord.gg/twwttTGSuk",
           "openExternal": true,
           "tintColor": "#5865f2"
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 8
         }
       ]
     },
@@ -102,10 +98,6 @@
           "action": "https://discord.gg/twwttTGSuk",
           "openExternal": true,
           "tintColor": "#5865f2"
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 8
         }
       ]
     }
