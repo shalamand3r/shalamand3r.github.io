@@ -8,6 +8,15 @@
       "tabname": "Features",
       "views": [
         {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/raulsaeed/TikTokPlusPlus",
+          "tintColor": "#2f1464"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "markdown": "### Content:\n- 🚫 No ads or sponsored videos\n- 👀 Better video previews\n- 🆔 Display usernames instead of nicknames\n- ⬇️ Download photos, videos, and sounds\n- 🎥 Remove live streams\n- 🖼️ Save profile pictures\n- 📺 Force HD uploads\n",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
@@ -79,7 +88,7 @@
           "textColor": "aaa",
           "fontSize": 8,
           "alignment": 1,
-          "text": "BHTikTok"
+          "text": "BHTikTok++"
         },
         {
           "spacing": 16,
@@ -91,6 +100,15 @@
       "tabname": "Changelog",
       "class": "DepictionStackView",
       "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/raulsaeed/TikTokPlusPlus",
+          "tintColor": "#2f1464"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
         {
           "class": "DepictionMarkdownView",
           "markdown": "### 1.3.1\n- Added a share sheet toggle. Keep this disabled to auto-save videos to camera roll\n\n"
