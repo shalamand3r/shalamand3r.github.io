@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- ⏸️ Pause/resume video recording in the iOS camera app\n- 🖲️ Native iOS 18 pause button style",
+          "markdown": "### Features:\n- ⏸️ Pause/resume recording (iOS Camera)\n- 🖲️ Native iOS 18 pause button style",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
