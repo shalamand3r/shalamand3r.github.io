@@ -8,7 +8,7 @@
       "tabname": "Features",
       "views": [
         {
-          "markdown": "### Content:\n- 🚫 No ads or sponsored videos\n- 📅 Upload date + like count in video previews\n- 🆔 Display usernames instead of nicknames\n- ⬇️ Download photos, videos, and sounds\n- 🎥 Remove live streams\n- 🖼️ Save profile pictures\n- 📺 Force HD uploads\n",
+          "markdown": "### Content:\n- 🚫 No ads or sponsored videos\n- 👀 Better video previews\n- 🆔 Display usernames instead of nicknames\n- ⬇️ Download photos, videos, and sounds\n- 🎥 Remove live streams\n- 🖼️ Save profile pictures\n- 📺 Force HD uploads\n",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
