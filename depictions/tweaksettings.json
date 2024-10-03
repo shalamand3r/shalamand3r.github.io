@@ -5,71 +5,32 @@
   "tabs": [
     {
       "class": "DepictionStackView",
-      "tabname": "Details",
+      "tabname": "Features",
       "views": [
         {
-          "markdown": "### Features:\n- Manage tweaks through a dedicated app \n- Avoid settings app tweak injection\n- Quick actions (respring, uicache)",
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/CreatureSurvive/TweakSettings",
+          "openExternal": true,
+          "tintColor": "#505052"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Advantages:\n- 📟 Manage tweaks through a dedicated app \n- 🚫 Avoid injecting tweaks into the stock settings applicstion\n- ⚡ Quick actions (Respring, UICache, Reboot)"
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
         {
-          "class": "DepictionSeparatorView",
-          "tintColor": "#505052"
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
           "tintColor": "#5865f2"
-        },
-        {
-          "class": "DepictionSeparatorView",
-          "tintColor": "#505052"
-        },
-        {
-          "title": "Version",
-          "text": "1.1",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Last Updated",
-          "text": "09/25/24",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Developer",
-          "text": "CreatureSurvive",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Compatibility",
-          "text": "17.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionImageView",
-          "alignment": 1,
-          "cornerRadius": 0,
-          "height": 32,
-          "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/tweaksettings.png?raw=true"
-        },
-        {
-          "class": "DepictionLabelView",
-          "useMargins": false,
-          "usePadding": false,
-          "textColor": "aaa",
-          "fontSize": 8,
-          "alignment": 1,
-          "text": "TweakSettings"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
         }
       ]
     },
@@ -78,70 +39,30 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionMarkdownView",
-          "markdown": "### 1.1\n-  Now supports iOS 17.0! 🎉"
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/CreatureSurvive/TweakSettings",
+          "openExternal": true,
+          "tintColor": "#505052"
         },
         {
-          "class": "DepictionSeparatorView",
-          "tintColor": "#505052"
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 1.1\n- 🎉 Initial Release",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
           "tintColor": "#5865f2"
-        },
-        {
-          "class": "DepictionSeparatorView",
-          "tintColor": "#505052"
-        },
-        {
-          "title": "Version",
-          "text": "1.1",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Last Updated",
-          "text": "09/25/24",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Developer",
-          "text": "CreatureSurvive",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Compatibility",
-          "text": "17.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionImageView",
-          "alignment": 1,
-          "cornerRadius": 0,
-          "height": 32,
-          "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/tweaksettings.png?raw=true"
-        },
-        {
-          "class": "DepictionLabelView",
-          "useMargins": false,
-          "usePadding": false,
-          "textColor": "aaa",
-          "fontSize": 8,
-          "alignment": 1,
-          "text": "TweakSettings"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
         }
-      ],
-      "tintColor": "#505052"
+      ]
     }
   ],
   "class": "DepictionTabView"
