@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 📟 Manage tweaks through a dedicated app \n- 🚫 Avoid injecting tweaks into the stock settings application\n- ⚡ Quick actions (Respring, UICache, Reboot)",
+          "markdown": "### Features:\n- 📟 Manage tweaks through a dedicated app \n- ⚡ Quick actions (Respring, UICache)\n- 🚫 Avoid injecting tweaks into the stock settings application",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
