@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/kbaccio.png?raw=true",
-  "tintColor": "#8e8f92",
+  "tintColor": "#ab4e81",
   "tabs": [
     {
       "class": "DepictionStackView",
