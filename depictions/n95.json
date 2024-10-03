@@ -18,7 +18,12 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 📸 Mask album artwork in your favorite music apps!\n- ✨ Large variety of styles to pick from\n- 📂 Import custom themes",
+          "markdown": "### Features:\n- 📸 Mask album artwork \n- ✨ Large variety of styles to pick from\n- 📂 Import custom themes\n- 🔗 Supports third party music applications",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "### Notes:\n- ⁉️ For whatever reason, the stock Apple Music app does NOT work with N95",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
