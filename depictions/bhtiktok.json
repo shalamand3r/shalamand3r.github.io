@@ -111,19 +111,19 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.3.1\n- Added a share sheet toggle. Keep this disabled to auto-save videos to camera roll\n\n"
+          "markdown": "### 1.3.1\n- 🆕 Added a share sheet toggle"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.2.1\n- Added the ability to download HD Videos\n\n"
+          "markdown": "### 1.2.1\n- 🆕 Added the ability to download HD Videos\n\n"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.1.1\n- Enable transparent comment section\n- Option to stop video looping\n- Fixed button images\n\n"
+          "markdown": "### 1.1.1\n- 🆕 Enable transparent comment section\n- 🆕 Option to stop video looping\n- Fixed button images"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.0.1\n- Now supports iOS 17.0! 🎉\n\n"
+          "markdown": "### 1.0.1\n- 🆕 Now supports iOS 17.0!"
         },
         {
           "class": "DepictionSeparatorView"
