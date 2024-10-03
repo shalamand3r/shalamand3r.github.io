@@ -1,14 +1,14 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/bhtiktok.png?raw=true",
-  "tintColor": "#261055",
+  "tintColor": "#2f1464",
   "tabs": [
     {
       "class": "DepictionStackView",
       "tabname": "Features",
       "views": [
         {
-          "markdown": "### Content:\n- 🚫 No ads or sponsored videos\n- 📅 Upload date + like count in video previews\n- 🆔 Display usernames instead of nicknames\n- ⬇️ Download photos, videos, and sounds\n- 🎥 Remove live streams\n- 🖼️ Save profile pictures\n- 📺 Force HD uploads\n",
+          "markdown": "### Content:\n- 🚫 No ads or sponsored videos\n- 👀 Better video previews\n- 🆔 Display usernames instead of nicknames\n- ⬇️ Download photos, videos, and sounds\n- 🎥 Remove live streams\n- 🖼️ Save profile pictures\n- 📺 Force HD uploads\n",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -158,7 +158,7 @@
           "textColor": "aaa",
           "fontSize": 8,
           "alignment": 1,
-          "text": "BHTikTok"
+          "text": "BHTikTok++"
         },
         {
           "spacing": 16,
