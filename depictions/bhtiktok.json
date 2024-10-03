@@ -8,7 +8,23 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Content:\n- 🚫 No ads or sponsored videos\n- 📅 Upload date and like count in video previews\n- 🆔 Display usernames instead of nicknames\n- ⬇️ Download photos, videos, and sounds\n- 🎥 Remove live streams\n- 🖼️ Save profile pictures\n- 📺 Force HD uploads\n\n\n### Customization:\n- 👁️‍🗨️ Show/Hide UI elements\n- 🛑 Disable pull-to-refresh\n- ⛔ Disable sensitive content warnings\n- 🖊️ Larger character limit (comments and bio)\n- 🕒 Force enable video progress bar\n- ✔️ Display a fake checkmark (CLIENT)\n- 🔢 Spoof follower/following count (CLIENT)\n\n\n### Spoofing & Privacy:\n- ✅ Confirm likes/comments/follows\n- 🌎 Region spoofing\n- 🔒 Lock app with biometrics",
+          "markdown": "### Content:\n- 🚫 No ads or sponsored videos\n- 📅 Upload date and like count in video previews\n- 🆔 Display usernames instead of nicknames\n- ⬇️ Download photos, videos, and sounds\n- 🎥 Remove live streams\n- 🖼️ Save profile pictures\n- 📺 Force HD uploads\n",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Customization:\n- 👁️‍🗨️ Show/Hide UI elements\n- 🛑 Disable pull-to-refresh\n- ⛔ Disable sensitive content warnings\n- 🖊️ Larger character limit (comments and bio)\n- 🕒 Force enable video progress bar\n- ✔️ Display a fake checkmark (CLIENT)\n- 🔢 Spoof follower/following count (CLIENT)\n",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Spoofing & Privacy:\n- ✅ Confirm likes/comments/follows\n- 🌎 Region spoofing\n- 🔒 Lock app with biometrics\n",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -77,19 +93,19 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.3.1\n- Added a share sheet toggle. Keep this disabled to auto-save videos to camera roll"
+          "markdown": "### 1.3.1\n- Added a share sheet toggle. Keep this disabled to auto-save videos to camera roll\n\n"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.2.1\n- Added the ability to download HD Videos"
+          "markdown": "### 1.2.1\n- Added the ability to download HD Videos\n\n"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.1.1\n- Enable transparent comment section\n- Option to stop video looping\n- Fixed button images"
+          "markdown": "### 1.1.1\n- Enable transparent comment section\n- Option to stop video looping\n- Fixed button images\n\n"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.0.1\n- Now supports iOS 17.0! 🎉"
+          "markdown": "### 1.0.1\n- Now supports iOS 17.0! 🎉\n\n"
         },
         {
           "class": "DepictionSeparatorView"
