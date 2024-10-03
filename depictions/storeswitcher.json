@@ -26,9 +26,12 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Notes:\n- ‼️ Only previously signed-in accounts will show in the switcher menu. To add a new account, simply login to the App Store with a different account.",
+          "markdown": "### Notes:\n- ‼️ Only previously signed-in accounts will show in the switcher\n- 🔑 To add a new account, simply login to the App Store with another account",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionButtonView",
