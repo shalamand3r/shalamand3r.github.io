@@ -5,10 +5,10 @@
   "tabs": [
     {
       "class": "DepictionStackView",
-      "tabname": "Details",
+      "tabname": "Features",
       "views": [
         {
-          "markdown": "### Content:\n- 🚫 No adss or sponsored videos\n- 📅 Upload date and like count in video previews\n- 🆔 Display usernames instead of nicknames\n- ⬇️ Download photos, videos, and sounds\n- 🎥 Remove live streams\n- 🖼️ Save profile pictures\n- 📺 Force HD uploads\n",
+          "markdown": "### Content:\n- 🚫 No ads or sponsored videos\n- 📅 Upload date + like count in video previews\n- 🆔 Display usernames instead of nicknames\n- ⬇️ Download photos, videos, and sounds\n- 🎥 Remove live streams\n- 🖼️ Save profile pictures\n- 📺 Force HD uploads\n",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -16,7 +16,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Customization:\n- 👁️‍🗨️ Show/Hide UI elements\n- 🛑 Disable pull-to-refresh\n- ⛔ Disable sensitive content warnings\n- 🖊️ Larger character limit (comments and bio)\n- 🕒 Force enable video progress bar\n- ✔️ Display a fake checkmark (CLIENT)\n- 🔢 Spoof follower/following count (CLIENT)\n",
+          "markdown": "### Customization:\n- 👁️‍🗨️ Show/Hide UI elements\n- 🛑 Disable pull-to-refresh\n- ⛔ Disable sensitive content warnings\n- 🖊️ Larger character limit (comments + bio)\n- 🕒 Force enable video progress bar\n- ✔️ Display a fake checkmark (CLIENT)\n- 🔢 Spoof follower/following count (CLIENT)\n",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
