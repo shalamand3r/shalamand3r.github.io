@@ -39,27 +39,11 @@
           "class": "DepictionMarkdownView"
         },
         {
-          "class": "DepictionSeparatorView"
-        },
-        {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
           "openExternal": true,
           "tintColor": "#5865f2"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "title": "Last Updated",
-          "text": "10/01/24",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Compatibility",
-          "text": "arm64e",
-          "class": "DepictionTableTextView"
         },
         {
           "class": "DepictionSpacerView",
@@ -107,24 +91,11 @@
           "markdown": "### 1.0.1\n- 🎉 Initial Release"
         },
         {
-          "class": "DepictionSeparatorView"
-        },
-        {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
           "openExternal": true,
           "tintColor": "#5865f2"
-        },
-        {
-          "title": "Last Updated",
-          "text": "10/01/24",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Compatibility",
-          "text": "arm64e",
-          "class": "DepictionTableTextView"
         },
         {
           "class": "DepictionSpacerView",
