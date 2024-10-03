@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/bhtiktok.png?raw=true",
-  "tintColor": "#261055",
+  "tintColor": "#2f1464",
   "tabs": [
     {
       "class": "DepictionStackView",
