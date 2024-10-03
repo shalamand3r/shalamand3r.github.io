@@ -23,6 +23,9 @@
           "class": "DepictionMarkdownView"
         },
         {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "markdown": "### Notes:\n- ⁉️ For whatever reason, the stock Apple Music app does NOT work with N95",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
