@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Content:\n- 🚫 No ads or sponsored videos\n- 👀 Better video previews\n- 🆔 Display usernames instead of nicknames\n- ⬇️ Download photos, videos, and sounds\n- 🎥 Remove live streams\n- 🖼️ Save profile pictures\n- 📺 Force HD uploads\n",
+          "markdown": "### Content:\n- 🚫 No ads or sponsored videos\n- 👀 Better video previews\n- 🆔 Display usernames instead of nicknames\n- ⬇️ Download photos, videos, and sounds\n- 🎥 Remove live streams\n- 🖼️ Save profile pictures\n- 📺 Force HD uploads",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -26,7 +26,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Customization:\n- 👁️‍🗨️ Show/Hide UI elements\n- 🛑 Disable pull-to-refresh\n- ⛔ Disable sensitive content warnings\n- 🖊️ Larger character limit (comments + bio)\n- 🕒 Force enable video progress bar\n",
+          "markdown": "### Customization:\n- 👁️‍🗨️ Show/Hide UI elements\n- 🛑 Disable pull-to-refresh\n- ⛔ Disable sensitive content warnings\n- 🖊️ Larger character limit (comments + bio)\n- 🕒 Force enable video progress bar",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -34,7 +34,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Spoofing & Privacy:\n- ✅ Confirm likes/comments/follows\n- 🌎 Region spoofing\n- 🔢 Spoof follower/following count (CLIENT)\n- 🔒 Lock app with biometrics\n",
+          "markdown": "### Spoofing & Privacy:\n- ✅ Confirm likes/comments/follows\n- 🌎 Region spoofing\n- 🔢 Spoof follower/following count (CLIENT)\n- 🔒 Lock app with biometrics",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -73,7 +73,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.2.1\n- 🆕 Added the ability to download HD Videos\n\n"
+          "markdown": "### 1.2.1\n- 🆕 Added the ability to download HD Videos"
         },
         {
           "class": "DepictionSeparatorView"
