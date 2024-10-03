@@ -123,7 +123,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.1.1\n- 🆕 Enable transparent comment section\n- 🆕 Option to stop video looping\n- 🔧 Fixed button images"
+          "markdown": "### 1.1.1\n- 🆕 Enable transparent comment section\n- 🆕 Option to stop video looping\n- 🛠️ Fixed button images"
         },
         {
           "class": "DepictionSeparatorView"
