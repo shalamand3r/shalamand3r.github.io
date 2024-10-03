@@ -26,6 +26,14 @@
           "class": "DepictionSeparatorView"
         },
         {
+          "markdown": "### Appearance:\n- 🌙 Includes DarkerDarkMode by PoomSmart",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
