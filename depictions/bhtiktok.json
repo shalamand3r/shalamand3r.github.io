@@ -11,7 +11,8 @@
           "class": "DepictionButtonView",
           "text": "Original Tweak",
           "action": "https://github.com/raulsaeed/TikTokPlusPlus",
-          "tintColor": "#2f1464"
+          "tintColor": "#2f1464",
+          "openExternal": true
         },
         {
           "class": "DepictionSeparatorView"
@@ -44,7 +45,8 @@
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
-          "tintColor": "#5865f2"
+          "tintColor": "#5865f2",
+          "openExternal": true
         },
         {
           "class": "DepictionSeparatorView"
@@ -104,7 +106,8 @@
           "class": "DepictionButtonView",
           "text": "Original Tweak",
           "action": "https://github.com/raulsaeed/TikTokPlusPlus",
-          "tintColor": "#2f1464"
+          "tintColor": "#2f1464",
+          "openExternal": true
         },
         {
           "class": "DepictionSeparatorView"
@@ -141,7 +144,8 @@
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
-          "tintColor": "#5865f2"
+          "tintColor": "#5865f2",
+          "openExternal": true
         },
         {
           "class": "DepictionSeparatorView"
