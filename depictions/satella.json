@@ -8,68 +8,37 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- A modern in-app purchase cracker!",
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/Paisseon/Satella",
+          "openExternal": true,
+          "tintColor": "#a663d1"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Features:\n- 💰 A modern in-app purchase cracker!\n- ✅ Equal app compatibility as LocalIAPStore\n- ⚙️ Configurable features (receipts, stealth)\n- 📱 Works on sideloaded apps \n- 🌍 Open source",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
-         {
-          "class": "DepictionSeparatorView",
-          "tintColor": "#a663d1"
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Notes:\n- ⚠️ Not all apps will work due to serverside checks that cannot be circumvented",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
           "tintColor": "#5865f2"
-        },
-        {
-          "class": "DepictionSeparatorView",
-          "tintColor": "#a663d1"
-        },
-        {
-          "title": "Version",
-          "text": "2.0.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Last Updated",
-          "text": "09/27/24",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Developer",
-          "text": "Paisseon",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Compatibility",
-          "text": "17.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionImageView",
-          "alignment": 1,
-          "cornerRadius": 0,
-          "height": 32,
-          "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/satella.png?raw=true"
-        },
-        {
-          "class": "DepictionLabelView",
-          "useMargins": false,
-          "usePadding": false,
-          "textColor": "aaa",
-          "fontSize": 8,
-          "alignment": 1,
-          "text": "Satella"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
         }
       ]
     },
@@ -78,70 +47,30 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionMarkdownView",
-          "markdown": "### 2.0.0\n- Now supports iOS 17.0! 🎉"
-        },
-         {
-          "class": "DepictionSeparatorView",
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/Paisseon/Satella",
+          "openExternal": true,
           "tintColor": "#a663d1"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 2.0.0\n- 🎉 shalaREPO Release",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
           "tintColor": "#5865f2"
-        },
-        {
-          "class": "DepictionSeparatorView",
-          "tintColor": "#a663d1"
-        },
-        {
-          "title": "Version",
-          "text": "2.0.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Last Updated",
-          "text": "09/27/24",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Developer",
-          "text": "Paisseon",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Compatibility",
-          "text": "17.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionImageView",
-          "alignment": 1,
-          "cornerRadius": 0,
-          "height": 32,
-          "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/satella.png?raw=true"
-        },
-        {
-          "class": "DepictionLabelView",
-          "useMargins": false,
-          "usePadding": false,
-          "textColor": "aaa",
-          "fontSize": 8,
-          "alignment": 1,
-          "text": "Satella"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
         }
-      ],
-      "tintColor": "#a663d1"
+      ]
     }
   ],
   "class": "DepictionTabView"
