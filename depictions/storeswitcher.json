@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🔄 Easily switch App Store accounts\n- 🔘 Adds a button in the account page of the App Store",
+          "markdown": "### Features:\n- 🔄 Easily switch App Store accounts\n- 🔘 Adds a button in the account section of the App Store (your profile picture)",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
