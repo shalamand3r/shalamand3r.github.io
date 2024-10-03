@@ -62,11 +62,6 @@
           "class": "DepictionTableTextView"
         },
         {
-          "title": "Developer",
-          "text": "raulsaeed",
-          "class": "DepictionTableTextView"
-        },
-        {
           "title": "Compatibility",
           "text": "17.0",
           "class": "DepictionTableTextView"
@@ -158,11 +153,6 @@
         {
           "title": "Last Updated",
           "text": "10/01/24",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Developer",
-          "text": "raulsaeed",
           "class": "DepictionTableTextView"
         },
         {
