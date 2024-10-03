@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🔄 Easily switch App Store accounts\n- 🔘 Adds a button in the account section of the App Store (your profile picture)",
+          "markdown": "### Features:\n- 🔄 Easily switch App Store accounts\n- 🔘 Adds a button in the ***Account*** section of the App Store (your profile picture)",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -26,7 +26,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Notes:\n- ‼️ Only previously signed-in accounts will show in the switcher\n- 🔑 To add a new account, simply login to the App Store with another account",
+          "markdown": "### Notes:\n- ‼️ Only previously signed-in accounts will show in the switcher\n- 🔑 To add an account, simply login to the App Store with another account",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
