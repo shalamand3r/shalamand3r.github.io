@@ -45,7 +45,7 @@
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
-          "tintColor": "#5165f6",
+          "tintColor": "#5865f2",
           "openExternal": true
         },
         {
@@ -65,27 +65,6 @@
           "title": "Compatibility",
           "text": "17.0",
           "class": "DepictionTableTextView"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionImageView",
-          "alignment": 1,
-          "cornerRadius": 0,
-          "height": 32,
-          "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/bhtiktok.png?raw=true"
-        },
-        {
-          "class": "DepictionLabelView",
-          "useMargins": false,
-          "usePadding": false,
-          "textColor": "aaa",
-          "fontSize": 8,
-          "alignment": 1,
-          "text": "BHTikTok++"
         },
         {
           "spacing": 16,
@@ -123,7 +102,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.1.1\n- 🆕 Enable transparent comment section\n- 🆕 Option to stop video looping\n- 🛠️ Fixed button images"
+          "markdown": "### 1.1.1\n- 🆕 Enable transparent comment section\n- 🆕 Option to stop video looping\n- 🔧 Fixed button images"
         },
         {
           "class": "DepictionSeparatorView"
@@ -139,7 +118,7 @@
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
-          "tintColor": "#5165f6",
+          "tintColor": "#5865f2",
           "openExternal": true
         },
         {
@@ -159,27 +138,6 @@
           "title": "Compatibility",
           "text": "17.0",
           "class": "DepictionTableTextView"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionImageView",
-          "alignment": 1,
-          "cornerRadius": 0,
-          "height": 32,
-          "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/bhtiktok.png?raw=true"
-        },
-        {
-          "class": "DepictionLabelView",
-          "useMargins": false,
-          "usePadding": false,
-          "textColor": "aaa",
-          "fontSize": 8,
-          "alignment": 1,
-          "text": "BHTikTok++"
         },
         {
           "spacing": 16,
