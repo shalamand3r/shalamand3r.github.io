@@ -8,66 +8,29 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Darkmode the way it was meant to be on OLED devices!",
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://b4db1r3r3p0.yourepo.com/pack/oleddarkmode#:~:text=OLED%20Dark%20Mode.%20Created%20by%20@fr0st,%20updated%20by%20me%20to",
+          "openExternal": true,
+          "tintColor": "#222c37"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Features:\n- 🖤 A proper OLED darkmode\n- 💡 Preserves battery (probably) by turning off dark pixels",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
         {
-          "class": "DepictionSeparatorView",
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
           "tintColor": "#5865f2"
-        },
-        {
-          "class": "DepictionSeparatorView",
-        },
-        {
-          "title": "Version",
-          "text": "1.0.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Last Updated",
-          "text": "09/27/24",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Developer",
-          "text": "fr0st & b4db1r3",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Compatibility",
-          "text": "17.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionImageView",
-          "alignment": 1,
-          "cornerRadius": 0,
-          "height": 32,
-          "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/oleddarkmode.png?raw=true"
-        },
-        {
-          "class": "DepictionLabelView",
-          "useMargins": false,
-          "usePadding": false,
-          "textColor": "aaa",
-          "fontSize": 8,
-          "alignment": 1,
-          "text": "OLED Dark Mode"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
         }
       ]
     },
@@ -76,68 +39,30 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionMarkdownView",
-          "markdown": "### 1.0.0\n- Now supports iOS 17.0! 🎉"
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://b4db1r3r3p0.yourepo.com/pack/oleddarkmode#:~:text=OLED%20Dark%20Mode.%20Created%20by%20@fr0st,%20updated%20by%20me%20to",
+          "openExternal": true,
+          "tintColor": "#222c37"
         },
         {
-          "class": "DepictionSeparatorView",
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 1.0.0\n- 🎉 shalaREPO Release",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
           "tintColor": "#5865f2"
-        },
-        {
-          "class": "DepictionSeparatorView",
-        },
-        {
-          "title": "Version",
-          "text": "1.0.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Last Updated",
-          "text": "09/27/24",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Developer",
-          "text": "fr0st & b4db1r3",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Compatibility",
-          "text": "17.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionImageView",
-          "alignment": 1,
-          "cornerRadius": 0,
-          "height": 32,
-          "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/oleddarkmode.png?raw=true"
-        },
-        {
-          "class": "DepictionLabelView",
-          "useMargins": false,
-          "usePadding": false,
-          "textColor": "aaa",
-          "fontSize": 8,
-          "alignment": 1,
-          "text": "OLED Dark Mode"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
         }
-      ],
-      "tintColor": "#222c37"
+      ]
     }
   ],
   "class": "DepictionTabView"
