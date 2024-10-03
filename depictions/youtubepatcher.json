@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Media:\n- 🎥 Block ALL ads\n- 🎶 Allow background playback\n- 📱 Supports both YouTube and YouTube Music!",
+          "markdown": "### Playback:\n- 🚫 Block ads\n- 🔊 Enable background playback\n- 🎧 Also supports YouTube Music!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
