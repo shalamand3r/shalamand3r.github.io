@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 📸 Mask album artwork \n- ✨ Large variety of styles to pick from\n- 📂 Import custom themes\n- 🔗 Supports third party music applications",
+          "markdown": "### Features:\n- 📸 Mask album artwork images \n- ✨ Large variety of styles to pick from\n- 📂 Import custom themes\n- 🔗 Supports third party music applications",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
