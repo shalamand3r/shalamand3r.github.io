@@ -5,7 +5,7 @@
   "tabs": [
     {
       "class": "DepictionStackView",
-      "tabname": "Features",
+      "tabname": "Details",
       "views": [
         {
           "class": "DepictionButtonView",
@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Playback:\n- 🚫 Block ads\n- 🔊 Enable background playback\n- 🎧 Also supports YouTube Music!",
+          "markdown": "### Features:\n- 🚫 Block ads\n- 🔊 Enable background playback\n- 🎧 Supports YouTube Music",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -26,7 +26,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Appearance:\n- 🌙 Includes PoomSmart's DarkerDarkMode",
+          "markdown": "### Appearance:\n- 🌙 PoomSmart's DarkerDarkMode",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
