@@ -26,7 +26,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Customization:\n- 👁️‍🗨️ Show/Hide UI elements\n- 🛑 Disable pull-to-refresh\n- ⛔ Disable sensitive content warnings\n- 🖊️ Larger character limit (comments + bio)\n- 🕒 Force enable video progress bar\n- ✔️ Display a fake checkmark (CLIENT)\n- 🔢 Spoof follower/following count (CLIENT)\n",
+          "markdown": "### Customization:\n- 👁️‍🗨️ Show/Hide UI elements\n- 🛑 Disable pull-to-refresh\n- ⛔ Disable sensitive content warnings\n- 🖊️ Larger character limit (comments + bio)\n- 🕒 Force enable video progress bar\n- 🔢 Spoof follower/following count (CLIENT)\n",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
