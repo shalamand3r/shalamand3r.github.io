@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/adkeyboard.png?raw=true",
-  "tintColor": "#cecbd4",
+  "tintColor": "#d1ced7",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -12,7 +12,7 @@
           "text": "Original Tweak",
           "action": "https://github.com/Dcsyhi1998/dcsyhi1998.github.io/blob/master/debs/jp.dcsyhi.adkeyboard_1.3_iphoneos-arm64.deb",
           "openExternal": true,
-          "tintColor": "#cecbd4"
+          "tintColor": "#d1ced7"
         },
         {
           "class": "DepictionSeparatorView"
@@ -51,7 +51,7 @@
           "text": "Original Tweak",
           "action": "https://github.com/Dcsyhi1998/dcsyhi1998.github.io/blob/master/debs/jp.dcsyhi.adkeyboard_1.3_iphoneos-arm64.deb",
           "openExternal": true,
-          "tintColor": "#cecbd4"
+          "tintColor": "#d1ced7"
         },
         {
           "class": "DepictionSeparatorView"
