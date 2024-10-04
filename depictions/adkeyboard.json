@@ -18,7 +18,15 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🎨 Adapts the keyboard color to match application icons",
+          "markdown": "### Features:\n- 🎨 Customize your keyboard color!",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Notes:\n- ⚠️ While you can choose the **adaptive** option, it's not the prettiest. Use ColorBoard instead!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
