@@ -8,152 +8,38 @@
       "tabname": "Details",
       "views": [
         {
-          "markdown": "### Features:\n- Change your font system-wide!",
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://gitlab.com/Baw-Appie/A-Font",
+          "openExternal": true,
+          "tintColor": "#4bb0bf"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Features:\n- ✏️ Change your system font!\n- 🗂️ Supports custom font imports",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
         {
-          "class": "DepictionSeparatorView",
-          "tintColor": "#4bb0bf"
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
           "tintColor": "#5865f2"
         },
         {
           "class": "DepictionButtonView",
           "text": "Google Fonts",
           "action": "https://fonts.google.com/",
+          "openExternal": true,
           "tintColor": "#EA4335"
-        },
-        {
-          "class": "DepictionSeparatorView",
-          "tintColor": "#4bb0bf"
-        },
-        {
-          "title": "Version",
-          "text": "2.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Last Updated",
-          "text": "09/27/24",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Developer",
-          "text": "Baw Appie",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Compatibility",
-          "text": "17.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionImageView",
-          "alignment": 1,
-          "cornerRadius": 0,
-          "height": 32,
-          "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/a-font.png?raw=true"
-        },
-        {
-          "class": "DepictionLabelView",
-          "useMargins": false,
-          "usePadding": false,
-          "textColor": "aaa",
-          "fontSize": 8,
-          "alignment": 1,
-          "text": "A-Font"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
         }
       ]
-    },
-    {
-      "tabname": "Changelog",
-      "class": "DepictionStackView",
-      "views": [
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### 2.0\n- Now supports iOS 17.0! 🎉"
-        },
-        {
-          "class": "DepictionSeparatorView",
-          "tintColor": "#4bb0bf"
-        },
-        {
-          "class": "DepictionButtonView",
-          "text": "Join the Discord",
-          "action": "https://discord.gg/twwttTGSuk",
-          "tintColor": "#5865f2"
-        },
-        {
-          "class": "DepictionButtonView",
-          "text": "Google Fonts",
-          "action": "https://fonts.google.com/",
-          "tintColor": "#EA4335"
-        },
-        {
-          "class": "DepictionSeparatorView",
-          "tintColor": "#4bb0bf"
-        },
-        {
-          "title": "Version",
-          "text": "2.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Last Updated",
-          "text": "09/27/24",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Developer",
-          "text": "Baw Appie",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Compatibility",
-          "text": "17.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionImageView",
-          "alignment": 1,
-          "cornerRadius": 0,
-          "height": 32,
-          "width": 32,
-          "URL": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/a-font.png?raw=true"
-        },
-        {
-          "class": "DepictionLabelView",
-          "useMargins": false,
-          "usePadding": false,
-          "textColor": "aaa",
-          "fontSize": 8,
-          "alignment": 1,
-          "text": "A-Font"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
-        }
-      ],
-      "tintColor": "#4bb0bf"
     },
     {
       "tabname": "Tutorial",
@@ -227,6 +113,43 @@
         {
           "spacing": 16,
           "class": "DepictionSpacerView"
+        }
+      ]
+    },
+    {
+      "tabname": "Changelog",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://gitlab.com/Baw-Appie/A-Font",
+          "openExternal": true,
+          "tintColor": "#4bb0bf"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 1.11.0\n- 🎉 shalaREPO Release",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Google Fonts",
+          "action": "https://fonts.google.com/",
+          "openExternal": true,
+          "tintColor": "#EA4335"
         }
       ]
     }
