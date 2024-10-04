@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/hotspotqr.png?raw=true",
-  "tintColor": "#76ce68",
+  "tintColor": "#16cf60",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -12,7 +12,7 @@
           "text": "Original Tweak",
           "action": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hotspotqrDp#:~:text=A%20page%20about%20iPhone%20Software.%20Compatible%20with%20iOS%2011%20to",
           "openExternal": true,
-          "tintColor": "#76ce68"
+          "tintColor": "#16cf60"
         },
         {
           "class": "DepictionSeparatorView"
@@ -43,7 +43,7 @@
           "text": "Original Tweak",
           "action": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hotspotqrDp#:~:text=A%20page%20about%20iPhone%20Software.%20Compatible%20with%20iOS%2011%20to",
           "openExternal": true,
-          "tintColor": "#76ce68"
+          "tintColor": "#16cf60"
         },
         {
           "class": "DepictionSeparatorView"
