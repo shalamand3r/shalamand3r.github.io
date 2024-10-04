@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 😄 Quick emoji access bar on notched devices!\n- 🔧 Highly configurable",
+          "markdown": "### Features:\n- 😄 Quick emoji bar on notched devices!\n- 🔧 Highly configurable",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
