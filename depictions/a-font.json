@@ -38,9 +38,6 @@
           "action": "https://discord.gg/twwttTGSuk",
           "openExternal": true,
           "tintColor": "#5865f2"
-        },
-        {
-          "class": "DepictionSeparatorView"
         }
       ]
     },
@@ -69,7 +66,7 @@
         {
           "class": "DepictionButtonView",
           "text": "Google Fonts",
-          "action": "filza://var/containers",
+          "action": "open",
           "openExternal": true,
           "tintColor": "#EA4335"
         },
