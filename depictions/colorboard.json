@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/wifiqr.png?raw=true",
-  "tintColor": "#177ef3",
+  "tintColor": "#2274a6",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -10,15 +10,23 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "http://apt.thebigboss.org/onepackage.php?bundleid=com.kingpuffdaddi.wifiqr#:~:text=WiFiQR.%20Author:%20KingPuffdaddi%20Section:%20Tweaks%20%C2%B7%20Current%20Version:%201.1.1%20Maintainer:",
+          "action": "https://gmoran.me/repo/",
           "openExternal": true,
-          "tintColor": "#177ef3"
+          "tintColor": "#2274a6"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 📶 Generate a QR code for your current WiFi network\n- 📲 Quickly share your WiFi network with others\n- ⚙️ Integrates directly into the Wifi page in settings",
+          "markdown": "### Features:\n- 🎨 Adapts the keyboard color to your current app icon!",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Notes:\n- ⚠️ Will not work on system apps (iMessage, App Store, etc.)",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -41,15 +49,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "http://apt.thebigboss.org/onepackage.php?bundleid=com.kingpuffdaddi.wifiqr#:~:text=WiFiQR.%20Author:%20KingPuffdaddi%20Section:%20Tweaks%20%C2%B7%20Current%20Version:%201.1.1%20Maintainer:",
+          "action": "https://gmoran.me/repo/",
           "openExternal": true,
-          "tintColor": "#177ef3"
+          "tintColor": "#2274a6"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.2\n- 🎉 shalaREPO Release",
+          "markdown": "### 1.0.0\n- 🎉 shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
