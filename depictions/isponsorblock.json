@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- ⏭️ Skips sponsored segments of YouTube videos and more!\n- ✏️ Contribute to the SponsorBlock database by marking sections of unlabled videos",
+          "markdown": "### Features:\n- ⏭️ Skips sponsored segments (and more!) of YouTube videos\n- ✏️ Contribute to SponsorBlock by marking sponsored sections of unlabled videos",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
