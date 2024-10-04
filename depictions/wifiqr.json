@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 📶 Generate a QR code for your current WiFi network\n- 📲 Quickly share your WiFi network with others\n- ⚙️ Integrates directly into the Wifi page in Settings",
+          "markdown": "### Features:\n- 📶 Generate a QR code for your current WiFi network\n- 📲 Quickly share your WiFi network with others\n- ⚙️ Integrates directly into the Wifi page in settings",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
