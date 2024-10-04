@@ -57,7 +57,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### To install custom fonts:\n1. Download a .ttf font from Google Fonts\n2. Move the font to **/var/containers/Bundle/Application/.jbroot-XYZ/Library/A-Font**\n3. Apply the font in the A-Font settings pannel"
+          "markdown": "### Installing custom fonts:\n1. Download a .ttf font from Google Fonts\n2. Move the font to **/var/containers/Bundle/Application/.jbroot-XYZ/Library/A-Font**\n3. Apply the font in the A-Font settings pannel"
         },
         {
           "class": "DepictionSeparatorView",
