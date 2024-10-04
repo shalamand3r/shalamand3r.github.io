@@ -27,13 +27,6 @@
         },
         {
           "class": "DepictionButtonView",
-          "text": "Google Fonts",
-          "action": "https://fonts.google.com/",
-          "openExternal": true,
-          "tintColor": "#EA4335"
-        },
-        {
-          "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
           "openExternal": true,
@@ -105,13 +98,6 @@
         },
         {
           "class": "DepictionSeparatorView"
-        },
-       {
-          "class": "DepictionButtonView",
-          "text": "Google Fonts",
-          "action": "https://fonts.google.com/",
-          "openExternal": true,
-          "tintColor": "#EA4335"
         },
         {
           "class": "DepictionButtonView",
