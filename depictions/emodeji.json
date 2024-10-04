@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 📸 Turn camera app labels (photo/video/slo-mo/lapse...) into emojis!",
+          "markdown": "### Features:\n- 📸 Turn camera app labels (photo/video...) into emojis!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
