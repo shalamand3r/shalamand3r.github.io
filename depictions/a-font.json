@@ -77,7 +77,7 @@
         {
           "class": "DepictionButtonView",
           "text": "Google Fonts",
-          "action": "https://fonts.google.com/",
+          "action": "filza://var/containers",
           "openExternal": true,
           "tintColor": "#EA4335"
         },
