@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🎨 Adapts the keyboard color to math application icons",
+          "markdown": "### Features:\n- 🎨 Adapts the keyboard color to match application icons",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
