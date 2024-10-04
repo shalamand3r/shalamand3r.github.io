@@ -57,7 +57,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Notes: \n- ⚠️ You must have Filza installed to add custom fonts either through TrollStore or from RootHide's repo"
+          "markdown": "### Notes: \n- ⚠️ You must have Filza installed to add custom fonts (TrollStore recommended)"
         },
         {
           "class": "DepictionSeparatorView",
