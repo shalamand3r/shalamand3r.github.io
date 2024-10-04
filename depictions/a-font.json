@@ -66,9 +66,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Google Fonts",
-          "action": "open",
+          "action": "https://fonts.google.com/",
           "openExternal": true,
           "tintColor": "#EA4335"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Open Filza up to /Aplication/",
+          "action": "open",
+          "tintColor": "#0bb1db"
         },
         {
           "class": "DepictionButtonView",
