@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🎨 Adapts the keyboard color to your current app icon!",
+          "markdown": "### Features:\n- 🌈 Adapts the keyboard color to your current app icon!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
