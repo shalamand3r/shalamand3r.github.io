@@ -53,8 +53,14 @@
           "markdown": "### Installing custom fonts:\n1. ⬇️ Download a .ttf font from Google Fonts\n2. 📂 Move the font to **/var/containers/Bundle/Application/.jbroot-XYZ/Library/A-Font**\n3. ✅ Apply the font and respring"
         },
         {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Notes: \n- ⚠️ Make sure you have Filza installed either through TrollStore or from RootHide's repo"
+        },
+        {
           "class": "DepictionSeparatorView",
-          "tintColor": "#4bb0bf"
         },
         {
           "class": "DepictionButtonView",
