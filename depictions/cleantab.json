@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/colorboard.png?raw=true",
-  "tintColor": "#2677a8",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/cleantab.png?raw=true",
+  "tintColor": "#554f5d",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -10,15 +10,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://gmoran.me/repo/",
+          "action": "https://repo.co.kr/package/com.rpgfarm.cleantab-ios13",
           "openExternal": true,
-          "tintColor": "#2677a8"
+          "tintColor": "#554f5d"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🌈 Adapts the keyboard color to your current app icon!",
+          "markdown": "### Features:\n- ✂️ Removes labels from lower navigation tabs",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -26,7 +26,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Notes:\n- ⚠️ Will not work on system apps (iMessage, App Store, etc.)",
+          "markdown": "### Notes:\n- ⚠️ Only apps that utilize **UITabBarItem** will be affected",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -49,15 +49,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://gmoran.me/repo/",
+          "action": "https://repo.co.kr/package/com.rpgfarm.cleantab-ios13",
           "openExternal": true,
-          "tintColor": "#2677a8"
+          "tintColor": "#554f5d"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.0.0\n- 🎉 shalaREPO Release",
+          "markdown": "### 1.0.2\n- 🎉 shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
