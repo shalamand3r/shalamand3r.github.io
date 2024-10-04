@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/colorboard.png?raw=true",
-  "tintColor": "#2677a8",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/cask3.png?raw=true",
+  "tintColor": "#fea9c0",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -10,15 +10,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://gmoran.me/repo/",
+          "action": "https://github.com/ryannair05/Cask-3",
           "openExternal": true,
-          "tintColor": "#2677a8"
+          "tintColor": "#fea9c0"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🎨 Adapts the keyboard color to your current app icon!",
+          "markdown": "### Features:\n- 🌀 Animate tables when scrolling!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -26,7 +26,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Notes:\n- ⚠️ Will not work on system apps (iMessage, App Store, etc.)",
+          "markdown": "### Notes:\n- ⚠️ You won't be able to adjust Cask 3 settings for unknown reasons",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -49,9 +49,9 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://gmoran.me/repo/",
+          "action": "https://github.com/ryannair05/Cask-3",
           "openExternal": true,
-          "tintColor": "#2677a8"
+          "tintColor": "#fea9c0"
         },
         {
           "class": "DepictionSeparatorView"
