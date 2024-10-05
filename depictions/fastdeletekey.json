@@ -1,0 +1,77 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/tabbaraptic.png?raw=true",
+  "tintColor": "#1f5b96",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tabbarapticDp#:~:text=TabBaraptic%20is%20a%20Tiny%20Tweak%20that%20Gives%20you%20Smooth%20Haptics",
+          "openExternal": true,
+          "tintColor": "#1f5b96"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Features:\n- 📳 Adds haptic feedback to your tab bar!\n- 🛠️ Incredibly simple to configure",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Notes:\n- ⚠️ Only apps that utilize **UITabBarItem** will support haptic feedback",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Changelog",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tabbarapticDp#:~:text=TabBaraptic%20is%20a%20Tiny%20Tweak%20that%20Gives%20you%20Smooth%20Haptics",
+          "openExternal": true,
+          "tintColor": "#1f5b96"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 1.0.4\n- 🎉 shalaREPO Release",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView"
+}
