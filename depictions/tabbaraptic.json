@@ -26,7 +26,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Notes:\n- ⚠️ Only apps that utilize **UITabBarItem** will use haptic feedback",
+          "markdown": "### Notes:\n- ⚠️ Only apps that utilize **UITabBarItem** will support haptic feedback",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
