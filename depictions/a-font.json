@@ -99,6 +99,13 @@
           "class": "DepictionSeparatorView"
         },
         {
+          "markdown": "### 1.11.1\n- ⚒️ Fixed settings icon",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "markdown": "### 1.11.0\n- 🎉 shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
