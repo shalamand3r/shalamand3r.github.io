@@ -57,7 +57,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.5\n- 🆕 New settings pane!",
+          "markdown": "### 1.5\n- 🆕 New preference pane!",
           "class": "DepictionMarkdownView"
         },
         {
