@@ -57,6 +57,13 @@
           "class": "DepictionSeparatorView"
         },
         {
+          "markdown": "### 1.0.5\n- ⚒️ Revamped settings",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "markdown": "### 1.0.4\n- 🎉 shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
