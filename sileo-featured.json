@@ -1,10 +1,10 @@
 {
-    "itemSize": "{263, 148}",
+    "itemSize": "{256, 144}",
     "banners": [
         {
             "package": "barmoji",
             "title": "Barmoji",
-            "url": "https://repo.packix.com/media/com.cpdigitaldarkroom.barmoji/screenshots/0.jpeg"
+            "url": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/barmoji.png?raw=true"
         }
     ],
     "class": "FeaturedBannersView",
