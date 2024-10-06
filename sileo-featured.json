@@ -1,12 +1,12 @@
 {
-    "itemSize": "{256, 144}",
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius": 10,
     "banners": [
         {
-            "package": "barmoji",
+            "url": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/featured/barmoji.png?raw=true",
             "title": "Barmoji",
-            "url": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/featured/barmoji.png?raw=true"
+            "package": "barmoji"
         }
-    ],
-    "class": "FeaturedBannersView",
-    "itemCornerRadius": 15
+    ]
 }
