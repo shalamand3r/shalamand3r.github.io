@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🎨 Customize your *Now Playing* view on Apple Music, Spotify and Tidal\n- 🪄 Simplified for RootHide/Bootstrap",
+          "markdown": "### Features:\n- 🪄 Simplified for RootHide/Bootstrap\n- 🎨 Customize your *Now Playing* view on Apple Music, Spotify and Tidal",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
