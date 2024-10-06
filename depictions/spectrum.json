@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/colorboard.png?raw=true",
-  "tintColor": "#2677a8",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/spectrum.png?raw=true",
+  "tintColor": "#a35086",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -10,23 +10,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://gmoran.me/repo/",
+          "action": "https://github.com/Skittyblock/Spectrum",
           "openExternal": true,
-          "tintColor": "#2677a8"
+          "tintColor": "#a35086"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🌈 Adapts the keyboard color to your current app icon!",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "markdown": "### Notes:\n- ⚠️ Will not work on system apps (iMessage, App Store, etc.)",
+          "markdown": "### Features:\n- 🌈 Adjust system accents!\n- 🛠️ Simplified preference pane",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -49,15 +41,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://gmoran.me/repo/",
+          "action": "https://github.com/Skittyblock/Spectrum",
           "openExternal": true,
-          "tintColor": "#2677a8"
+          "tintColor": "#a35086"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.0.0\n- 🎉 shalaREPO Release",
+          "markdown": "### 1.2\n- 🎉 shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
