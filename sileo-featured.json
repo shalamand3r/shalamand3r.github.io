@@ -1,7 +1,7 @@
 {
     "class": "FeaturedBannersView",
     "itemSize": "{263, 148}",
-    "itemCornerRadius": 10,
+    "itemCornerRadius": 12.5,
     "banners": [
         {
             "url": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/featured/barmoji.png?raw=true",
