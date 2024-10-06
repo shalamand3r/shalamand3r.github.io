@@ -57,7 +57,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.0.4\n- ⚒️ Updated preferences that still don't function",
+          "markdown": "### 1.0.4\n- ⚒️ Updated preferences (they still do not function)",
           "class": "DepictionMarkdownView"
         },
         {
