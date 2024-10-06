@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/colorboard.png?raw=true",
-  "tintColor": "#2677a8",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/musicbackground.png?raw=true",
+  "tintColor": "#455d66",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -10,15 +10,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://gmoran.me/repo/",
+          "action": "https://havoc.app/package/musicbackground",
           "openExternal": true,
-          "tintColor": "#2677a8"
+          "tintColor": "#455d66"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🌈 Adapts the keyboard color to your current app icon!",
+          "markdown": "### Features:\n- 🎨 Customize your *Now Playing* view on Apple Music, Spotify and Tidal\n- 🪄 Simplified for RootHide/Bootstrap",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -26,7 +26,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Notes:\n- ⚠️ Will not work on system apps (iMessage, App Store, etc.)",
+          "markdown": "### Notes:\n- ⚠️ CarPlay is experimental and may not work",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -49,15 +49,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://gmoran.me/repo/",
+          "action": "https://havoc.app/package/musicbackground",
           "openExternal": true,
-          "tintColor": "#2677a8"
+          "tintColor": "#455d66"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.0.0\n- 🎉 shalaREPO Release",
+          "markdown": "### 2.4\n- 🎉 shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
