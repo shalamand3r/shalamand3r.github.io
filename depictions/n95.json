@@ -26,7 +26,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Notes:\n- 📦 N95 is larger than most tweaks (~30MB)\n- ⁉️ For whatever reason, the stock Apple Music app does NOT work with N95",
+          "markdown": "### Notes:\n- ⁉️ For whatever reason, the stock Apple Music app does NOT work with N95",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -52,6 +52,13 @@
           "action": "https://havoc.app/package/n95",
           "openExternal": true,
           "tintColor": "#f7e483"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 4.6\n- ⚒️ Reduced package size by ~20mb",
+          "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSeparatorView"
