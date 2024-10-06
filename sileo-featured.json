@@ -1,1 +1,12 @@
-{"itemSize":"{263, 148}","banners":[{"package":"barmoji","title":"Barmoji","url":"https://repo.packix.com/media/com.cpdigitaldarkroom.barmoji/screenshots/0.jpeg"}],"class":"FeaturedBannersView","itemCornerRadius":15}
+{
+    "itemSize": "{263, 148}",
+    "banners": [
+        {
+            "package": "barmoji",
+            "title": "Barmoji",
+            "url": "https://repo.packix.com/media/com.cpdigitaldarkroom.barmoji/screenshots/0.jpeg"
+        }
+    ],
+    "class": "FeaturedBannersView",
+    "itemCornerRadius": 15
+}
