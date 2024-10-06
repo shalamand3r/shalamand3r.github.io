@@ -46,10 +46,15 @@
           "tintColor": "#dbdad7"
         },
         {
-          "class": "DepictionSeparatorView"
+          "markdown": "### 1.1\n- ⚒️ Fixed settings icon",
+          "class": "DepictionMarkdownView"
         },
         {
-          "markdown": "### 1.0.0\n- 🎉 shalaREPO Release",
+          "class": "DepictionSeparatorView"
+        },
+        
+        {
+          "markdown": "### 1.0\n- 🎉 shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
