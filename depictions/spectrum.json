@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/spectrum.png?raw=true",
-  "tintColor": "#d06861",
+  "tintColor": "#ed7667",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -12,7 +12,7 @@
           "text": "Original Tweak",
           "action": "https://github.com/Skittyblock/Spectrum",
           "openExternal": true,
-          "tintColor": "#d06861"
+          "tintColor": "#ed7667"
         },
         {
           "class": "DepictionSeparatorView"
@@ -43,7 +43,7 @@
           "text": "Original Tweak",
           "action": "https://github.com/Skittyblock/Spectrum",
           "openExternal": true,
-          "tintColor": "#d06861"
+          "tintColor": "#ed7667"
         },
         {
           "class": "DepictionSeparatorView"
