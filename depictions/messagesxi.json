@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/spectrum.png?raw=true",
-  "tintColor": "#d06861",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/messagesxi.png?raw=true",
+  "tintColor": "#9be38f",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -10,15 +10,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://github.com/Skittyblock/Spectrum",
+          "action": "https://havoc.app/package/messagesxi",
           "openExternal": true,
-          "tintColor": "#d06861"
+          "tintColor": "#9be38f"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🌈 Adjust system accents!\n- 🛠️ Simplified preference pane",
+          "markdown": "### Features:\n- 💪 The ultimate iMessage tweak",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -41,22 +41,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://github.com/Skittyblock/Spectrum",
+          "action": "https://havoc.app/package/messagesxi",
           "openExternal": true,
-          "tintColor": "#d06861"
+          "tintColor": "#9be38f"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.3\n- 🆕 Updated icon",
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "markdown": "### 1.2\n- 🎉 shalaREPO Release",
+          "markdown": "### 2.3.3\n- 🎉 shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
