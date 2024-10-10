@@ -57,7 +57,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.0.5\n- \n- 🗑️ Removed broken settings panel\n- 📝 Renamed to **Cask Lite** due to partial functionality",
+          "markdown": "### 1.0.5\n- 🗑️ Removed broken settings panel\n- 📝 Renamed to **Cask Lite** due to partial functionality",
           "class": "DepictionMarkdownView"
         },
         {
