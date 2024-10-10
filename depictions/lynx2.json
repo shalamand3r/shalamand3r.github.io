@@ -23,12 +23,12 @@
           "class": "DepictionMarkdownView"
         },
         {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "markdown": "### Notes:\n- ✅ App-specific features continue to work\n- ⚠️ Springboard and similar options such as Lockscreen will not work",
+          "markdown": "### Notes:\n- Modified version of **Lynx 2** that only shows settings compatible with Roothide/Bootstrap",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionSeparatorView"
@@ -52,6 +52,20 @@
           "action": "https://havoc.app/package/lynxtwo",
           "openExternal": true,
           "tintColor": "#5b40d6"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 2.5.5\n- 📝 Updated name from **Lynx 2** to **Lynx Lite** due to limited capabilities",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 2.5.4\n- 🛠️ Bug fixes",
+          "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSeparatorView"
