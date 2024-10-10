@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/alpine.png?raw=true",
-  "tintColor": "#23ad69",
+  "tintColor": "#30a260",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -20,7 +20,7 @@
         },
         {
           "class": "DepictionSeparatorView",
-          "tintColor": "#23ad69"
+          "tintColor": "#30a260"
         },
         {
           "title": "Version",
@@ -85,7 +85,7 @@
         },
         {
           "class": "DepictionSeparatorView",
-          "tintColor": "#23ad69"
+          "tintColor": "#30a260"
         },
         {
           "title": "Version",
@@ -133,7 +133,7 @@
           "class": "DepictionSpacerView"
         }
       ],
-      "tintColor": "#23ad69"
+      "tintColor": "#30a260"
     }
   ],
   "class": "DepictionTabView"
