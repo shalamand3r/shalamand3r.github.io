@@ -18,12 +18,12 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🎨 Ultimate iDevice customization\n- 🔧 Lots of options to configure!\n- 🌟 Beautiful UI",
+          "markdown": "### Features:\n- 🎨 All in one customization tweak\n- 🔧 Lots of options to configure!\n- 🌟 Beautiful UI by MTAC",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
         {
-          "markdown": "### Notes:\n- Modified version of **Lynx 2** that only shows settings compatible with Roothide/Bootstrap",
+          "markdown": "### Notes:\n- ⚠️ Lynx Lite is a modified version of **Lynx 2** for Roothide/Bootstrap users",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
