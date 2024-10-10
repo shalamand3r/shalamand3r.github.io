@@ -26,7 +26,7 @@
           "class": "DepictionSeparatorView"
         },
          {
-          "markdown": "### Notes:\n- ⚠️ **Cask Lite** is a basic version of **Cask 3** for Roothide/Bootstrap users\n- 🗑️ Cask preferences have been removed as they didn't work)",
+          "markdown": "### Notes:\n- ⚠️ **Cask Lite** is a basic version of **Cask 3** for Roothide/Bootstrap users\n- 🗑️ Cask preferences have been removed as they didn't work",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
