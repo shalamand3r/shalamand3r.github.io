@@ -18,15 +18,15 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🌀 Animate tables when scrolling!",
+          "markdown": "### Features:\n- 🌀 Animate your table cells when scrolling!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSeparatorView"
         },
-        {
-          "markdown": "### Notes:\n- ⚠️ You won't be able to adjust Cask 3 settings for unknown reasons",
+         {
+          "markdown": "### Notes:\n- ⚠️ Cask Lite is a modified version of **Cask 3** for Roothide/Bootstrap users",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -52,6 +52,13 @@
           "action": "https://github.com/ryannair05/Cask-3",
           "openExternal": true,
           "tintColor": "#feb1c6"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 1.0.5\n- 📝 Renamed to **Cask Lite** due to broken functionality",
+          "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSeparatorView"
