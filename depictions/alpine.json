@@ -47,6 +47,7 @@
         },
         {
           "class": "DepictionSeparatorView"
+        },
         {
           "markdown": "### 1.4\n- 🎉 shalaREPO Release",
           "class": "DepictionMarkdownView"
