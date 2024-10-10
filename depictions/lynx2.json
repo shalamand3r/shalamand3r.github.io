@@ -54,7 +54,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 2.5.5\n- 📝 Updated name from **Lynx 2** to **Lynx Lite** due to limited capabilities",
+          "markdown": "### 2.5.5\n- 🗑 Removed settings that never functioned on Roothide/Bootstrap\n- 📝 Updated name from **Lynx 2** to **Lynx Lite** due to limited capabilities",
           "class": "DepictionMarkdownView"
         },
         {
