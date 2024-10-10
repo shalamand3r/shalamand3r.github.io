@@ -23,7 +23,7 @@
           "class": "DepictionMarkdownView"
         },
         {
-          "markdown": "### Notes:\n- ⚠️ Lynx Lite is a modified version of **Lynx 2** for Roothide/Bootstrap users",
+          "markdown": "### Notes:\n- ⚠️ Lynx Lite is a modified version of **Lynx 2** for Roothide/Bootstrap users\n- 🗑️ Settings that require a proper jailbreak have been removed",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
