@@ -1,0 +1,945 @@
+Name: A-Font
+Package: a-font
+Version: 1.11.0
+Description: Change your system font!
+Author: Baw Appie
+Maintainer: Baw Appie
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.rpgfarm.a-font
+Filename: debs/a-font/a-font1.11.0.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/a-font.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/a-font.json
+Size: 1367050
+MD5Sum: 796947bb630734970c9517cd5f24d964
+SHA1: 47e5e6e744ab3a1e69adbc5933eedd23a44eb9e8
+SHA256: aec96e170f21bc5d438299e6b06abf28fc71421e386dd73cd3659ec9c9fad4f4
+
+Name: A-Font
+Package: a-font
+Version: 1.11.1
+Description: Change your system font!
+Author: Baw Appie
+Maintainer: Baw Appie
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.rpgfarm.a-font
+Filename: debs/a-font/a-font1.11.1.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/a-font.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/a-font.json
+Size: 1354058
+MD5Sum: c08424b7dca73d67fe2e7919364198bb
+SHA1: e2fb97b7eae1cbcb3725f8275001d251d1396bf5
+SHA256: 97e28ca33a6898a9573bb9b40c39ee8deadeae1a437761f18c82b6d30d2b25f9
+
+Name: Satella
+Package: satella
+Version: 2.0.0
+Description: Modern in-app purchase cracker!
+Author: Paisseon
+Maintainer: Paisseon
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit, com.opa334.altlist
+Filename: debs/satella.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/satella.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/satella.json
+Size: 89416
+MD5Sum: 675e1ff05a10757e51cf8f528f87dab0
+SHA1: a6a65a0181ceceff76fccb9a3d45fa82e3bb9f71
+SHA256: 6ee8763e3cb3882bf3b4a1e80fa081a00de3596a11c1126ea5eb2e5370c85152
+
+Name: YouTubePatcher
+Package: youtubepatcher
+Version: 1.0
+Description: No ads and background playback for YouTube & YouTube Music!
+Author: ichitaso
+Maintainer: ichitaso
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.ichitaso.youtubepatcher
+Filename: debs/youtubepatcher.deb
+Size: 7326
+MD5Sum: 4368f736d82c8b60cbe95a5d5cf5c4e8
+SHA1: d443fdb7ba044db82ad3ed7dd151dc58a09ec19f
+SHA256: 4790eb233f9b3c2724c8ada70d6c7d90488c071831430867207d70c4731c6f51
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/youtubepatcher.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/youtubepatcher.json
+
+Name: Alpine
+Package: alpine
+Version: 1.5
+Description: tvOS alerts for iOS
+Author: MTAC
+Maintainer: MTAC
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit, ws.hbang.common
+Conflicts: com.mtac.alpine, xyz.cypwn.alpine
+Filename: debs/alpine.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/alpine.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/alpine.json
+Size: 387734
+MD5Sum: 767091edc87428d1f9512bf6c8c4cc53
+SHA1: 0e4a909489dfbba314d5d284bb510210c482fe53
+SHA256: 41b08557fee0b16a6e1634e0f41df20a7493dceb84f0e4754e8a6ec6bf9b270c
+
+Name: Lynx 2
+Package: lynx2
+Version: 2.5.3
+Description: Ultimate iDevice Customization
+Author: MTAC
+Maintainer: MTAC
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader, ws.hbang.common
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.mtac.lynxtwo, xyz.cypwn.lynxtwo, xyz.cypwn.lynxapp
+Filename: debs/lynx2/lynx22.5.3.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/lynx2.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/lynx2.json
+Size: 1603424
+MD5Sum: 45348f1c81289942da9b82ad7ba4de44
+SHA1: d2b5c42bce1e1becc8be1e1dcff871e6b5e06c17
+SHA256: 9d0a125617a64b2390f80da0fb436922a9091c3b24c94fee51e6ab9908c20bc2
+
+Name: Lynx 2
+Package: lynx2
+Version: 2.5.4
+Description: Ultimate iDevice Customization
+Author: MTAC
+Maintainer: MTAC
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader, ws.hbang.common
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.mtac.lynxtwo, xyz.cypwn.lynxtwo, xyz.cypwn.lynxapp
+Filename: debs/lynx2/lynx22.5.4.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/lynx2.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/lynx2.json
+Size: 1610864
+MD5Sum: 07859fd14d244af0c20ace671a2ac99f
+SHA1: a452b4b680a74f01c6f0f6a84b8faccd7423bf3b
+SHA256: a3a2ad38b25b289bc84fa774c6d1f1d782cc6d9144a2d227d874175031a90fd2
+
+Name: Lynx Lite
+Package: lynx2
+Version: 2.5.5
+Description: Ultimate iDevice Customization
+Author: MTAC
+Maintainer: MTAC
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader, ws.hbang.common
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.mtac.lynxtwo, xyz.cypwn.lynxtwo, xyz.cypwn.lynxapp
+Filename: debs/lynx2/lynxlite2.5.5.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/lynx2.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/lynx2.json
+Size: 1698602
+MD5Sum: bb3b3a216a3316dbb71aed7cf84d1b7d
+SHA1: 99483be79f30380f46b1dc4135bd890cc410b6f5
+SHA256: 334b51a388f157e1c6335034b991c0cb17654fc1770626396b4bbb4f52c39c4a
+
+Name: eModeji
+Package: emodeji
+Version: 1.0.3
+Description: Turn camera app labels into emojis!
+Author: PoomSmart
+Maintainer: PoomSmart
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.ps.emodeji
+Filename: debs/emodeji.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/emodeji.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/emodeji.json
+Size: 7636
+MD5Sum: 61c6f8b51095248419d9da43d9b05d8c
+SHA1: 58b15a5a6a52769bf6effa788f08f536569f88a0
+SHA256: 033ca4d8bd0017bdb43aae239fbe03a7963b3ed06ca4ecae118ae12d9a76d29f
+
+Name: Barmoji
+Package: barmoji
+Version: 1.0
+Description: Quick emoji access bar on notched devices!
+Author: DigitalDarkroom
+Maintainer: DigitalDarkroom
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: smallboard, kbappdock, xyz.cypwn.barmoji, com.yourepo.johnnyb186.barmojiios15, jp.dcsyhi.kbappdock, com.icraze.smallboard, netskao.actionbarreborn
+Filename: debs/barmoji/barmoji1.0.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/barmoji.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/barmoji.json
+Size: 56256
+MD5Sum: 124e7ef6a45df097eb1b4a10ffd53d5e
+SHA1: 838f983ddc6075720794770129332e673c584fa8
+SHA256: e8aa919a317dc662914d940b9fdccebff14ea471609621bf767e3910afe2a9e4
+
+Name: Barmoji
+Package: barmoji
+Version: 1.1
+Description: Quick emoji access bar on notched devices!
+Author: DigitalDarkroom
+Maintainer: DigitalDarkroom
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: smallboard, kbappdock, xyz.cypwn.barmoji, com.yourepo.johnnyb186.barmojiios15, jp.dcsyhi.kbappdock, com.icraze.smallboard, netskao.actionbarreborn
+Filename: debs/barmoji/barmoji1.1.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/barmoji.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/barmoji.json
+Size: 50640
+MD5Sum: 91a9a22b38f35bee8fc42a78bf16615c
+SHA1: c9c9b7638b4a8f79d4827b305f7ea852d84d5ebe
+SHA256: 1242b54d6df5fdc2699c5fdea9661bd205296538bf69f114d5fa366072e93cf3
+
+Name: Cask 3
+Package: cask3
+Version: 1.0.3
+Description: Animated table scrolling
+Author: Ryan Nair
+Maintainer: Ryan Nair
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit, dev.theos.orion
+Conflicts: com.ryannair05.cask3
+Filename: debs/cask3/cask31.0.3.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/cask3.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/cask3.json
+Size: 346784
+MD5Sum: 9a77c592a4ef50876b5d5cd91b0359e2
+SHA1: 85356d277b5b7bc62c7ec22830fe8061eb964c0b
+SHA256: acc0c264022556bbf499561d51ffdff2b59c71f71c4c77ade7f23a2f9adb0a54
+
+Name: Cask 3
+Package: cask3
+Version: 1.0.4
+Description: Animated table scrolling
+Author: Ryan Nair
+Maintainer: Ryan Nair
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit, dev.theos.orion
+Conflicts: com.ryannair05.cask3
+Filename: debs/cask3/cask31.0.4.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/cask3.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/cask3.json
+Size: 96178
+MD5Sum: 32e44a6fa6c0c19a352c1c932ed8bbb0
+SHA1: 6c035f54634e9eb82b5913c960b4eb1e7ed564ed
+SHA256: 105a38ff907a2363181cc0dd8b5f823b8af520acc6dc42b473cbc429a3187fa5
+
+Name: Cask Lite
+Package: cask3
+Version: 1.0.5
+Description: Animated table scrolling
+Author: Ryan Nair
+Maintainer: Ryan Nair
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit, dev.theos.orion
+Conflicts: com.ryannair05.cask3
+Filename: debs/cask3/casklite1.0.5.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/cask3.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/cask3.json
+Size: 47332
+MD5Sum: b0e20241bf4cd824b664a9853209cb3d
+SHA1: 390fb682d33415360779a50d3b79a849afa95161
+SHA256: fa126de3825bb0aaa31d5619255ae666d132314f8b4aa25c676e06d50732098d
+
+Name: OLED Dark Mode
+Package: oleddarkmode
+Version: 1.0.0
+Description: A true dark mode for OLED devices!
+Author: fr0st & b4db1r3
+Maintainer: fr0st & b4db1r3
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.yourepo.b4db1r3r3p0.oleddarkmode
+Filename: debs/oleddarkmode.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/oleddarkmode.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/oleddarkmode.json
+Size: 12354
+MD5Sum: bd94af37f06c3fbb8df911362e7ef530
+SHA1: db3b1cde51570c257dbe9e57d201a1cae4d6d97d
+SHA256: c2addc7b14998c4b9a2a7f1b2a3ca2c44d79f01c652a9107b09ef9ce5dfe7864
+
+Name: iSponsorBlock
+Package: isponsorblock
+Version: 1.3.0
+Description: SponsorBlock port for iOS
+Author: Galactic Dev
+Maintainer: Galactic Dev
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit, ws.hbang.alderis
+Conflicts: com.galacticdev.isponsorblock
+Filename: debs/isponsorblock.deb
+Size: 125128
+MD5Sum: 7eae40572f424b82c16ff06b11523019
+SHA1: 620f9c2e68ce6b1ee8f445f961459a803996543a
+SHA256: 8a17d92622e4b17c4e9210feebaa786f1429fa567c585facaf05f961e0e1949c
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/isponsorblock.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/isponsorblock.json
+
+Name: ColorBoard
+Package: colorboard
+Version: 1.0.0
+Description: Adaptive keyboard color!
+Author: Guillermo Moran
+Maintainer: Guillermo Moran
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: me.gmoran.colorboard
+Filename: debs/colorboard.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/colorboard.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/colorboard.json
+Size: 5294
+MD5Sum: d80313e6deb871688f59076830373e07
+SHA1: fbc2a8733f88a9a9fdb1e1c16242aefadeac2ced
+SHA256: 6442dde11567900057eba8fdd79f7ed5eadf86927efb14747e77910dea7d9475
+
+Name: TweakSettings
+Package: tweaksettings
+Version: 1.1
+Description: Dedicated settings app for tweaks
+Author: CreatureSurvive
+Maintainer: CreatureSurvive
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader, preferred
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.creaturecoding.tweaksettings
+Filename: debs/tweaksettings.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/tweaksettings.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/tweaksettings.json
+Size: 449136
+MD5Sum: e9cded60d70a56e8bd8c6ad7aa0fa22f
+SHA1: 509268b254d4a203f3fbbbea14140fb8a88bf08d
+SHA256: 0baa06dedfb48b2cf03492c9eb3188d63f030d97bc55f71e5968a093b0240968
+
+Name: FastDeleteKey
+Package: fastdeletekey
+Version: 1.0.5
+Description: A MUCH better delete key!
+Author: CydiaGeek
+Maintainer: CydiaGeek
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.cydiageek.fastdeletekey
+Filename: debs/fastdeletekey/fastdeletekey1.0.5.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/fastdeletekey.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/fastdeletekey.json
+Size: 40620
+MD5Sum: 8eef95ef1eb7c5ee42bbb6f79fd539c5
+SHA1: 953d0a41610fde6308c61ef3b303c7d98c7e26d7
+SHA256: 27965131533c5537f8582ad11f09d9cfa3b116451f07c39af95b08667e38a909
+
+Name: FastDeleteKey
+Package: fastdeletekey
+Version: 1.0.6
+Description: A MUCH better delete key!
+Author: CydiaGeek
+Maintainer: CydiaGeek
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.cydiageek.fastdeletekey
+Filename: debs/fastdeletekey/fastdeletekey1.0.6.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/fastdeletekey.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/fastdeletekey.json
+Size: 51492
+MD5Sum: 6545745283dc5dedcd44b3d9042537aa
+SHA1: adb0901410a0653ce8f44764c6bd844b84d8741e
+SHA256: 37d2c16624b64a3f9a010c8e1824216a6533d55a2613147046aa1154ae031285
+
+Name: Keyboard Accio
+Package: kbaccio
+Version: 2.4.7
+Description: Switch between keyboards with ease!
+Author: Hiraku
+Maintainer: Hiraku
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: tw.hiraku.keyboardaccio
+Filename: debs/kbaccio.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/kbaccio.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/kbaccio.json
+Size: 7222
+MD5Sum: e5b7d41917238b7278199432e604955f
+SHA1: 4ce239dbd2d32677f740b1d5a2089e7fe4e70d39
+SHA256: 5ec54b20a75e922c1f457b51930a6440ff9c8dbf5c0f5bd22e3f322c0856a7d0
+
+Name: Shuffle
+Package: shuffle
+Version: 1.6.3
+Description: Organize your settings!
+Author: CreatureSurvive
+Maintainer: CreatureSurvive
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit, preferred
+Filename: debs/shuffle.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/shuffle.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/shuffle.json
+Installed-Size:
+Size: 319362
+MD5Sum: 6b7f556c040994b5a7963d16cba3a8b9
+SHA1: 82f23470c16b13a41b3147b32b0a699433f0d45c
+SHA256: 6476f132b36903f294dcc5acfef4ffcbf4f71ccc5ca3326dcbd741eba160d58b
+
+Name: libCSPreferences
+Package: preferred
+Version: 1.6.0
+Description: A preference library that doesn't suck!
+Author: CreatureSurvive
+Maintainer: CreatureSurvive
+Section: Libraries
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.creaturecoding.libcspreferences, xyz.cypwn.libcspreferences
+Filename: debs/libcspreferences.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/libcspreferences.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/libcspreferences.json
+Size: 977114
+MD5Sum: c6e142fe3da6d2f1229e7ad5d1aa58d4
+SHA1: f71aa6dd34d561852df15fc5d32201d9baa35f9b
+SHA256: 3841bb62432233c94bc821a2f4f3378f55644a152d30f744e47cc9ac13f99ef9
+
+Name: HotspotQR
+Package: hotspotqr
+Version: 1.1.4
+Description: Generate a QR code for joining your hotspot!
+Author: KingPuffdaddi
+Maintainer: KingPuffdaddi
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.kingpuffdaddi.hotspotqr
+Filename: debs/hotspotqr.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/hotspotqr.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/hotspotqr.json
+Size: 10588
+MD5Sum: 175d91252e79490ed5b39b834263fc63
+SHA1: bc5c6aa8b68fa793a06cf6b5399803702c8fdda3
+SHA256: bf008d0943e6deff47e031bee9658550233ad8efb4b9de87c2aedbab0cd78cc0
+
+Name: WifiQR
+Package: wifiqr
+Version: 1.2
+Description: Generate a QR code for joining your current WiFi
+Author: KingPuffdaddi
+Maintainer: KingPuffdaddi
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.kingpuffdaddi.wifiqr
+Filename: debs/wifiqr.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/wifiqr.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/wifiqr.json
+Size: 33468
+MD5Sum: 57c49b77e3d4748bb53e6c448976118f
+SHA1: 3b73104b99c12b2b1f652ee45640f8e1c2ebe538
+SHA256: d431a89ee9d88534c2d51bafb55e2016011acd4deb520253b69879628748a381
+
+Name: RecordPause
+Package: recordpause
+Version: 2.0.3
+Description: Pause/resume video recording
+Author: PoomSmart
+Maintainer: PoomSmart
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Filename: debs/recordpause.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/recordpause.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/recordpause.json
+Size: 13446
+MD5Sum: f8544eb48a27697867b081120fbe2d4f
+SHA1: ccd98d054e28006d163027878295cf06a6d355c9
+SHA256: ff6d4b5b9fe05d644577cc004c997b3ffb791f6f6412576d3250378da62a4457
+
+Package: twitter.nowesr1.photosplus
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: nowesr1
+Depends: rootless-compat, com.roothide.patchloader
+Filename: debs/twitter.nowesr1.photosplus.deb
+Section: Tweaks
+Description: Awesome tweak for the stock photos app!
+Author: nowesr1
+Name: PhotosPlus 🟡
+Installed-Size:
+Size: 31964
+MD5Sum: b2f7fd6787eb24e1b869612ab83f0544
+SHA1: 6d480e225b45d05c4dde9ddc0fe258bf4e7549a3
+SHA256: 83f8fb1e57b889715b8f9058be2a8f0d5e316281d87087dc1c3301bf5eb3b7ef
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/photosplus.png?raw=true
+
+Name: SmallBoard
+Package: smallboard
+Version: 1.2
+Description: Shrink the keyboard gap on notched devices
+Author: iCraze
+Maintainer: iCraze
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.yourepo.johnnyb186.barmojiios15, jp.dcsyhi.kbappdock, kbappdock, barmoji, kbappdock, xyz.cypwn.barmoji, com.icraze.smallboard, netskao.actionbarreborn
+Filename: debs/smallboard.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/smallboard.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/smallboard.json
+Installed-Size:
+Size: 5256
+MD5Sum: e539104a5ca6b50958eb0fc34f8a0e82
+SHA1: 6126436992b0190d534c7aeed6552f9bb65a69d3
+SHA256: 47deaad2bc3dcec8b2c58b8cd077284d5582d3908f0e550a5e70601e3c9cd0ca
+
+Name: KBAppDock
+Package: kbappdock
+Version: 1.6
+Description: Customize the bottom of your keyboard!
+Author: Dcsyhi
+Maintainer: Dcsyhi
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.icraze.smallboard, com.yourepo.johnnyb186.barmojiios15, barmoji, smallboard, xyz.cypwn.barmoji, jp.dcsyhi.kbappdock, com.icraze.smallboard, netskao.actionbarreborn
+Filename: debs/kbappdock.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/kbappdock.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/kbappdock.json
+Size: 842790
+MD5Sum: f776688fda5908a046b5609edc724670
+SHA1: 6fcefe42935e3090bbbcfa07d62b6ed499999cb9
+SHA256: a6e24d58bb839eb30a2a3c20a0ebcbb1a0f63a7e6d0c29688adfbc489fa33dab
+
+Name: ADKeyboard
+Package: adkeyboard
+Version: 1.4
+Description: Tint your keyboard color!
+Author: Dcsyhi
+Maintainer: Dcsyhi
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: jp.dcsyhi.adkeyboard
+Filename: debs/adkeyboard/adkeyboard1.4.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/adkeyboard.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/adkeyboard.json
+Size: 72292
+MD5Sum: f0e42d6e3bd824b32b5ce0c3615fd5b1
+SHA1: 17b680fb015ffaf0bfa54b17c4064341e149b664
+SHA256: 7f4bbe0c10e7e7251f4209aaef4282275a9513b15e677931b6f4c16e2bf68053
+
+Name: ADKeyboard
+Package: adkeyboard
+Version: 1.5
+Description: Tint your keyboard color!
+Author: Dcsyhi
+Maintainer: Dcsyhi
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: jp.dcsyhi.adkeyboard
+Filename: debs/adkeyboard/adkeyboard1.5.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/adkeyboard.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/adkeyboard.json
+Size: 65702
+MD5Sum: b589b750446606a19e846e0e0ed11b8c
+SHA1: d68215bdcda2d4b46d92d6b3d169371c8f611b17
+SHA256: b1935e5c95efe2453a1811ce0218b783dd4744e1b9770715cfc4e7911fe7e666
+
+Name: RedditFilter
+Package: redditfilter
+Version: 1.1.7
+Description: Filter unwanted content from Reddit!
+Author: level3tjg
+Maintainer: level3tjg
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: xyz.cypwn.redditfilter, com.level3tjg.redditfilter
+Filename: debs/redditfilter.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/redditfilter.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/redditfilter.json
+Size: 23262
+MD5Sum: 3eede68d642d9e31118c41d93e834b43
+SHA1: 95d3cbf132aa3c5eba6e5290094c15144b917bb8
+SHA256: 1a50dda1dd998bff58e0a1d2af9cde774fc56d0cf5f2fbb97fab064284243b8b
+
+Name: N95
+Package: n95
+Version: 4.5
+Description: Mask album artwork images!
+Author: ETHN
+Maintainer: ETHN
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Filename: debs/n95/n954.5.deb
+Conflicts: com.nahtedetihw.n95
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/n95.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/n95.json
+Size: 28336738
+MD5Sum: 3bc4b72b5a287d3ab183c47f1016d1eb
+SHA1: 0fc29055b6d22adf8132b69c635e9b31a87ae2c6
+SHA256: 9ca18bca1715ffb114dc23e0ccfdbcd4e392a023ca786b620a153e284c5e89e3
+
+Name: N95
+Package: n95
+Version: 4.6
+Description: Mask album artwork images!
+Author: ETHN
+Maintainer: ETHN
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Filename: debs/n95/n954.6.deb
+Conflicts: com.nahtedetihw.n95
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/n95.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/n95.json
+Size: 9510522
+MD5Sum: 2c8a2c921b2694ee35c0e1f3d8fa3079
+SHA1: 8e013cd960041a1b7a4b0d0b8207969968eeafa8
+SHA256: 9dbd7737b0656dcf96bc57af0184638be7381973004a9262287b66e66303ecb7
+
+Name: StoreSwitcher
+Package: storeswitcher
+Version: 1.0.5
+Description: Switch between App Store accounts with ease
+Author: 0xkuj
+Maintainer: 0xkuj
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.yourepo.0xkuj.storeswitcher2rootless, xyz.cypwn.storeswitcher2
+Filename: debs/storeswitcher.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/storeswitcher.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/storeswitcher.json
+Size: 19542
+MD5Sum: 892da4c56fea7f198f45ce0554cba633
+SHA1: 2be1814ffb12d7ee4fe079bafae0c53f7d1be5d5
+SHA256: 984cd5ad43f3ed7f2f0d4503910747af91ee23c3f38c16a5bd586f4f4f480be9
+
+Name: BHTikTok++
+Package: bhtiktok
+Version: 1.0.1
+Description: An awesome tweak for TikTok!
+Author: raulsaeed
+Maintainer: raulsaeed
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit, ws.hbang.common
+Conflicts: com.raulsaeed.bhtiktok++
+Filename: debs/bhtiktok/bhtiktok1.0.1.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/bhtiktok.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/bhtiktok.json
+Size: 174332
+MD5Sum: 067cb8218dfaddfdecbfc61eb6bd69c5
+SHA1: fa3b262e90daab24edc544c708a32d5ecb813622
+SHA256: dc53b7ba3c7191a2153bfa04c4bb6e4c50c2c78bb53748808a364a4a61ad9fe5
+
+Name: BHTikTok++
+Package: bhtiktok
+Version: 1.1.1
+Description: An awesome tweak for TikTok!
+Author: raulsaeed
+Maintainer: raulsaeed
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit, ws.hbang.common
+Conflicts: com.raulsaeed.bhtiktok++
+Filename: debs/bhtiktok/bhtiktok1.1.1.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/bhtiktok.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/bhtiktok.json
+Size: 175546
+MD5Sum: 9dbc6c827c6d04f530e5520162457136
+SHA1: 708bc24f44ae6a5a4e42168643d733b268193417
+SHA256: 151890273a1101516442753900ae1604b798d898d2659eeb0a98c7df9bab7e0c
+
+Name: BHTikTok++
+Package: bhtiktok
+Version: 1.2.1
+Description: An awesome tweak for TikTok!
+Author: raulsaeed
+Maintainer: raulsaeed
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit, ws.hbang.common
+Conflicts: com.raulsaeed.bhtiktok++
+Filename: debs/bhtiktok/bhtiktok1.2.1.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/bhtiktok.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/bhtiktok.json
+Size: 177554
+MD5Sum: 095be6e559a570c6963d80f4a0172dca
+SHA1: ab93af2470f62f178fef435390080ad461ec2d4f
+SHA256: f01eef299a32c5788e06c848e2858203bd79ee5790e386f4f4fb2969ef6db749
+
+Name: BHTikTok++
+Package: bhtiktok
+Version: 1.3.1
+Description: An awesome tweak for TikTok!
+Author: raulsaeed
+Maintainer: raulsaeed
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit, ws.hbang.common
+Conflicts: com.raulsaeed.bhtiktok++
+Filename: debs/bhtiktok/bhtiktok1.3.1.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/bhtiktok.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/bhtiktok.json
+Size: 183648
+MD5Sum: 69a6333cc9c5f81082db984b953c83b5
+SHA1: 5b5134ffb749df9a71496457feaa46077edac1fc
+SHA256: c44ada12dc31c7a6b0bd9875f30bf1d6ee04d5ebe600b0e0c44641d0e0ad9b08
+
+Name: Clean Tab
+Package: cleantab
+Version: 1.0.2
+Description: Remove labels from lower tab bars
+Author: Baw Appie
+Maintainer: Baw Appie
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.rpgfarm.cleantab-ios13
+Filename: debs/cleantab.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/cleantab.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/cleantab.json
+Size: 4644
+MD5Sum: 9f50292e1e25c8695652e591ea17b2f7
+SHA1: 3a2186f021c877c876fde70c8f7727f38005d76d
+SHA256: 3272a48309cda6846da8aab92a589ade8562d01edfe9ffac849801d52197949c
+
+Name: TabBaraptic
+Package: tabbaraptic
+Version: 1.0.4
+Description: Haptics when tapping bottom tab bars
+Author: CydiaGeek
+Maintainer: CydiaGeek
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.cydiageek.tabbaraptic
+Filename: debs/tabbaraptic/tabbaraptic1.0.4.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/tabbaraptic.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/tabbaraptic.json
+Size: 37592
+MD5Sum: 1cb41c9cec599b810ed266cf95629eaa
+SHA1: e5a11dd8fcc153e6352739d4f7e9ca41f9e30ca1
+SHA256: fbedcf6c6e036efaf03099b915d5880878dcaf8c8bde7363d88cf5bfb0114606
+
+Name: MusicBackground
+Package: musicbackground
+Version: 2.4
+Description: Listen to music in style
+Author: ETHN
+Maintainer: ETHN
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: xyz.cypwn.musicbackground, com.nahtedetihw.musicbackground
+Filename: debs/musicbackground.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/musicbackground.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/musicbackground.json
+Size: 4584956
+MD5Sum: 62138b7c092aa440137701094785f0ed
+SHA1: 8539714bb98c27c61b4109ae273c5489fa54d4ff
+SHA256: 47e1294964f27414ee0a11f2a35c4478ca5bf55c2cb9c6334f3190585f01d85e
+
+Name: Spectrum
+Package: spectrum
+Version: 1.2
+Description: Customize iOS accent colors!
+Author: Skitty & EvenDev
+Maintainer: Skitty & EvenDev
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit, libskittycolor
+Conflicts: xyz.skitty.spectrum
+Filename: debs/spectrum/spectrum1.2.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/spectrum.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/spectrum.json
+Size: 87146
+MD5Sum: d76ab18c584b3c7a6b5ab98ab4b41f53
+SHA1: 3bb3adf3a64128cc8aaa865e338d6aeb79b645bd
+SHA256: 575d52bec4049ad7294cd9c06c5fb14fea829c06e5aa35099d6b7d30ff65fb8f
+
+Name: Spectrum
+Package: spectrum
+Version: 1.3
+Description: Customize iOS accent colors!
+Author: Skitty & EvenDev
+Maintainer: Skitty & EvenDev
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit, libskittycolor
+Conflicts: xyz.skitty.spectrum
+Filename: debs/spectrum/spectrum1.3.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/spectrum.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/spectrum.json
+Size: 85464
+MD5Sum: 455ad4f18e748e75efe9bcfdfc99c64a
+SHA1: c3645ab5805e38268398e492ff6c164e651c8e8f
+SHA256: 062054903783690e361d83437fed54bf2942c266d78b54fdb4a86b0c59290475
+
+Name: Spectrum
+Package: spectrum
+Version: 1.4
+Description: Customize iOS accent colors!
+Author: Skitty & EvenDev
+Maintainer: Skitty & EvenDev
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit, libskittycolor
+Conflicts: xyz.skitty.spectrum
+Filename: debs/spectrum/spectrum1.4.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/spectrum.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/spectrum.json
+Size: 85274
+MD5Sum: 3bcc11e6e35a0d831fed7fa27c141911
+SHA1: fdfd7d05062b337807996d2a0f5449cee15d2d24
+SHA256: 38d5ae593041102bc72060ac07cd1a4b15c4d9e381b013fa9ff66b4c4ba77bf4
+
+Name: libskittycolor
+Package: libskittycolor
+Version: 1.1
+Description: A simple color picker implementation
+Author: Skitty
+Maintainer: Skitty
+Section: Libraries
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Filename: debs/libskittycolor.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/libskittycolor.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/libskittycolor.json
+Size: 30364
+MD5Sum: cfb467715634bd647219a2b9ade05900
+SHA1: 4f3fc6dc1b802dbb8f18a9645c04cfdd00c2bb98
+SHA256: 3344af2a21fdc85f98fdfc05a93c4f5b77dac40d601615e43647ae8daa9c4afc
+
+Name: MessagesXI
+Package: messagesxi
+Version: 2.3.3
+Description: Enhance your Messages app
+Author: mrliquorman
+Maintainer: mrliquorman
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit, ws.hbang.common, ws.hbang.alderis
+Conflicts: com.yexc.messagesxi, xyz.cypwn.messagesxi
+Filename: debs/messagesxi.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/messagesxi.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/messagesxi.json
+Size: 37340
+MD5Sum: e416db5e3f9284b21feebd6bc8b65364
+SHA1: 76dd68fd50b487d20e27a7de60102b7c804f5382
+SHA256: e03170a74449a7debaed1ffc2af584997c7cd30c7ed9b8ce56922b5ce09c95bd
+
+Name: Trim
+Package: trim
+Version: 1.0.0
+Description: Masterfully minimized mobile margins
+Author: iGerman
+Maintainer: iGerman
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader, ws.hbang.common
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: cc.igerman.trum
+Filename: debs/trim.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/trim.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/trim.json
+Size: 15572
+MD5Sum: da46ddc863b6f07d322df757c0f30699
+SHA1: 52aa62c1e96c8c00781d3086580135e9bfb09199
+SHA256: b0aeb404cdbd4459194c4c3e520d4ca80adeb75f74f5c2a1e36453665ed80f32
+
+Name: ClassicAlerts
+Package: classicalerts
+Version: 1.0.1
+Description: iOS 8 square-styled alerts!
+Author: Ginsu
+Maintainer: Ginsu
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.ginsu.classicalerts
+Filename: debs/classicalerts.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/classicalerts.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/classicalerts.json
+Size: 4364
+MD5Sum: c3558d1cec2e79d1495f8706ac2aac92
+SHA1: cd73990da9e550d16ed43de05f47816c7420ea94
+SHA256: 7d252f3e3f52fabe9a9c8e821333664166072cb08918b8dd343acb6333f9421c
+
+Name: ConfirmToSend
+Package: confirmtosend
+Version: 1.1.7
+Description: Prompt before sending messages!
+Author: CydiaGeek
+Maintainer: CydiaGeek
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat, com.roothide.patchloader, preferenceloader
+Depends: mobilesubstrate, preferenceloader, ellekit
+Conflicts: com.cydiageek.confirmtosend
+Filename: debs/confirmtosend.deb
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/confirmtosend.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/confirmtosend.json
+Size: 31846
+MD5Sum: 859f3385a8e4e28e50c47f3aa51c4c8d
+SHA1: 568200a30913166e94dec20f5c70303297a28e39
+SHA256: 6f10bd11743efaa42eaf0e6cc635ef5af3963d89cf9ac9c6dbbc4339f0f8b0ed
