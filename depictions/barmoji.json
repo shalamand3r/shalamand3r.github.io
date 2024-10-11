@@ -1,0 +1,76 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/barmoji.png?raw=true",
+  "tintColor": "#dddbd7",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://repo.packix.com/package/com.cpdigitaldarkroom.barmoji",
+          "openExternal": true,
+          "tintColor": "#dddbd7"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Features:\n- 😄 Quick emoji bar on notched devices!\n- 🔧 Highly configurable",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Changelog",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://repo.packix.com/package/com.cpdigitaldarkroom.barmoji",
+          "openExternal": true,
+          "tintColor": "#dddbd7"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 1.1\n- ⚒️ Fixed settings icon",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 1.0\n- 🎉 shalaREPO Release",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView"
+}

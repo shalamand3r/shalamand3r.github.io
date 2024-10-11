@@ -1,0 +1,69 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/hotspotqr.png?raw=true",
+  "tintColor": "#16cf60",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hotspotqrDp#:~:text=A%20page%20about%20iPhone%20Software.%20Compatible%20with%20iOS%2011%20to",
+          "openExternal": true,
+          "tintColor": "#16cf60"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Features:\n- 📶 Generate a QR code for your Personal Hotspot\n- 📲 Quickly share your Personal Hotspot with others\n- ⚙️ Integrates directly into the Personal Hotspot page in settings",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Changelog",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hotspotqrDp#:~:text=A%20page%20about%20iPhone%20Software.%20Compatible%20with%20iOS%2011%20to",
+          "openExternal": true,
+          "tintColor": "#16cf60"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 1.1.4\n- 🎉 shalaREPO Release",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView"
+}

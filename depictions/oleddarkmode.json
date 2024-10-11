@@ -1,0 +1,69 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/oleddarkmode.png?raw=true",
+  "tintColor": "#222c37",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://b4db1r3r3p0.yourepo.com/pack/oleddarkmode#:~:text=OLED%20Dark%20Mode.%20Created%20by%20@fr0st,%20updated%20by%20me%20to",
+          "openExternal": true,
+          "tintColor": "#222c37"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Features:\n- 🖤 A proper OLED darkmode\n- 🧩 Hooks directly into iOS's system colors\n- 🪶 An extremely lightweight tweak\n- 💡 Preserves battery (probably) by turning off unused pixels",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Changelog",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://b4db1r3r3p0.yourepo.com/pack/oleddarkmode#:~:text=OLED%20Dark%20Mode.%20Created%20by%20@fr0st,%20updated%20by%20me%20to",
+          "openExternal": true,
+          "tintColor": "#222c37"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 1.0.0\n- 🎉 shalaREPO Release",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView"
+}

@@ -1,0 +1,126 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/a-font.png?raw=true",
+  "tintColor": "#4fb2c1",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://gitlab.com/Baw-Appie/A-Font",
+          "openExternal": true,
+          "tintColor": "#4fb2c1"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Features:\n- ✏️ Change your system font!\n- 🗂️ Supports custom font imports",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Tutorial",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://gitlab.com/Baw-Appie/A-Font",
+          "openExternal": true,
+          "tintColor": "#4fb2c1"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Installing custom fonts:\n1. ⬇️ Download a .ttf font from Google Fonts\n2. 📂 Move the font to **/var/containers/Bundle/Application/.jbroot-XYZ/Library/A-Font**\n3. ✅ Apply the font and respring"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Notes: \n- ⚠️ You must have Filza installed to add custom fonts (TrollStore recommended)"
+        },
+        {
+          "class": "DepictionSeparatorView",
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Google Fonts",
+          "action": "https://fonts.google.com/",
+          "openExternal": true,
+          "tintColor": "#EA4335"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Open Filza up to /Aplication/",
+          "action": "https://shalamand3r.github.io/redirects/a-fontfilza.html",
+          "tintColor": "#0bb1db"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Changelog",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://gitlab.com/Baw-Appie/A-Font",
+          "openExternal": true,
+          "tintColor": "#4fb2c1"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 1.11.1\n- ⚒️ Fixed settings icon",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 1.11.0\n- 🎉 shalaREPO Release",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView"
+}
