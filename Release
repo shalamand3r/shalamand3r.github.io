@@ -1,9 +1,0 @@
-Origin: shalaREPO
-Label: shalaREPO
-Suite: stable
-Version: 1.0
-Codename: shalaREPO
-Architectures: iphoneos-arm64e
-Components: main
-Description: a fire tweak repo
-Icon: file://CydiaIcon.png
