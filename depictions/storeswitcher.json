@@ -1,0 +1,77 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/storeswitcher.png?raw=true",
+  "tintColor": "#203848",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://0xkuj.yourepo.com/pack/storeswitcher2rootless#:~:text=Tweaks.%204.11%20/5%20(158%20votes).%20Description.%20Use%20multiple%20previously%20logged",
+          "openExternal": true,
+          "tintColor": "#203848"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Features:\n- 🔄 Easily switch App Store accounts\n- 🔘 Adds a button in the ***Account*** section of the App Store (your profile picture)",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Notes:\n- ‼️ Only previously signed-in accounts will show in the switcher\n- 🔑 To add an account, simply login to the App Store with another account",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Changelog",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://0xkuj.yourepo.com/pack/storeswitcher2rootless#:~:text=Tweaks.%204.11%20/5%20(158%20votes).%20Description.%20Use%20multiple%20previously%20logged",
+          "openExternal": true,
+          "tintColor": "#203848"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 1.0.5\n- 🎉 shalaREPO Release",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView"
+}
