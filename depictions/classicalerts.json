@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/alpine.png?raw=true",
-  "tintColor": "#30a260",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/classicalerts.png?raw=true",
+  "tintColor": "#553d15",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -10,15 +10,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://github.com/MTACS/alpine",
+          "action": "https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.classicalerts",
           "openExternal": true,
-          "tintColor": "#30a260"
+          "tintColor": "#553d15"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🖥️ Ports tvOS alerts to iOS!\n- 🎨 Stunning UI and customization",
+          "markdown": "### Features:\n- 📱 ClassicAlerts brings the iOS 7-8 era sqaured alerts back",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -41,15 +41,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://github.com/MTACS/alpine",
+          "action": "https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.classicalerts",
           "openExternal": true,
-          "tintColor": "#30a260"
+          "tintColor": "#553d15"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.5\n- 🎉 shalaREPO Release",
+          "markdown": "### 1.0.1\n- 🎉 shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
