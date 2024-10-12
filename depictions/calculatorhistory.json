@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/pancake.png?raw=true",
-  "tintColor": "#3f909e",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/calculatorhistory.png?raw=true",
+  "tintColor": "#aaa7a5",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -10,15 +10,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://repo.anthopak.dev/depiction/web/com.anthopak.pancake.php",
+          "action": "https://github.com/donato-fiore/calculatorhistory",
           "openExternal": true,
-          "tintColor": "#3f909e"
+          "tintColor": "#aaa7a5"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 👆 Improves the default iOS swipe gestures!",
+          "markdown": "### Features:\n- 🕒 Adds a calculation history to the stock iOS Calculator app\n- 📋 Easily manage saved results with a bulk delete option",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -41,9 +41,9 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://repo.anthopak.dev/depiction/web/com.anthopak.pancake.php",
+          "action": "https://github.com/donato-fiore/calculatorhistory",
           "openExternal": true,
-          "tintColor": "#3f909e"
+          "tintColor": "#aaa7a5"
         },
         {
           "class": "DepictionSeparatorView"
