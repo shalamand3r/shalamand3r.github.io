@@ -18,7 +18,15 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🖥️ Ports tvOS alerts to iOS!\n- 🎨 Stunning UI and customization",
+          "markdown": "### Features:\n- 🖥️ Ports tvOS alerts to iOS!\n- 🎨 Stunning UI and extensive customization",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Notes:\n- ⚠️ Use dark mode when adjusting settings LOL",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
