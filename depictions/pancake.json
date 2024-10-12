@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 👆 Swipe gestures to make navigating your iDevice easier",
+          "markdown": "### Features:\n- 👆 Improves the default iOS swipe gestures!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
