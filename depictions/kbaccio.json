@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🔀 Tap the globe switch between your first two keyboards\n- 🌐 Hold the globe to display all installed keyboards",
+          "markdown": "### Features:\n- 🔀 Tap the globe to switch between your first two keyboards\n- 🌐 Hold the globe to display all installed keyboards",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
