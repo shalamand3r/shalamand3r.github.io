@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/confirmtosend.png?raw=true",
-  "tintColor": "#d9e9fa",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/trim.png?raw=true",
+  "tintColor": "#c388bb",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -10,15 +10,23 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=confirmtosendDp",
+          "action": "https://repo.igerman.cc/depiction/web/cc.igerman.trim.html",
           "openExternal": true,
-          "tintColor": "#d9e9fa"
+          "tintColor": "#c388bb"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 📩 Prompts you before sending messages/making calls\n- 🚫 Prevents accidental texts/butt dials!\n- 🔗 Supports various third party applicstions (Signal, WhatsApp, etc)",
+          "markdown": "### Features:\n- 🔽 Shorten the length between tabbars and the homebar",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Notes:\n- ⚠️ May mess with the positions of certain elements",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -41,15 +49,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=confirmtosendDp",
+          "action": "https://repo.igerman.cc/depiction/web/cc.igerman.trim.html",
           "openExternal": true,
-          "tintColor": "#d9e9fa"
+          "tintColor": "#c388bb"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.1.7\n- 🎉 shalaREPO Release",
+          "markdown": "### 1.0.0\n- 🎉 shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
