@@ -26,7 +26,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Notes:\n- ⚠️ Not all functions work (this is a beta)\n- 🛑 Temporarily breaks Apple Pay due to the way it interacts with NFCD. Reboot to fix!",
+          "markdown": "### Notes:\n- ⚠️ Not all functions work (this is an early beta)\n- 🛑 Temporarily breaks Apple Pay due to the way it interacts with NFCD. Reboot to fix!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
