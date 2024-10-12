@@ -10,7 +10,7 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://github.com/Aemulo/Release",
+          "action": "https://repo.anthopak.dev/depiction/web/com.anthopak.pancake.php",
           "openExternal": true,
           "tintColor": "#3f909e"
         },
@@ -41,7 +41,7 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://github.com/Aemulo/Release",
+          "action": "https://repo.anthopak.dev/depiction/web/com.anthopak.pancake.php",
           "openExternal": true,
           "tintColor": "#3f909e"
         },
