@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 📊 Displays totsl tweaks installed in the Settings app",
+          "markdown": "### Features:\n- 📊 Displays total tweaks installed in the Settings app",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
