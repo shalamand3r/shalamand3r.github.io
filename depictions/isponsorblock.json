@@ -10,7 +10,7 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://creaturecoding.com/?page=depiction&id=shuffle",
+          "action": "https://github.com/Galactic-Dev/iSponsorBlock",
           "openExternal": true,
           "tintColor": "#5f0b08"
         },
@@ -41,7 +41,7 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://creaturecoding.com/?page=depiction&id=shuffle",
+          "action": "https://github.com/Galactic-Dev/iSponsorBlock",
           "openExternal": true,
           "tintColor": "#5f0b08"
         },
