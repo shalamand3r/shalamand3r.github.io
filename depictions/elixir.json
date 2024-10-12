@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/settingswidgets.png?raw=true",
-  "tintColor": "#9f64fd",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/elixir.png?raw=true",
+  "tintColor": "#952bf5",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -10,15 +10,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://github.com/shepgoba/SettingsWidgets",
+          "action": "https://github.com/Luki120/luki120.github.io/blob/master/debians/rootless/me.luki.elixir_0.9.8_iphoneos-arm64.deb",
           "openExternal": true,
-          "tintColor": "#9f64fd"
+          "tintColor": "#952bf5"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- ✨ Adds useful widgets to the Settings app!\n- 📊 Widgets include information about your device (storage, battery, etc)",
+          "markdown": "### Features:\n- 📊 Displays totsl tweaks installed in the Settings app",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -41,15 +41,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://github.com/shepgoba/SettingsWidgets",
+          "action": "https://github.com/Luki120/luki120.github.io/blob/master/debians/rootless/me.luki.elixir_0.9.8_iphoneos-arm64.deb",
           "openExternal": true,
-          "tintColor": "#9f64fd"
+          "tintColor": "#952bf5"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.2.4\n- 🎉 shalaREPO Release",
+          "markdown": "### 1.0.0\n- 🎉 shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
