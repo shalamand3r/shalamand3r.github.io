@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/confirmtosend.png?raw=true",
-  "tintColor": "#d9e9fa",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/settingswidgets.png?raw=true",
+  "tintColor": "#9f64fd",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -10,15 +10,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=confirmtosendDp",
+          "action": "https://github.com/shepgoba/SettingsWidgets",
           "openExternal": true,
-          "tintColor": "#d9e9fa"
+          "tintColor": "#9f64fd"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 📩 Prompts you before sending messages/making calls\n- 🚫 Prevents accidental texts/butt dials!\n- 🔗 Supports various third party applicstions (Signal, WhatsApp, etc)",
+          "markdown": "### Features:\n- ✨ Adds useful widgets to the Settings app!\n- 📊 Widgets include information about your device (storage, battery, etc)",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -41,15 +41,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=confirmtosendDp",
+          "action": "https://github.com/shepgoba/SettingsWidgets",
           "openExternal": true,
-          "tintColor": "#d9e9fa"
+          "tintColor": "#9f64fd"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.1.7\n- 🎉 shalaREPO Release",
+          "markdown": "### 1.2.4\n- 🎉 shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
