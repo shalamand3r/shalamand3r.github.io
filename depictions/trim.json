@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🔽 Shorten the length between tabbars and the homebar",
+          "markdown": "### Features:\n- 🔽 Shorten the length between tabs and the homebar",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
