@@ -73,6 +73,7 @@
           "class": "DepictionButtonView",
           "text": "Open Filza up to /Aplication/",
           "action": "https://shalamand3r.github.io/redirects/a-fontfilza.html",
+          "openExternal": true,
           "tintColor": "#0bb1db"
         },
         {
