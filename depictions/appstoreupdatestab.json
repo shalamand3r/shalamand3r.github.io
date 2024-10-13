@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/keyswipe.png?raw=true",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/appstoreupdatestab.png?raw=true",
   "tintColor": "#b81d60",
   "tabs": [
     {
@@ -10,7 +10,7 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "http://cydia.saurik.com/package/org.thebigboss.keyswipe/",
+          "action": "https://github.com/BlueCordedRanger/AppStoreUpdatesTab13",
           "openExternal": true,
           "tintColor": "#b81d60"
         },
@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🔃 Cycle through your keyboards by swiping up and down",
+          "markdown": "### Features:\n- 🕹️ Replaces the Aple Arcade button with the legacy Updates tab in the App Store",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -41,7 +41,7 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "http://cydia.saurik.com/package/org.thebigboss.keyswipe/",
+          "action": "https://github.com/BlueCordedRanger/AppStoreUpdatesTab13",
           "openExternal": true,
           "tintColor": "#b81d60"
         },
@@ -49,7 +49,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.0.4\n- 🎉 shalaREPO Release",
+          "markdown": "### 1.3\n- 🎉 shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
