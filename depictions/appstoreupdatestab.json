@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🕹️ Replaces the Aple Arcade button with the legacy Updates tab in the App Store",
+          "markdown": "### Features:\n- 🕹️ Replaces the Arcade button with the legacy Updates tab in the App Store",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
