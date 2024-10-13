@@ -49,19 +49,19 @@
           "class": "DepictionSeparatorView"
         },
         {
+          "markdown": "### 1.0.6\n- ❌ Farewell Cask Lite!\n- 🎊 Customization settings now function properly!",
+          "class": "DepictionMarkdownView"
+        },
+        {
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "markdown": "### 1.0.5\n- 🗑️ Removed broken settings panel\n- 📝 Renamed to **Cask Lite** due to partial functionality",
           "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSeparatorView"
-        },
-        {
-          "markdown": "### 1.0.6\n- 🎊 Customization settings now function properly!\n- ❌ Farewell Cask Lite!",
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
         {
           "markdown": "### 1.0.4\n- ⚒️ Updated preferences (they still do not function)",
           "class": "DepictionMarkdownView"
