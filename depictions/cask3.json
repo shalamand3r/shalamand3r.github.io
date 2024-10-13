@@ -74,6 +74,7 @@
           "class": "DepictionButtonView",
           "text": "Open Directory in Filza",
           "action": "https://shalamand3r.github.io/redirects/cask3reset.html",
+          "openExternal": true,
           "tintColor": "#0bb1db"
         },
         {
