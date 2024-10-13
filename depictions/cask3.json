@@ -26,6 +26,14 @@
           "class": "DepictionSeparatorView"
         },
         {
+          "markdown": "### Notes:\n- ⚠️ Some apps continue to use the **Stretch** animation for unknown reasons",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
@@ -57,10 +65,10 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Notes: \n- ⚠️ You must have Filza installed for this tutorial (TrollStore recommended)"
+          "markdown": "### Notes:\n- ⚠️ You must have Filza installed for this tutorial (TrollStore recommended)"
         },
         {
-          "class": "DepictionSeparatorView",
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionButtonView",
@@ -96,7 +104,6 @@
           "class": "DepictionMarkdownView"
         },
         {
-        {
           "class": "DepictionSeparatorView"
         },
         {
@@ -105,6 +112,7 @@
         },
         {
           "class": "DepictionSeparatorView"
+        },
         {
           "markdown": "### 1.0.4\n- ⚒️ Updated preferences (they still do not function)",
           "class": "DepictionMarkdownView"
