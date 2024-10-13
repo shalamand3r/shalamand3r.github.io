@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/appstoreupdatestab.png?raw=true",
-  "tintColor": "#b81d60",
+  "tintColor": "#2faaf9",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -12,7 +12,7 @@
           "text": "Original Tweak",
           "action": "https://github.com/BlueCordedRanger/AppStoreUpdatesTab13",
           "openExternal": true,
-          "tintColor": "#b81d60"
+          "tintColor": "#2faaf9"
         },
         {
           "class": "DepictionSeparatorView"
@@ -43,7 +43,7 @@
           "text": "Original Tweak",
           "action": "https://github.com/BlueCordedRanger/AppStoreUpdatesTab13",
           "openExternal": true,
-          "tintColor": "#b81d60"
+          "tintColor": "#2faaf9"
         },
         {
           "class": "DepictionSeparatorView"
