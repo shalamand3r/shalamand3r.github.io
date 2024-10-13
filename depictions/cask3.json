@@ -25,14 +25,6 @@
         {
           "class": "DepictionSeparatorView"
         },
-         {
-          "markdown": "### Notes:\n- ⚠️ **Cask Lite** is a basic version of **Cask 3** for Roothide/Bootstrap users\n- 🗑️ Cask preferences have been removed as they didn't work",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
         {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
@@ -58,6 +50,13 @@
         },
         {
           "markdown": "### 1.0.5\n- 🗑️ Removed broken settings panel\n- 📝 Renamed to **Cask Lite** due to partial functionality",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 1.0.6\n- 🎊 Customization settings now function properly!\n- ❌ End of Cask Lite",
           "class": "DepictionMarkdownView"
         },
         {
