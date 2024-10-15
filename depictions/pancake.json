@@ -49,6 +49,13 @@
           "class": "DepictionSeparatorView"
         },
         {
+          "markdown": "### 2.4\n- 🛠️ Fixed dependency issue (AltList)",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "markdown": "### 2.3\n- 🎉 shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
