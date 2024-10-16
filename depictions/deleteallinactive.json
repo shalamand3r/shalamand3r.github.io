@@ -12,7 +12,7 @@
           "text": "Original Tweak",
           "action": "https://github.com/AnubisTweaks/AnubisTweaks.github.io/blob/main/debfiles/com.anubistweaks.deleteallinactive_1.0_iphoneos-arm64e.deb",
           "openExternal": true,
-          "tintColor": "#2faaf9"
+          "tintColor": "#839d9b"
         },
         {
           "class": "DepictionSeparatorView"
@@ -43,7 +43,7 @@
           "text": "Original Tweak",
           "action": "https://github.com/AnubisTweaks/AnubisTweaks.github.io/blob/main/debfiles/com.anubistweaks.deleteallinactive_1.0_iphoneos-arm64e.deb",
           "openExternal": true,
-          "tintColor": "#2faaf9"
+          "tintColor": "#839d9b"
         },
         {
           "class": "DepictionSeparatorView"
