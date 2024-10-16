@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/oleddarkmode.png?raw=true",
-  "tintColor": "#222c37",
+  "tintColor": "#262626",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -12,7 +12,7 @@
           "text": "Original Tweak",
           "action": "https://b4db1r3r3p0.yourepo.com/pack/oleddarkmode#:~:text=OLED%20Dark%20Mode.%20Created%20by%20@fr0st,%20updated%20by%20me%20to",
           "openExternal": true,
-          "tintColor": "#222c37"
+          "tintColor": "#262626"
         },
         {
           "class": "DepictionSeparatorView"
@@ -43,7 +43,7 @@
           "text": "Original Tweak",
           "action": "https://b4db1r3r3p0.yourepo.com/pack/oleddarkmode#:~:text=OLED%20Dark%20Mode.%20Created%20by%20@fr0st,%20updated%20by%20me%20to",
           "openExternal": true,
-          "tintColor": "#222c37"
+          "tintColor": "#262626"
         },
         {
           "class": "DepictionSeparatorView"
