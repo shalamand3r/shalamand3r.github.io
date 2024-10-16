@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/appstoreupdatestab.png?raw=true",
-  "tintColor": "#2faaf9",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/deleteallinactive.png?raw=true",
+  "tintColor": "#839d9b",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -10,7 +10,7 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://github.com/BlueCordedRanger/AppStoreUpdatesTab13",
+          "action": "https://github.com/AnubisTweaks/AnubisTweaks.github.io/blob/main/debfiles/com.anubistweaks.deleteallinactive_1.0_iphoneos-arm64e.deb",
           "openExternal": true,
           "tintColor": "#2faaf9"
         },
@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🕹️ Replaces the Arcade button with the legacy Updates tab in the App Store",
+          "markdown": "### Features:\n- 🗑️ Delete all inactive alarms with a click of a button!\n- ✏️ Click **edit** in the *Clock* application to display button",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -41,7 +41,7 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://github.com/BlueCordedRanger/AppStoreUpdatesTab13",
+          "action": "https://github.com/AnubisTweaks/AnubisTweaks.github.io/blob/main/debfiles/com.anubistweaks.deleteallinactive_1.0_iphoneos-arm64e.deb",
           "openExternal": true,
           "tintColor": "#2faaf9"
         },
@@ -49,7 +49,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.3\n- 🎉 shalaREPO Release",
+          "markdown": "### 1.1\n- 🎉 shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
