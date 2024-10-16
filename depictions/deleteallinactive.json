@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🗑️ Delete all inactive alarms with a click of a button!\n- ✏️ Click **edit** in the *Clock* application to display button",
+          "markdown": "### Features:\n- 🗑️ Delete all of your inactive alarms with just a click of a button!\n- ✏️ Click **edit** in the Clock application to display the **Delete all Inactive** button",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
