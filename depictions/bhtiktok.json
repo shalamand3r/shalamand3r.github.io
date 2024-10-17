@@ -73,21 +73,21 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.3.1\n- 🆕 Added a share sheet toggle"
+          "markdown": "### 1.3.1\n- 🆕 Share sheet toggle"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.2.1\n- 🆕 Added the ability to download HD Videos"
+          "markdown": "### 1.2.1\n- 🆕 Ability to download HD Videos"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.1.1\n- 🆕 Enable transparent comment section\n- 🆕 Option to stop video looping\n- 🛠️ Fixed button images"
+          "markdown": "### 1.1.1\n- 🆕 Option to enable transparent comment section\n- 🆕 Option to stop video looping\n- 🛠️ Fixed button images"
         },
         {
           "class": "DepictionSeparatorView"
