@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🖼️ Useful screenshot actions!\n- 👆Long press the screenshot preview to display quick actions\n- 🧹 Easily copy and delete screenshots",
+          "markdown": "### Features:\n- 🖼️ Useful screenshot actions!\n- 🧹 Easily copy and delete screenshots\n- 👆Long press the screenshot preview to display quick actions\n-",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -26,7 +26,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Notes:\n- ⚠️ Enable tweak injection in **com.apple.ScreenshotServicesService** in Bootstrap",
+          "markdown": "### Notes:\n- ⚠️ Enable tweak injection in **com.apple.ScreenshotServicesService**",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
