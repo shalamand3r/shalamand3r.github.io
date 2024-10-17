@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🖼️ Useful screenshot actions!\n- 🧹 Easily copy and delete screenshots\n- 👆Long press the screenshot preview to display quick actions\n-",
+          "markdown": "### Features:\n- 🖼️ Useful screenshot actions!\n- 🧹 Easily copy and delete screenshots\n- 👆Long press the screenshot preview to display quick actions",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
