@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/oledkeyboard.png?raw=true",
-  "tintColor": "#2a2d2f",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/ssactions.png?raw=true",
+  "tintColor": "#8075cf",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -10,15 +10,23 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://github.com/dayanch96/OledKeyboard",
+          "action": "https://github.com/p2kdev/ScreenshotActions",
           "openExternal": true,
-          "tintColor": "#2a2d2f"
+          "tintColor": "#8075cf"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🌙 OLED Keyboard theme for iOS!",
+          "markdown": "### Features:\n- 🖼️ Useful screenshot actions!\n- 👆Long press the screenshot preview to display quick actions\n- 🧹 Easily copy and delete screenshots",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### Notes:\n- ⚠️ Enable tweak injection in **com.apple.ScreenshotServicesService** in Bootstrap",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -41,9 +49,9 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://github.com/dayanch96/OledKeyboard",
+          "action": "https://github.com/p2kdev/ScreenshotActions",
           "openExternal": true,
-          "tintColor": "#2a2d2f"
+          "tintColor": "#8075cf"
         },
         {
           "class": "DepictionSeparatorView"
