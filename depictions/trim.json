@@ -57,6 +57,10 @@
           "class": "DepictionSeparatorView"
         },
         {
+          "markdown": "### 1.1\n- 🛠 Fixed the ugly icon",
+          "class": "DepictionMarkdownView"
+        },
+        {
           "markdown": "### 1.0.0\n- 🎉 shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
