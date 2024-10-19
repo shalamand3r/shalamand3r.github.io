@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🖼️ Useful screenshot actions!\n- 🧹 Easily copy and delete screenshots\n- 👆Long press the screenshot preview to display quick actions",
+          "markdown": "### Features:\n- 📋 Easily copy and delete screenshots\n- 👆 Long press the screenshot preview to display quick actions",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -52,6 +52,13 @@
           "action": "https://github.com/p2kdev/ScreenshotActions",
           "openExternal": true,
           "tintColor": "#8075cf"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 1.4\n- 🛠️ Fixed unecessary Cephei dependency",
+          "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSeparatorView"
