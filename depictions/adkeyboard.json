@@ -60,6 +60,9 @@
           "markdown": "### ⚠️ Notes: \n- Other keyboard **color customization** tweaks may interfere with ADKeyboard"
         },
         {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "class": "DepictionButtonView",
           "text": "Join the Discord",
           "action": "https://discord.gg/twwttTGSuk",
