@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🖥️ Ports tvOS alerts to iOS!\n- 🎨 Stunning UI and extensive customization",
+          "markdown": "### ✨ Features:\n- Alpine brings tvOS alerts to iOS!\n- Alert appearances can be customized with blurs and themes\n- Alpine has the ability to add Haptic Feedback to alerts",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -26,12 +26,35 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Notes:\n- ⚠️ Use dark mode when adjusting settings LOL",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Wiki",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/MTACS/alpine",
+          "openExternal": true,
+          "tintColor": "#34a363"
         },
         {
           "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 📣 FAQs:\n- Springboard alerts such as Low Battery alerts will not be affected"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ⚠️ Notes: \n- Use dark mode when adjusting settings",
         },
         {
           "class": "DepictionButtonView",
@@ -57,7 +80,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.5\n- 🎉 shalaREPO Release",
+          "markdown": "### 🎉 1.5\n- shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
