@@ -54,7 +54,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### ⚠️ Notes: \n- Other keyboard tweaks such as OLEDKeyboard may interfere with ADKeyboard"
+          "markdown": "### ⚠️ Notes: \n- Other keyboard **color customization** tweaks may interfere with ADKeyboard"
         },
         {
           "class": "DepictionButtonView",
