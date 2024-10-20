@@ -50,7 +50,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 📣 FAQs:\n- **Reader Settings** lets users chose which tags to detect\n- Aemulo is *normally* paid, though version 2.0 is a free beta"
+          "markdown": "### 📣 FAQs:\n- **Reader Settings** lets users chose which tags to detect\n- Aemulo is in **beta**. Expect other unmarked bugs and issues"
         },
         {
           "class": "DepictionSeparatorView"
