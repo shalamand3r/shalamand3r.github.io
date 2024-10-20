@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- ✏️ A-Font allows users to change the system font used by any app\n- 🗂️ A-Font supports custom fonts downloaded from *Google Fonts* (see wiki)",
+          "markdown": "### Features:\n- A-Font allows users to change the system font used by any app\n- A-Font supports custom fonts downloaded from *Google Fonts* (see wiki)",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -50,7 +50,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### FAQs:\n- The **Font** tab allows users to change the font used by subtexts and content\n- The **Bold Font** tab allows users to specify a font used only by Headers and Titles\n- **Blacklist** and **Font Size** appear to be broken at the moment"
+          "markdown": "### FAQs:\n- The **Font** tab allows users to change the font used by subtexts and content\n- The **Bold Font** tab allows users to specify a font used only by Headers and Titles\n- Both **Blacklist** and **Font Size** appear to be broken at the moment"
         },
         {
           "class": "DepictionSeparatorView"
