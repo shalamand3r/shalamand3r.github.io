@@ -57,7 +57,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Installing custom fonts:\n1. ⬇️ Download a .ttf font from Google Fonts and save it to Filza\n2. 📂 Move the font to **/var/containers/Bundle/Application/.jbroot-XYZ/Library/A-Font**\n3. ✅ Apply the font and respring"
+          "markdown": "### ⬇️ Installing custom fonts:\n1. Download a .ttf font from Google Fonts and save it to Filza\n2. Move the font to **/var/containers/Bundle/Application/.jbroot-XYZ/Library/A-Font**\n3. Select the font in A-Font's preference pane and respring your device"
         },
         {
           "class": "DepictionSeparatorView"
