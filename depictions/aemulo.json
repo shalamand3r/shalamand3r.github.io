@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- Aemulo allows users to read and emulate saved NFC tags",
+          "markdown": "### ✨ Features:\n- Aemulo allows users to read and emulate NFC tags",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
