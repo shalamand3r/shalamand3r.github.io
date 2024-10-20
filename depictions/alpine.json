@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- Alpine brings tvOS alerts to iOS!\n- Alert appearances can be customized with blurs and themes\n- Alpine has the ability to add Haptic Feedback to alerts",
+          "markdown": "### ✨ Features:\n- Alpine brings tvOS styled alerts to iOS!\n- Alert appearances can be customized with blurs and themes\n- Alpine has the ability to add Haptic Feedback to alerts",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -50,7 +50,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 📣 FAQs:\n- Springboard alerts such as Low Battery alerts will not be affected"
+          "markdown": "### 📣 FAQs:\n- Springboard alerts such as Low Battery notifications will not be affected"
         },
         {
           "class": "DepictionSeparatorView"
