@@ -107,7 +107,14 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ⚒️ 1.11.2\n- Updated icon (lowercase a)",
+          "markdown": "### ⚒️ 1.11.2\n- Fixed mismatched icon in Settings",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### ⚒️ 1.11.1\n- Updated icon (lowercase a)",
           "class": "DepictionMarkdownView"
         },
         {
