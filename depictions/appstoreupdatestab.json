@@ -18,9 +18,46 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🕹️ Replaces the Arcade button with the legacy Updates tab in the App Store",
+          "markdown": "### ✨ Features:\n- AppStoreUpdatesTab replaces the **Apple Arcade** button with the legacy **Updates** tab in the App Store",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Wiki",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/BlueCordedRanger/AppStoreUpdatesTab13",
+          "openExternal": true,
+          "tintColor": "#2faaf9"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 📣 FAQs:\n- AppStoreUpdatesTab doesn't have any options to configure"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ⚠️ Notes: \n- AppStoreUpdatesTab may interfere with **Lynx Lite's** built in **Legacy Updates Button** feature",
         },
         {
           "class": "DepictionSeparatorView"
