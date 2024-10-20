@@ -50,11 +50,11 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 📣 FAQs:\n- The **Adaptive** feature works, though it looks... hideous\n- Use **ColorBoard** if you're looking for an adaptive keyboard tint that's based on the icon of the current app being used"
+          "markdown": "### 📣 FAQs:\n- The **Adaptive** feature works, though it doesn't look th best\n- Use **ColorBoard** for an adaptive keyboard tint based on the icon of the current app being used"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### ⚠️ Notes: \n- Other keyboard **color customization** tweaks (such as ColorBoard or OLEDKeyboard) may interfere with ADKeyboard and break certain UI elements"
+          "markdown": "### ⚠️ Notes: \n- Other keyboard **color customization** tweaks (OLEDKeyboard, ColorBoard) may interfere with ADKeyboard and break certain UI elements"
         },
         {
           "class": "DepictionButtonView",
