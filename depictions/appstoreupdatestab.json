@@ -57,7 +57,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### ⚠️ Notes: \n- AppStoreUpdatesTab may interfere with **Lynx Lite's** built in **Legacy Updates Button** feature",
+          "markdown": "### ⚠️ Notes: \n- AppStoreUpdatesTab may interfere with Lynx's **Use Updates Button** feature",
         },
         {
           "class": "DepictionSeparatorView"
