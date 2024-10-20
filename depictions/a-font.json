@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- A-Font allows users to change the system font used by any app\n- A-Font supports custom fonts downloaded from *Google Fonts* (see wiki for tutorial)",
+          "markdown": "### ✨ Features:\n- A-Font allows users to change the system font used by any app\n- A-Font supports custom fonts downloaded from *Google Fonts* (see wiki for tutorial)",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
