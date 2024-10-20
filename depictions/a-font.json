@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- ✏️ Change your system font!\n- 🗂️ Supports custom font imports",
+          "markdown": "### Features:\n- ✏️ Change the system font used in apps\n- 🗂️ Supports importing custom downloaded fonts",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "tabname": "Tutorial",
+      "tabname": "How to Use",
       "class": "DepictionStackView",
       "views": [
         {
@@ -60,7 +60,7 @@
           "markdown": "### Notes: \n- ⚠️ You must have Filza installed to add custom fonts (TrollStore recommended)"
         },
         {
-          "class": "DepictionSeparatorView",
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionButtonView",
@@ -71,7 +71,7 @@
         },
         {
           "class": "DepictionButtonView",
-          "text": "Open Filza up to /Aplication/",
+          "text": "Open Filza up to /Application/",
           "action": "https://shalamand3r.github.io/redirects/a-fontfilza.html",
           "openExternal": true,
           "tintColor": "#0bb1db"
