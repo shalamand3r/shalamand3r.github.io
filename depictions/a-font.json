@@ -57,14 +57,14 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Installing custom fonts:\n1. ⬇️ Download a .ttf font from Google Fonts\n2. 📂 Move the font to **/var/containers/Bundle/Application/.jbroot-XYZ/Library/A-Font**\n3. ✅ Apply the font and respring"
+          "markdown": "### Installing custom fonts:\n1. ⬇️ Download a .ttf font from Google Fonts and save it to Filza\n2. 📂 Move the font to **/var/containers/Bundle/Application/.jbroot-XYZ/Library/A-Font**\n3. ✅ Apply the font and respring"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Notes: \n- ⚠️ Filza must be installed in order to import custom fonts"
+          "markdown": "### ⚠️ Notes: \n- Filza must be installed in order to import custom fonts\n- The **.jbroot** folder will look different for every device hence the 'xyz' listed above"
         },
         {
           "class": "DepictionSeparatorView"
