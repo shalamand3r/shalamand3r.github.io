@@ -53,6 +53,9 @@
           "markdown": "### 📣 FAQs:\n- Springboard alerts such as Low Battery alerts will not be affected"
         },
         {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "class": "DepictionMarkdownView",
           "markdown": "### ⚠️ Notes: \n- Use dark mode when adjusting settings",
         },
