@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 📳 Read and emulate NFC tags!",
+          "markdown": "### ✨ Features:\n- Aemulo allows users to read and emulate saved NFC tags",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -26,12 +26,36 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Notes:\n- ⚠️ Not all functions work (early beta)\n- 🛑 Temporarily breaks Apple Pay due to the way it interacts with NFCD. Reboot to fix!",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Wiki",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/Aemulo/Release",
+          "openExternal": true,
+          "tintColor": "#b64ed6"
         },
         {
           "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 📣 FAQs:\n- **Reader Settings** lets users chose which tags to detect\n- Aemulo is normally paid, though version 2.0 is a free beta"
+        },
+        {
+          "markdown": "### ⚠️ Notes:\n- Only reading/emulating NFC tags is currently supported\n- Apple Pay temporaeily breaks due to the way Aemulo interacts with NFCD. Reboot to fix!\n- Uninstall the **TrollStore** version of Aemulo before installing the tweak version",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionButtonView",
@@ -57,7 +81,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 2.1\n- 🎉 shalaREPO Release",
+          "markdown": "### 🎉 2.1\n- shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
