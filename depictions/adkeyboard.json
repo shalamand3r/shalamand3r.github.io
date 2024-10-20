@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🎨 Customize your keyboard tint!",
+          "markdown": "### ✨ Features:\n- ADKeyboard allows users to tint the iOS system keyboard with a color of their choice",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -26,12 +26,35 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Notes:\n- ⚠️ Looking at the **adaptive** option? Use ColorBoard instead!",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Wiki",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/Dcsyhi1998/dcsyhi1998.github.io/blob/master/debs/jp.dcsyhi.adkeyboard_1.3_iphoneos-arm64.deb",
+          "openExternal": true,
+          "tintColor": "#8e64b9"
         },
         {
           "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 📣 FAQs:\n- The **Adaptive** feature works, though it looks... hideous\n- Use **ColorBoard** if you're looking for an adaptive keyboard tint that's based on the icon of the current app being used"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ⚠️ Notes: \n- Other keyboard **color customization** tweaks (such as ColorBoard or OLEDKeyboard) may interfere with ADKeyboard and break certain UI elements"
         },
         {
           "class": "DepictionButtonView",
@@ -57,14 +80,21 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.5\n- 🆕 New preference pane!",
+          "markdown": "### ⚒️ 1.6\n- Finally decided on an icon",
           "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.4\n- 🎉 shalaREPO Release",
+          "markdown": "### 🆕 1.5\n- Modified preference pane",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 🎉 1.4\n- shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
