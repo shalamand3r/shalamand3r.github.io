@@ -50,14 +50,14 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 📣 FAQs:\n- Springboard alerts such as Low Battery notifications will not be affected"
+          "markdown": "### 📣 FAQs:\n- Springboard alerts such as **Low Battery** notifications will not be affected"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### ⚠️ Notes: \n- Use dark mode when adjusting settings",
+          "markdown": "### ⚠️ Notes: \n- Use **dark mode** when adjusting Alpine's settings (background is always dark)",
         },
         {
           "class": "DepictionSeparatorView"
