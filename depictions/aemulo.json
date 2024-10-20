@@ -50,7 +50,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 📣 FAQs:\n- **Reader Settings** lets users chose which tags to detect\n- Aemulo is normally paid, though version 2.0 is a free beta"
+          "markdown": "### 📣 FAQs:\n- **Reader Settings** lets users chose which tags to detect\n- Aemulo is *normally* paid, though version 2.0 is a free beta"
         },
         {
           "markdown": "### ⚠️ Notes:\n- Only reading/emulating NFC tags is currently supported\n- Apple Pay temporaeily breaks due to the way Aemulo interacts with NFCD. Reboot to fix!\n- Uninstall the **TrollStore** version of Aemulo before installing the tweak version",
