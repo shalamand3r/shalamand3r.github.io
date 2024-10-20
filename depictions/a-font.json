@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- ✏️ Change the system font used in apps\n- 🗂️ Supports importing custom downloaded fonts",
+          "markdown": "### Features:\n- ✏️ A-Font allows you to change the system font used in any app\n- 🗂️ A-Font supports custom fonts downloaded from *Google Fonts* (see wiki)",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "tabname": "How to Use",
+      "tabname": "Wiki",
       "class": "DepictionStackView",
       "views": [
         {
@@ -44,6 +44,13 @@
           "action": "https://gitlab.com/Baw-Appie/A-Font",
           "openExternal": true,
           "tintColor": "#4fb2c1"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### FAQs:\n- The **Font** tab allows you to change all text\n- The **Bold Font** tab allows you to specify a font used only by Headers and Titles\n- **Blacklist** and **Font Size** appear to be broken at the moment"
         },
         {
           "class": "DepictionSeparatorView"
