@@ -107,14 +107,14 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.11.1\n- ⚒️ Fixed settings icon",
+          "markdown": "### ⚒️ 1.11.2\n- Updated icon (lowercase a)",
           "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.11.0\n- 🎉 shalaREPO Release",
+          "markdown": "### 🎉 1.11.0\n- shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
