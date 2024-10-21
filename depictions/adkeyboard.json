@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- Tint the iOS system keyboard with a color of your choice",
+          "markdown": "### ✨ Features:\n- Add color to the iOS system keyboard and make it pretty!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
