@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/keyswipe.png?raw=true",
-  "tintColor": "#b81d60",
+  "tintColor": "#c4792e",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -10,17 +10,47 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "http://cydia.saurik.com/package/org.thebigboss.keyswipe/",
+          "action": "https://miro92.com/repo/depictions/?p=com.miro.perfectcalc",
           "openExternal": true,
-          "tintColor": "#b81d60"
+          "tintColor": "#c4792e"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🔃 Cycle through your keyboards by swiping up and down",
+          "markdown": "### ✨ Features:\n- PerfectCalc keeps previous calculations visible in the stock iOS Calculator app",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Wiki",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://miro92.com/repo/depictions/?p=com.miro.perfectcalc",
+          "openExternal": true,
+          "tintColor": "#34a363"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 📣 FAQs:\n- PerfectCalc doesn't have any options to configure"
         },
         {
           "class": "DepictionSeparatorView"
@@ -41,15 +71,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "http://cydia.saurik.com/package/org.thebigboss.keyswipe/",
+          "action": "https://miro92.com/repo/depictions/?p=com.miro.perfectcalc",
           "openExternal": true,
-          "tintColor": "#b81d60"
+          "tintColor": "#c4792e"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.0.4\n- 🎉 shalaREPO Release",
+          "markdown": "### 🎉 1.1\n- shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
