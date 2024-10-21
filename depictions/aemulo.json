@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- Aemulo Lite allows users to read and emulate NFC tags",
+          "markdown": "### ✨ Features:\n- Read, save, and emulate NFC tags with just your iPhone!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -50,7 +50,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 📣 FAQs:\n- **Reader Settings** lets users choose which tags to detect\n- Aemulo Lite is in **beta**. Expect other unmarked bugs and issues"
+          "markdown": "### 📣 FAQs:\n- **Reader Settings** lets users choose which tags to detect\n- iPads are not supported (they do not have an NFC chip)\n- Aemulo Lite is in **beta**. Expect other unmarked bugs and issues"
         },
         {
           "class": "DepictionSeparatorView"
