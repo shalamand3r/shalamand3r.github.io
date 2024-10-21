@@ -50,7 +50,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 📣 FAQs:\n- PerfectCalc doesn't have options to configure"
+          "markdown": "### 📣 FAQs:\n- There aren't any options to configure"
         },
         {
           "class": "DepictionSeparatorView"
