@@ -18,9 +18,39 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 😄 Quick emoji bar on notched devices!\n- 🔧 Highly configurable",
+          "markdown": "### ✨ Features:\n- Barmoji adds a quick emoji access bar on the keyboards of notched devices\n- Barmoji supports Haptic Feedback when selecting emojis\n- Customize the font size, position, and number of emojis shown\n- Hide the **Globe** and **Dictation** buttons for even more emojis!\n-Choose from a selection of emojis or have Barmoji display your most recent emojis",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Wiki",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://repo.packix.com/package/com.cpdigitaldarkroom.barmoji",
+          "openExternal": true,
+          "tintColor": "#dddbd7"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 📣 FAQs:\n- Barmoji sometimes messes with the landscape keyboard\n- The **Predictive Bar** feature doesn't work...so it's been removed!"
         },
         {
           "class": "DepictionSeparatorView"
@@ -49,14 +79,14 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.1\n- ⚒️ Fixed settings icon",
+          "markdown": "### ⚒️ 1.1\n- Fixed preferences",
           "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.0\n- 🎉 shalaREPO Release",
+          "markdown": "### 🎉 1.0\n- shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
