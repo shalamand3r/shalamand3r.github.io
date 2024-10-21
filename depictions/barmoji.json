@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- Barmoji adds a quick emoji access bar on the keyboards of notched devices\n- Choose from a variety of Haptic Feedback options when selecting emojis\n- Customize the font size, position, and number of emojis shown\n- Hide the **Globe** and **Dictation** buttons for even more emoji room!\n- Choose from a selection of emojis or have Barmoji display your most recently used emojis",
+          "markdown": "### ✨ Features:\n- Barmoji adds a quick emoji access bar on the keyboards of notched devices\n- Choose from a variety of Haptic Feedback options when selecting emojis\n- Customize the font size, position, and number of emojis shown\n- Hide the **Globe** and **Dictation** buttons for even more emoji room!\n- Choose a set of emojis to display or have Barmoji display your recents",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
