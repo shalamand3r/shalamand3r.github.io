@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- AppStoreUpdatesTab replaces the **Arcade** button with the **Updates** tab in the App Store",
+          "markdown": "### ✨ Features:\n- Replace the **Arcade** button with the legacy **Updates** tab in the App Store",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
