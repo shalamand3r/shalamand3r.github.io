@@ -50,7 +50,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 📣 FAQs:\n- Barmoji sometimes messes with the landscape keyboard\n- The **Predictive Bar** feature doesn't work...so it's been removed!\n- Barmoji conflicts with tweaks such as **ActionBar**, so shalaREPO automatically removes conflicting packages"
+          "markdown": "### 📣 FAQs:\n- Barmoji sometimes messes with the landscape keyboard\n- The **Predictive Bar** feature doesn't work...so it's been removed!\n- Barmoji conflicts with tweaks like **ActionBar**, so shalaREPO automatically removes conflicting tweaks"
         },
         {
           "class": "DepictionSeparatorView"
