@@ -50,7 +50,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 📣 FAQs:\n- AppStoreUpdatesTab doesn't have any options to configure"
+          "markdown": "### 📣 FAQs:\n- No options to configure"
         },
         {
           "class": "DepictionSeparatorView"
