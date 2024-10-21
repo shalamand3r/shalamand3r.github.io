@@ -43,14 +43,14 @@
           "text": "Original Tweak",
           "action": "https://miro92.com/repo/depictions/?p=com.miro.perfectcalc",
           "openExternal": true,
-          "tintColor": "#34a363"
+          "tintColor": "#c4792e"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 📣 FAQs:\n- PerfectCalc doesn't have any options to configure"
+          "markdown": "### 📣 FAQs:\n- There aren't any options to configure"
         },
         {
           "class": "DepictionSeparatorView"
