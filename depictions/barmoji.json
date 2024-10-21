@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/barmoji.png?raw=true",
-  "tintColor": "#dddbd7",
+  "tintColor": "#d8d7cf",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -12,7 +12,7 @@
           "text": "Original Tweak",
           "action": "https://repo.packix.com/package/com.cpdigitaldarkroom.barmoji",
           "openExternal": true,
-          "tintColor": "#dddbd7"
+          "tintColor": "#d8d7cf"
         },
         {
           "class": "DepictionSeparatorView"
@@ -43,7 +43,7 @@
           "text": "Original Tweak",
           "action": "https://repo.packix.com/package/com.cpdigitaldarkroom.barmoji",
           "openExternal": true,
-          "tintColor": "#dddbd7"
+          "tintColor": "#d8d7cf"
         },
         {
           "class": "DepictionSeparatorView"
@@ -73,7 +73,7 @@
           "text": "Original Tweak",
           "action": "https://repo.packix.com/package/com.cpdigitaldarkroom.barmoji",
           "openExternal": true,
-          "tintColor": "#dddbd7"
+          "tintColor": "#d8d7cf"
         },
         {
           "class": "DepictionSeparatorView"
