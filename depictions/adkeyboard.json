@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- ADKeyboard allows users to tint the iOS system keyboard with a color of their choice",
+          "markdown": "### ✨ Features:\n- Tint the iOS system keyboard with a color of your choice",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
