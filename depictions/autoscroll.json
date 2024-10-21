@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🔃 Cycle through your keyboards by swiping up and down",
+          "markdown": "### ✨ Features:\n- AutoScroll keeps scrolling up/down a page with the same momentum you apply",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -31,6 +31,43 @@
           "action": "https://discord.gg/twwttTGSuk",
           "openExternal": true,
           "tintColor": "#5865f2"
+        }
+      ]
+    },
+      {
+      "tabname": "Wiki",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://web.archive.org/web/20200318155531/https://repo.packix.com/package/com.pxcex.autoscroll/",
+          "openExternal": true,
+          "tintColor": "#e2b0bb"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 📣 FAQs:\n- No options to configure"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ⚠️ Notes: \n- This doesn't function as a TikTok/Shorts/Reels auto scroller tweak. It scrolls **continuously** until stopped",
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#e2b0bb"
         }
       ]
     },
