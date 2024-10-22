@@ -57,7 +57,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### ⚠️ Notes: \n- This doesn't function as a TikTok auto scroller. It scrolls **continuously** until stopped",
+          "markdown": "### ⚠️ Notes: \n- Autoscroll doesn't work like a TikTok auto scroller. It scrolls **continuously** until stopped",
         },
         {
           "class": "DepictionSeparatorView"
