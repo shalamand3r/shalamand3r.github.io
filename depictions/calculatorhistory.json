@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- Show past calculations in the stock calculator\n- Copy past results to your clipboard\n-Easily clear history",
+          "markdown": "### ✨ Features:\n- Show past calculations in the stock calculator\n- Copy past results to your clipboard\n- Easily clear calculation history",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -79,7 +79,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 🛠️ 1.1.5\n- Bug fixes\n- Removed accidental AltList dependency",
+          "markdown": "### 🛠️ 1.1.5\n- Bug fixes\n- Removed AltList dependency",
           "class": "DepictionMarkdownView"
         },
         {
