@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 📸 Mask album artwork images \n- ✨ Large variety of styles to pick from\n- 📂 Import custom themes\n- 🔗 Supports third party music applications",
+          "markdown": "### ✨ Features:\n- N95 allows you to add custom frames/masks around album artworks\n- Large variety of pre-installed styles to choose from\n- Supports third party music applications",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -26,9 +26,38 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Notes:\n- ⁉️ For whatever reason, the stock Apple Music app does NOT work with N95",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Wiki",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://havoc.app/package/n95",
+          "openExternal": true,
+          "tintColor": "#f7e483"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 📣 FAQs:\n- Features that are non-functional on Roothide/Bootstrap have been removed\n- Make sure to **enable** N95 with the upper right slider in N95's preferences"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ⚠️ Notes: \n- The stock **Apple Music** app does not work with N95 at the moment",
         },
         {
           "class": "DepictionSeparatorView"
@@ -54,17 +83,24 @@
           "tintColor": "#f7e483"
         },
         {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "markdown": "### 4.6\n- 🤏 Reduced package size by ~20mb",
+          "markdown": "### 🛠️ 4.7\n- Removed non-functioning features\n-Yet another 20% size reduction",
           "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 4.5\n- 🎉 shalaREPO Release",
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 🤏 4.6\n- Reduced package size by 70%",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 🎉 4.5\n- shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
