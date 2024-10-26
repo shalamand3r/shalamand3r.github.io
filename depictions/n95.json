@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- N95 allows you to add custom frames/masks around album artworks\n- Large variety of pre-installed styles to choose from\n- Supports third party music applications",
+          "markdown": "### ✨ Features:\n- N95 allows you to add custom frames/masks around album artworks\n- Choose from a variety of pre-installed styles or import your own\n- Additionally supports third party music/podcast applications",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
