@@ -18,9 +18,39 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🕒 Adds a calculation history to the stock iOS Calculator app\n- 📋 Easily manage saved results with a bulk delete option",
+          "markdown": "### ✨ Features:\n- See past calculations in the stock calculator app\n- Option to copy past results to your clipboard\n- Easily bulk delete saved results",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Wiki",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/donato-fiore/calculatorhistory",
+          "openExternal": true,
+          "tintColor": "#aaa7a5"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 📣 FAQs:\n- No options to configure"
         },
         {
           "class": "DepictionSeparatorView"
@@ -49,7 +79,14 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.1.4\n- 🎉 shalaREPO Release",
+          "markdown": "### 🛠️ 1.1.5\n- Bug fixes",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 🎉 1.1.4\n- shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
