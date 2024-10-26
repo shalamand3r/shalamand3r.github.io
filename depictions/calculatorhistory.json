@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- See past calculations in the stock calculator app\n- Option to copy past results to your clipboard\n- Easily bulk delete saved results",
+          "markdown": "### ✨ Features:\n- Show past calculations in the stock calculator\n- Copy past results to your clipboard\n-Easily clear history",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
