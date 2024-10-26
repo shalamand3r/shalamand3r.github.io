@@ -79,7 +79,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 🛠️ 1.1.5\n- Bug fixes",
+          "markdown": "### 🛠️ 1.1.5\n- Bug fixes\n- Removed accidental AltList dependency",
           "class": "DepictionMarkdownView"
         },
         {
