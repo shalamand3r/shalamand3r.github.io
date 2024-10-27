@@ -1,0 +1,141 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/a-font.png?raw=true",
+  "tintColor": "#4fb2c1",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://gitlab.com/Baw-Appie/A-Font",
+          "openExternal": true,
+          "tintColor": "#4fb2c1"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### ✨ Features:\n- A-Font allows users to change the system font used by any app\n- Supports custom fonts downloaded from *Google Fonts* (see wiki above for tutorial)",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Wiki",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://gitlab.com/Baw-Appie/A-Font",
+          "openExternal": true,
+          "tintColor": "#4fb2c1"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 📣 FAQs:\n- The **Font** tab allows users to change the font used by subtexts and content\n- The **Bold Font** tab allows users to specify a font used only by Headers and Titles\n- Both **Blacklist** and **Font Size** appear to be broken at the moment"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ⬇️ Installing custom fonts:\n1. Download a .ttf font from sites such as Google Fonts and save it to Filza\n2. Move the font to **/var/containers/Bundle/Application/.jbroot-XYZ/Library/A-Font**\n3. Select the font in A-Font's preference pane and respring your device"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ⚠️ Notes: \n- **Filza** must be installed in order to import custom fonts\n- The **.jbroot** folder will look different for every device hence the 'xyz' listed above"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Google Fonts",
+          "action": "https://fonts.google.com/",
+          "openExternal": true,
+          "tintColor": "#EA4335"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Open Filza up to /Application/",
+          "action": "https://shalamand3r.github.io/redirects/a-fontfilza.html",
+          "openExternal": true,
+          "tintColor": "#0bb1db"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Changelog",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://gitlab.com/Baw-Appie/A-Font",
+          "openExternal": true,
+          "tintColor": "#4fb2c1"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### ⚒️ 1.11.2\n- Fixed mismatched icon in Settings",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### ⚒️ 1.11.1\n- Updated icon to a lowercase '*a*'",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 🎉 1.11.0\n- shalaREPO Release",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView"
+}
