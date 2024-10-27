@@ -50,7 +50,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 📣 FAQs:\n- Use the button in the bottom right corner to enable PiP\n- No options to configure"
+          "markdown": "### 📣 FAQs:\n- No options to configure\n- Use the button in the bottom right corner to start PiP"
         },
         {
           "class": "DepictionSeparatorView"
