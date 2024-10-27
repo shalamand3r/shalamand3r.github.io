@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- Alpine brings tvOS styled alerts to iOS!\n- Add Haptic Feedback to alert buttons\n- Alert appearances can be customized with blurs and themes",
+          "markdown": "### ✨ Features:\n- Alpine brings tvOS styled alerts to iOS!\n- Option to add Haptic Feedback to alert buttons\n- Alert appearances can be customized with blurs and themes",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
