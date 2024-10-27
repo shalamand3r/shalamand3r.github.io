@@ -50,7 +50,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 📣 FAQs:\n- This is a TrollStore .iPA that will not be installed through Sileo\n- You can safely remove this package (it only exists for lazy people like me)"
+          "markdown": "### 📣 FAQs:\n- This is a TrollStore .iPA that will not be installed through Sileo\n- You can safely remove this package once installed (it doesn't do anything)"
         },
         {
           "class": "DepictionSeparatorView"
