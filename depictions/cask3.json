@@ -18,15 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🌀 Animate your table cells when scrolling!",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "markdown": "### Notes:\n- ⚠️ Some apps continue to use the **Stretch** animation for unknown reasons",
+          "markdown": "### ✨ Features:\n- Cask 3 brings fun animations to table cells\n- Choose from different effects and durations",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -43,7 +35,7 @@
       ]
     },
     {
-      "tabname": "Reset Settings",
+      "tabname": "Wiki",
       "class": "DepictionStackView",
       "views": [
         {
@@ -58,14 +50,21 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### To reset Cask 3's settings:\n1. 📂 Open /var/mobile/Library/Preferences in Filza\n2. 🗑️ Delete the file named com.ryannair05.cask3.plist\n3. ✅ Re-open the settings application"
+          "markdown": "### 📣 FAQs:\n- **Reanimate** can sometimes be buggy, it's recommended to keep it disabled"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Notes:\n- ⚠️ You must have Filza installed for this tutorial (TrollStore recommended)"
+          "markdown": "### 🔄 Reset Cask 3 settings:\n1. Open **/var/mobile/Library/Preferences** in **Filza**\n2. Delete the file named **com.ryannair05.cask3.plist**\n3. Re-open Cask 3 preferences"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ⚠️ Notes:\n- **Filza** must be installed in order to reset Cask 3 settings"
         },
         {
           "class": "DepictionSeparatorView"
@@ -101,28 +100,28 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.0.6\n- ❌ Farewell Cask Lite!\n- 🎊 Customization settings now function properly!",
+          "markdown": "### 🎊 1.0.6\n- Farewell Cask Lite!\n- Customization settings now function properly!",
           "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.0.5\n- 🗑️ Removed broken settings panel\n- 📝 Renamed to **Cask Lite** due to partial functionality",
+          "markdown": "### 📝 1.0.5\n- Removed broken settings panel completely\n- Renamed to **Cask Lite** due to partial functionality",
           "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.0.4\n- ⚒️ Updated preferences (they still do not function)",
+          "markdown": "### ⚒️ 1.0.4\n- Upated preferences (they still do not work)",
           "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.0.3\n- 🎉 shalaREPO Release",
+          "markdown": "### 🎉 1.0.3\n- shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
