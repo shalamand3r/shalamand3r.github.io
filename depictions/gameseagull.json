@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/gameseagull.png?raw=true",
-  "tintColor": "#4fb2c1",
+  "tintColor": "#656564",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -12,7 +12,7 @@
           "text": "CLICK ME TO INSTALL",
           "action": "https://shalamand3r.github.io/redirects/gameseagull.html",
           "openExternal": true,
-          "tintColor": "#4fb2c1"
+          "tintColor": "#656564"
         },
         {
           "class": "DepictionSeparatorView"
@@ -22,7 +22,7 @@
           "text": "Original Tweak",
           "action": "https://github.com/donato-fiore/TrollStoreGameSeagull",
           "openExternal": true,
-          "tintColor": "#4fb2c1"
+          "tintColor": "#656564"
         },
         {
           "class": "DepictionSeparatorView"
@@ -53,7 +53,7 @@
           "text": "CLICK ME TO INSTALL",
           "action": "https://shalamand3r.github.io/redirects/gameseagull.html",
           "openExternal": true,
-          "tintColor": "#4fb2c1"
+          "tintColor": "#656564"
         },
         {
           "class": "DepictionSeparatorView"
@@ -63,7 +63,7 @@
           "text": "Original Tweak",
           "action": "https://github.com/donato-fiore/TrollStoreGameSeagull",
           "openExternal": true,
-          "tintColor": "#4fb2c1"
+          "tintColor": "#656564"
         },
         {
           "class": "DepictionSeparatorView"
@@ -100,7 +100,7 @@
           "text": "CLICK ME TO INSTALL",
           "action": "https://shalamand3r.github.io/redirects/gameseagull.html",
           "openExternal": true,
-          "tintColor": "#4fb2c1"
+          "tintColor": "#656564"
         },
         {
           "class": "DepictionSeparatorView"
@@ -110,7 +110,7 @@
           "text": "Original Tweak",
           "action": "https://github.com/donato-fiore/TrollStoreGameSeagull",
           "openExternal": true,
-          "tintColor": "#4fb2c1"
+          "tintColor": "#656564"
         },
         {
           "class": "DepictionSeparatorView"
