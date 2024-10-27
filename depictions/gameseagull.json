@@ -9,8 +9,8 @@
       "views": [
         {
           "class": "DepictionButtonView",
-          "text": "Original Tweak",
-          "action": "https://github.com/donato-fiore/TrollStoreGameSeagull",
+          "text": "CLICK ME TO INSTALL",
+          "action": "https://shalamand3r.github.io/redirects/gameseagull.html",
           "openExternal": true,
           "tintColor": "#4fb2c1"
         },
@@ -19,8 +19,8 @@
         },
         {
           "class": "DepictionButtonView",
-          "text": "Click me to install!",
-          "action": "https://shalamand3r.github.io/redirects/gameseagull.html",
+          "text": "Original Tweak",
+          "action": "https://github.com/donato-fiore/TrollStoreGameSeagull",
           "openExternal": true,
           "tintColor": "#4fb2c1"
         },
@@ -50,6 +50,16 @@
       "views": [
         {
           "class": "DepictionButtonView",
+          "text": "CLICK ME TO INSTALL",
+          "action": "https://shalamand3r.github.io/redirects/gameseagull.html",
+          "openExternal": true,
+          "tintColor": "#4fb2c1"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
           "text": "Original Tweak",
           "action": "https://github.com/donato-fiore/TrollStoreGameSeagull",
           "openExternal": true,
@@ -60,38 +70,17 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 📣 FAQs:\n- The **Font** tab allows users to change the font used by subtexts and content\n- The **Bold Font** tab allows users to specify a font used only by Headers and Titles\n- Both **Blacklist** and **Font Size** appear to be broken at the moment"
+          "markdown": "### 📣 FAQs:\n- This is a TrollStore .iPA that will not be installed through Sileo\n- Enable **URL Schemes** in TrollStore's to install this iPA"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### ⬇️ Installing custom fonts:\n1. Download a .ttf font from sites such as Google Fonts and save it to Filza\n2. Move the font to **/var/containers/Bundle/Application/.jbroot-XYZ/Library/A-Font**\n3. Select the font in A-Font's preference pane and respring your device"
+          "markdown": "### ⚠️ Notes: \n- Remove the original **GamePigeon** app in iMessage settings **before** installing GameSeagull"
         },
         {
           "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### ⚠️ Notes: \n- **Filza** must be installed in order to import custom fonts\n- The **.jbroot** folder will look different for every device hence the 'xyz' listed above"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionButtonView",
-          "text": "Google Fonts",
-          "action": "https://fonts.google.com/",
-          "openExternal": true,
-          "tintColor": "#EA4335"
-        },
-        {
-          "class": "DepictionButtonView",
-          "text": "Open Filza up to /Application/",
-          "action": "https://shalamand3r.github.io/redirects/a-fontfilza.html",
-          "openExternal": true,
-          "tintColor": "#0bb1db"
         },
         {
           "class": "DepictionButtonView",
@@ -108,6 +97,16 @@
       "views": [
         {
           "class": "DepictionButtonView",
+          "text": "CLICK ME TO INSTALL",
+          "action": "https://shalamand3r.github.io/redirects/gameseagull.html",
+          "openExternal": true,
+          "tintColor": "#4fb2c1"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
           "text": "Original Tweak",
           "action": "https://github.com/donato-fiore/TrollStoreGameSeagull",
           "openExternal": true,
@@ -117,21 +116,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ⚒️ 1.11.2\n- Fixed mismatched icon in Settings",
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "markdown": "### ⚒️ 1.11.1\n- Updated icon to a lowercase '*a*'",
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "markdown": "### 🎉 1.11.0\n- shalaREPO Release",
+          "markdown": "### 🎉 2.1\n- shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
