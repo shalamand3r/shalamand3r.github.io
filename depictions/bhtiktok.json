@@ -5,7 +5,7 @@
   "tabs": [
     {
       "class": "DepictionStackView",
-      "tabname": "Features",
+      "tabname": "Details",
       "views": [
         {
           "class": "DepictionButtonView",
@@ -18,23 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Content:\n- 🚫 No ads or sponsored videos\n- 👀 Better video previews\n- 🆔 Display usernames instead of nicknames\n- ⬇️ Download photos, videos, and sounds\n- 🎥 Remove live streams\n- 🖼️ Save profile pictures\n- 📺 Force HD uploads",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "markdown": "### Customization:\n- 👁️‍🗨️ Show/Hide UI elements\n- 🛑 Disable pull-to-refresh\n- ⛔ Disable sensitive content warnings\n- 🖊️ Larger character limit (comments + bio)\n- 🕒 Force enable video progress bar",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "markdown": "### Spoofing & Privacy:\n- ✅ Confirm likes/comments/follows\n- 🌎 Region spoofing\n- 🔢 Spoof follower/following count (CLIENT)\n- 🔒 Lock app with biometrics",
+          "markdown": "### ✨ Features :\n- No ads or sponsored videos in the For You feed\n- Better video previews (show likes and views)\n- Always display usernames instead of nicknames\n- Download photos, videos, and sounds directly from the app\n- Hide recommended live streams from the For You feed\n- Save account profile pictures\n- Force HD video upload\n- Show/Hide UI elements\n- Disable pull-to-refresh\n- Disable sensitive content warnings\n- Larger character limits on comments and bio\n- Always show video progress bar\n- Confirm likes/comments/follows\n- Region spoofing\n- Spoof follower/following count (CLIENT)\n- Lock app with biometrics",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -66,35 +50,35 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.5.1\n- 🆕 Built in FLEX UI (for developers)\n- 🆕 Change the LIVE button action\n- 🛠️ Fixed app crashing on launch"
+          "markdown": "### 🆕 1.5.1\n- Added built in FLEX (for developers)\n- Change the LIVE button action\n- Fixed app crashing on launch"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.3.1\n- 🆕 Share sheet toggle"
+          "markdown": "### 🆕 1.3.1\n- Added a share sheet toggle"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.2.1\n- 🆕 Ability to download HD Videos"
+          "markdown": "### 🆕 1.2.1\n- Ability to download videos in HD"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.1.1\n- 🆕 Option to enable transparent comment section\n- 🆕 Option to stop video looping\n- 🛠️ Fixed button images"
+          "markdown": "### 🆕 1.1.1\n- Option to enable transparent comment section\n- 🛠️ Fixed button images"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.0.1\n- 🎉 shalaREPO Release"
+          "markdown": "### 🎉 1.0.1\n- shalaREPO Release"
         },
         {
           "class": "DepictionSeparatorView"
