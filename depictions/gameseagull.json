@@ -18,6 +18,13 @@
           "class": "DepictionSeparatorView"
         },
         {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ⚠️ Before Installing: \n- Enable URL Schemes in Trollstore's settings!"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "markdown": "### ✨ Features:\n- Sea Battle X-Ray (see enemy ships)\n- Anagrams auto-solver\n- Archery aimbot\n- Automatic Minigolf hole-in-one\n- One-shot wins (Darts and Cup Pong)\n- Remove wind from Tanks and Archery\n- Extend 8-Ball lines\n- Force 50ft targets in Archery",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
