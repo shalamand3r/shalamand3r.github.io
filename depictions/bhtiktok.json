@@ -34,7 +34,7 @@
         }
       ]
     },
-      {
+    {
       "tabname": "Wiki",
       "class": "DepictionStackView",
       "views": [
