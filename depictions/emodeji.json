@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- Emodeji turns camera app labels like **Photo** and **Video** into emojis!",
+          "markdown": "### ✨ Features:\n- Emodeji turns camera mode labels like **Photo** and **Time Lapse** into emojis!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
