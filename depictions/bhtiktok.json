@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/bhtiktok.png?raw=true",
-  "tintColor": "#2f1464",
+  "tintColor": "#72415f",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -12,7 +12,7 @@
           "text": "Original Tweak",
           "action": "https://github.com/raulsaeed/TikTokPlusPlus",
           "openExternal": true,
-          "tintColor": "#2f1464"
+          "tintColor": "#72415f"
         },
         {
           "class": "DepictionSeparatorView"
@@ -43,7 +43,7 @@
           "text": "Original Tweak",
           "action": "https://github.com/raulsaeed/TikTokPlusPlus",
           "openExternal": true,
-          "tintColor": "#2f1464"
+          "tintColor": "#72415f"
         },
         {
           "class": "DepictionSeparatorView"
