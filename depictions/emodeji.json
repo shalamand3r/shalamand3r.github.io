@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/emodeji.png?raw=true",
-  "tintColor": "#ff3b32",
+  "tintColor": "#ff3f3f",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -12,15 +12,45 @@
           "text": "Original Tweak",
           "action": "https://github.com/PoomSmart/EModeji",
           "openExternal": true,
-          "tintColor": "#ff3b32"
+          "tintColor": "#ff3f3f"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 📸 Turn camera app labels (photo/video...) into emojis!",
+          "markdown": "### ✨ Features:\n- Emodeji turns camera app labels like **Photo** and **Video** into emojis!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ] 
+    },
+    {
+      "tabname": "Wiki",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/PoomSmart/EModeji",
+          "openExternal": true,
+          "tintColor": "#ff3f3f"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 📣 FAQs:\n- No options to configure"
         },
         {
           "class": "DepictionSeparatorView"
@@ -43,7 +73,7 @@
           "text": "Original Tweak",
           "action": "https://github.com/PoomSmart/EModeji",
           "openExternal": true,
-          "tintColor": "#ff3b32"
+          "tintColor": "#ff3f3f"
         },
         {
           "class": "DepictionSeparatorView"
