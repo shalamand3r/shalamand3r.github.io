@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features :\n- No ads or sponsored videos in the For You feed\n- Better video previews (show likes and views)\n- Always display usernames instead of nicknames\n- Download photos, videos, and sounds directly from the app\n- Hide recommended live streams from the For You feed\n- Save account profile pictures\n- Force HD video upload\n- Show/Hide UI elements\n- Disable pull-to-refresh\n- Disable sensitive content warnings\n- Larger character limits on comments and bio\n- Always show video progress bar\n- Confirm likes/comments/follows\n- Region spoofing\n- Spoof follower/following count (CLIENT)\n- Lock app with biometrics",
+          "markdown": "### ✨ Features :\n- No ads or sponsored videos in the FYP\n- Better video previews (show likes and views)\n- Show usernames instead of nicknames\n- Download photos, videos, and sounds\n- Hide recommended live streams from FYP\n- Save account profile pictures\n- Force HD video uploads\n- Show/Hide UI elements\n- Disable pull-to-refresh\n- Larger character limits on comments and bio\n- Always show video progress bar\n- Confirm likes/comments/follows\n- Region spoofing\n- Lock app with biometrics",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
