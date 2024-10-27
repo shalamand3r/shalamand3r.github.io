@@ -18,9 +18,42 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features :\n- No ads or sponsored videos in the FYP\n- Better video previews (show likes and views)\n- Show usernames instead of nicknames\n- Download photos, videos, and sounds\n- Hide recommended live streams from FYP\n- Save account profile pictures\n- Force HD video uploads\n- Show/Hide UI elements\n- Disable pull-to-refresh\n- Larger character limits on comments and bio\n- Always show video progress bar\n- Confirm likes/comments/follows\n- Region spoofing\n- Lock app with biometrics",
+          "markdown": "### ✨ Features:\n- Remove ads and sponsored\n- Download photos, videos, and sounds\n- Show usernames instead of nicknames\n- Hide the occasional live streams\n- Force HD video uploads\n- Show/hide UI elements\n- Disable pull-to-refresh\n- Larger comment and bio character limits\n- Always show video progress bar\n- Confirm likes/comments/follows\n- Region spoofing\n- Lock TikTok with biometrics",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+      {
+      "tabname": "Wiki",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/raulsaeed/TikTokPlusPlus",
+          "openExternal": true,
+          "tintColor": "#72415f"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 📣 FAQs:\n- Find BHTikTok++ settings under **Settings and Privacy** in the TikTok app\n- Spoofing follower and like count is **client-sided**"
+        },
+        {
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionSeparatorView"
