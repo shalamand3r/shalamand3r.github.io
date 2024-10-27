@@ -9,17 +9,7 @@
       "views": [
         {
           "class": "DepictionButtonView",
-          "text": "CLICK ME TO INSTALL",
-          "action": "https://shalamand3r.github.io/redirects/gameseagull.html",
-          "openExternal": true,
-          "tintColor": "#656564"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionButtonView",
-          "text": "Original Tweak",
+          "text": "Original iPA",
           "action": "https://github.com/donato-fiore/TrollStoreGameSeagull",
           "openExternal": true,
           "tintColor": "#656564"
@@ -50,17 +40,7 @@
       "views": [
         {
           "class": "DepictionButtonView",
-          "text": "CLICK ME TO INSTALL",
-          "action": "https://shalamand3r.github.io/redirects/gameseagull.html",
-          "openExternal": true,
-          "tintColor": "#656564"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionButtonView",
-          "text": "Original Tweak",
+          "text": "Original iPA",
           "action": "https://github.com/donato-fiore/TrollStoreGameSeagull",
           "openExternal": true,
           "tintColor": "#656564"
@@ -70,14 +50,14 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 📣 FAQs:\n- This is a TrollStore .iPA that will not be installed through Sileo\n- Enable **URL Schemes** in TrollStore's to install this iPA"
+          "markdown": "### 📣 FAQs:\n- This is a TrollStore .iPA that will not be installed through Sileo\n- You can safely remove this package (it only exists for lazy people like me)"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### ⚠️ Notes: \n- Remove the original **GamePigeon** app in iMessage settings **before** installing GameSeagull"
+          "markdown": "### ⚠️ Notes: \n- Remove the original **GamePigeon** app **before** installing GameSeagull"
         },
         {
           "class": "DepictionSeparatorView"
@@ -97,17 +77,7 @@
       "views": [
         {
           "class": "DepictionButtonView",
-          "text": "CLICK ME TO INSTALL",
-          "action": "https://shalamand3r.github.io/redirects/gameseagull.html",
-          "openExternal": true,
-          "tintColor": "#656564"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionButtonView",
-          "text": "Original Tweak",
+          "text": "Original iPA",
           "action": "https://github.com/donato-fiore/TrollStoreGameSeagull",
           "openExternal": true,
           "tintColor": "#656564"
