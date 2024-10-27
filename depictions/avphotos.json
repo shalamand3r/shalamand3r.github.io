@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/gameseagull.png?raw=true",
-  "tintColor": "#656564",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/avphotos.png?raw=true",
+  "tintColor": "#79aac8",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -10,15 +10,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original iPA",
-          "action": "https://github.com/donato-fiore/TrollStoreGameSeagull",
+          "action": "https://miro92.com/repo/depictions/?p=com.miro.avphotos",
           "openExternal": true,
-          "tintColor": "#656564"
+          "tintColor": "#79aac8"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- Sea Battle X-Ray (see enemy ships)\n- Anagrams auto-solver\n- Archery aimbot\n- Automatic Minigolf hole-in-one\n- One-shot wins (Darts and Cup Pong)\n- Remove wind from Tanks and Archery\n- Extend 8-Ball lines\n- Force 50ft targets in Archery",
+          "markdown": "### ✨ Features:\n- AVPhotos brings native PiP to the stock Photos app",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -41,23 +41,16 @@
         {
           "class": "DepictionButtonView",
           "text": "Original iPA",
-          "action": "https://github.com/donato-fiore/TrollStoreGameSeagull",
+          "action": "https://miro92.com/repo/depictions/?p=com.miro.avphotos",
           "openExternal": true,
-          "tintColor": "#656564"
+          "tintColor": "#79aac8"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 📣 FAQs:\n- This is a TrollStore .iPA that will not be installed through Sileo\n- You can safely remove this package once installed (it's useless)"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### ⚠️ Notes: \n- Remove the original **GamePigeon** app **before** installing GameSeagull"
+          "markdown": "### 📣 FAQs:\n- Use the button in the bottom right corner to enable PiP\n- No options to configure"
         },
         {
           "class": "DepictionSeparatorView"
@@ -78,15 +71,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original iPA",
-          "action": "https://github.com/donato-fiore/TrollStoreGameSeagull",
+          "action": "https://miro92.com/repo/depictions/?p=com.miro.avphotos",
           "openExternal": true,
-          "tintColor": "#656564"
+          "tintColor": "#79aac8"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 🎉 2.1\n- shalaREPO Release",
+          "markdown": "### 🎉 1.0.2\n- shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
