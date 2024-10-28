@@ -83,6 +83,10 @@
           "tintColor": "#ff89ab"
         },
         {
+          "markdown": "### 🛠 1.0.8\n- Fixed crashing preference pane",
+          "class": "DepictionMarkdownView"
+        },
+        {
           "class": "DepictionSeparatorView"
         },
         {
