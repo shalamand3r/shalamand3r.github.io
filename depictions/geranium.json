@@ -25,7 +25,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- nd Cup Pong)\n- Spoof your location\n- Clean caches and other bulky files\n- Manage daemons (danger zone)\n- Disable ScreenTime\n- Supervise your device",
+          "markdown": "### ✨ Features:\n- Spoof your location\n- Clean caches and other bulky files\n- Manage daemons (danger zone)\n- Disable ScreenTime\n- Supervise your device",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
