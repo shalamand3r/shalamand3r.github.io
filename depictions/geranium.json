@@ -10,7 +10,7 @@
         {
           "class": "DepictionButtonView",
           "text": "Original iPA",
-          "action": "https://github.com/donato-fiore/TrollStoreGameSeagull",
+          "action": "https://github.com/c22dev/Geranium",
           "openExternal": true,
           "tintColor": "#656564"
         },
@@ -25,7 +25,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- Sea Battle X-Ray (see enemy ships)\n- Anagrams auto-solver\n- Archery aimbot\n- Automatic Minigolf hole-in-one\n- One-shot wins (Darts and Cup Pong)\n- Remove wind from Tanks and Archery\n- Extend 8-Ball lines\n- Force 50ft targets in Archery",
+          "markdown": "### ✨ Features:\n- nd Cup Pong)\n- Spoof your location\n- Clean caches and other bulky files\n- Manage daemons (danger zone)\n- Disable ScreenTime\n- Supervise your device",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -48,7 +48,7 @@
         {
           "class": "DepictionButtonView",
           "text": "Original iPA",
-          "action": "https://github.com/donato-fiore/TrollStoreGameSeagull",
+          "action": "https://github.com/c22dev/Geranium",
           "openExternal": true,
           "tintColor": "#656564"
         },
@@ -58,13 +58,6 @@
         {
           "class": "DepictionMarkdownView",
           "markdown": "### 📣 FAQs:\n- This is a TrollStore .iPA that will not be installed through Sileo\n- You can safely remove this package once installed (it's useless)"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### ⚠️ Notes: \n- Remove the original **GamePigeon** app **before** installing GameSeagull"
         },
         {
           "class": "DepictionSeparatorView"
@@ -85,7 +78,7 @@
         {
           "class": "DepictionButtonView",
           "text": "Original iPA",
-          "action": "https://github.com/donato-fiore/TrollStoreGameSeagull",
+          "action": "https://github.com/c22dev/Geranium",
           "openExternal": true,
           "tintColor": "#656564"
         },
@@ -93,7 +86,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 🎉 2.1\n- shalaREPO Release",
+          "markdown": "### 🎉 1.3.3\n- shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
