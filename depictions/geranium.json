@@ -57,7 +57,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 📣 FAQs:\n- This is a **TrollStore IPA**\n- The IPA itself will not be installed through Sileo\n- You will be redirected to TrollStore to finish installation\n- You can safely remove this Sileo package once installed (it's useless)"
+          "markdown": "### 📣 FAQs:\n- This is a **TrollStore IPA**\n- The IPA itself won't be installed through Sileo\n- You will be redirected to TrollStore to install Germanium\n- You can safely remove this Sileo package once Germanium is installed"
         },
         {
           "class": "DepictionSeparatorView"
