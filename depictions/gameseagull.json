@@ -19,7 +19,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### ⚠️ Before Installing: \n- Enable URL Schemes in Trollstore's settings!"
+          "markdown": "### ⚠️ Before Installing: \n- Enable **URL Schemes** in Trollstore's settings!"
         },
         {
           "class": "DepictionSeparatorView"
