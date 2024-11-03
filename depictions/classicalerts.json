@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/classicalerts.png?raw=true",
-  "tintColor": "#553d15",
+  "tintColor": "#4d3711",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -12,15 +12,45 @@
           "text": "Original Tweak",
           "action": "https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.classicalerts",
           "openExternal": true,
-          "tintColor": "#553d15"
+          "tintColor": "#4d3711"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 📱 ClassicAlerts brings the iOS 7-8 era sqaured alerts back",
+          "markdown": "### ✨ Features:\n- ClassicAlerts brings the iOS 7-8 sqaured alerts back",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Wiki",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.classicalerts",
+          "openExternal": true,
+          "tintColor": "#4d3711"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 📣 FAQs:\n- No options to configure\n- Springboard alerts such as **Low Battery** notifications will not be affected"
         },
         {
           "class": "DepictionSeparatorView"
@@ -43,13 +73,13 @@
           "text": "Original Tweak",
           "action": "https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.classicalerts",
           "openExternal": true,
-          "tintColor": "#553d15"
+          "tintColor": "#4d3711"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.0.1\n- 🎉 shalaREPO Release",
+          "markdown": "### 🎉 1.0.1\n- shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
