@@ -35,6 +35,36 @@
       ]
     },
     {
+      "tabname": "Wiki",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://cydia.ichitaso.com/depiction/youtubepatcher.html",
+          "openExternal": true,
+          "tintColor": "#ff1515"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 📣 FAQs:\n- This tweak is based off of PoomSmart's **YouTube X** and thus will conflict\n- No options to configure"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
       "tabname": "Changelog",
       "class": "DepictionStackView",
       "views": [
