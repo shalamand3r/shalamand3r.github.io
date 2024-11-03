@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- ClassicAlerts brings the iOS 7-8 sqaured alerts back",
+          "markdown": "### ✨ Features:\n- ClassicAlerts brings the iOS 7-8 square-style alerts back to iOS 17!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
