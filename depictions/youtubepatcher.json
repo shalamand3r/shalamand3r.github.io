@@ -18,7 +18,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- Block pesky video ads\n- Enable background playback when not in the YouTube app\n- Additionally supports the YouTube Music app",
+          "markdown": "### ✨ Features:\n- Block pesky video ads\n- Enable background playback when not in the YouTube app\n- Compatible with the YouTube Music application as well",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
