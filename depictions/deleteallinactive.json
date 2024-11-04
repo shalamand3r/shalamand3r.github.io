@@ -18,9 +18,39 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🗑️ Delete all of your inactive alarms with just a click of a button!\n- ✏️ Click **edit** in the Clock application to display the **Delete all Inactive** button",
+          "markdown": "### ✨ Features:\n- Delete all of your inactive alarms with just a click of a button",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Wiki",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/AnubisTweaks/AnubisTweaks.github.io/blob/main/debfiles/com.anubistweaks.deleteallinactive_1.0_iphoneos-arm64e.deb",
+          "openExternal": true,
+          "tintColor": "#839d9b"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 📣 FAQs:\n- No options to configure\n- Click **edit** in the Clock application to display the **Delete all Inactive** button"
         },
         {
           "class": "DepictionSeparatorView"
@@ -49,7 +79,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.1\n- 🎉 shalaREPO Release",
+          "markdown": "### 🎉 1.1\n- shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
