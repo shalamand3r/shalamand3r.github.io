@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/marie.png?raw=true",
-  "tintColor": "#ff89ab",
+  "tintColor": "#ff88ab",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -12,13 +12,13 @@
           "text": "Original Tweak",
           "action": "https://github.com/Luki120/Marie",
           "openExternal": true,
-          "tintColor": "#ff89ab"
+          "tintColor": "#ff88ab"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- Replace the plain background of the Phone dilaer with a photo of your choice",
+          "markdown": "### ✨ Features:\n- Replace the background of the stock iOS Phone dilaer with a photo",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -43,7 +43,7 @@
           "text": "Original Tweak",
           "action": "https://github.com/Luki120/Marie",
           "openExternal": true,
-          "tintColor": "#ff89ab"
+          "tintColor": "#ff88ab"
         },
         {
           "class": "DepictionSeparatorView"
@@ -80,7 +80,7 @@
           "text": "Original Tweak",
           "action": "https://github.com/Luki120/Marie",
           "openExternal": true,
-          "tintColor": "#ff89ab"
+          "tintColor": "#ff88ab"
         },
         {
           "class": "DepictionSeparatorView"
