@@ -79,6 +79,13 @@
           "class": "DepictionSeparatorView"
         },
         {
+          "markdown": "### 🛠️ 1.1.8\n- Spelling fixes in settings",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "markdown": "### 🎉 1.1.7\n- shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
