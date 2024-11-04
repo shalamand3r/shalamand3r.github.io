@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/marie.png?raw=true",
-  "tintColor": "#ff89ab",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/april.png?raw=true",
+  "tintColor": "#ff72a9",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -10,15 +10,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://github.com/Luki120/Marie",
+          "action": "https://github.com/Luki120/April",
           "openExternal": true,
-          "tintColor": "#ff89ab"
+          "tintColor": "#ff72a9"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- Replace the plain background of the Phone dilaer with a photo of your choice",
+          "markdown": "### ✨ Features:\n- Customize the background of the settings app with a photo or animated gradients",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -41,9 +41,9 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://github.com/Luki120/Marie",
+          "action": "https://github.com/Luki120/April",
           "openExternal": true,
-          "tintColor": "#ff89ab"
+          "tintColor": "#ff72a9"
         },
         {
           "class": "DepictionSeparatorView"
@@ -51,13 +51,6 @@
         {
           "class": "DepictionMarkdownView",
           "markdown": "### 📣 FAQs:\n- Features that aren't copatible with Roothide/Bootstrap have been removed!"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### ⚠️ Notes: \n- Make sure to enable tweak injection into the **Phone** app",
         },
         {
           "class": "DepictionSeparatorView"
@@ -78,26 +71,15 @@
         {
           "class": "DepictionButtonView",
           "text": "Original Tweak",
-          "action": "https://github.com/Luki120/Marie",
+          "action": "https://github.com/Luki120/April",
           "openExternal": true,
-          "tintColor": "#ff89ab"
-        },
-        {
-          "markdown": "### 🛠 1.0.9\n- Fixed missing dependency",
-          "class": "DepictionMarkdownView"
+          "tintColor": "#ff72a9"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 🛠 1.0.8\n- Fixed crashing preference pane",
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "markdown": "### 🎉 1.0.7\n- shalaREPO Release",
+          "markdown": "### 🎉 3.2\n- shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {

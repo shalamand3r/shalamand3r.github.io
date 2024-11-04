@@ -83,6 +83,9 @@
           "tintColor": "#ff89ab"
         },
         {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "markdown": "### 🛠 1.0.9\n- Fixed missing dependency",
           "class": "DepictionMarkdownView"
         },
