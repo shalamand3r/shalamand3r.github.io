@@ -79,6 +79,13 @@
           "class": "DepictionSeparatorView"
         },
         {
+          "markdown": "### 🆕 3.3\n- New icon",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "markdown": "### 🎉 3.2\n- shalaREPO Release",
           "class": "DepictionMarkdownView"
         },

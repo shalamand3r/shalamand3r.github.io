@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/confirmtosend.png?raw=true",
-  "tintColor": "#d9e9fa",
+  "tintColor": "#001330",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -12,13 +12,13 @@
           "text": "Original Tweak",
           "action": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=confirmtosendDp",
           "openExternal": true,
-          "tintColor": "#d9e9fa"
+          "tintColor": "#001330"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- Prompts you before sending messages/making calls\n- Can help mitigate accidental texts/phone calls\n- Supports various third party applicstions (Signal, WhatsApp, etc)",
+          "markdown": "### ✨ Features:\n- Prompts you before sending messages/making calls\n- Supports various third party applicstions (Signal, WhatsApp, etc)",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -43,7 +43,7 @@
           "text": "Original Tweak",
           "action": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=confirmtosendDp",
           "openExternal": true,
-          "tintColor": "#d9e9fa"
+          "tintColor": "#001330"
         },
         {
           "class": "DepictionSeparatorView"
@@ -73,13 +73,20 @@
           "text": "Original Tweak",
           "action": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=confirmtosendDp",
           "openExternal": true,
-          "tintColor": "#d9e9fa"
+          "tintColor": "#001330"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 🛠️ 1.1.8\n- Spelling fixes in settings",
+          "markdown": "### 🆕 1.1.9\n- Dark-mode friendly icon",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 🛠️ 1.1.8\n- Table fixes in settings",
           "class": "DepictionMarkdownView"
         },
         {

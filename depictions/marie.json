@@ -57,7 +57,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### ⚠️ Notes: \n- Make sure to enable tweak injection into the **Phone** app",
+          "markdown": "### ⚠️ Notes:\n- Make sure to enable tweak injection into the **Phone** app",
         },
         {
           "class": "DepictionSeparatorView"
@@ -81,6 +81,13 @@
           "action": "https://github.com/Luki120/Marie",
           "openExternal": true,
           "tintColor": "#ff88ab"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 🆕 1.1.0\n- New icon",
+          "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSeparatorView"
