@@ -18,9 +18,39 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 📊 Displays total tweaks installed in the Settings app",
+          "markdown": "### ✨ Features:\n- Displays total tweaks installed in the Settings app",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Wiki",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/Luki120/luki120.github.io/blob/master/debians/rootless/me.luki.elixir_0.9.8_iphoneos-arm64.deb",
+          "openExternal": true,
+          "tintColor": "#952bf5"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 📣 FAQs:\n- No options to configure"
         },
         {
           "class": "DepictionSeparatorView"
