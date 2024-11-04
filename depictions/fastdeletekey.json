@@ -18,9 +18,39 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 🚀 Increases the speed of your delete key\n- ⚡ Removes the delay when holding down the delete key",
+          "markdown": "### ✨ Features:\n- Increases the speed of your delete key\n- Removes the delay before deletion starts (when holding down the delete key)",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Wiki",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://moreinfo.thebigboss.org/onepackage.php?bundleid=com.cydiageek.fastdeletekey&db=0#:~:text=FastDeleteKey.%20Author:%20CydiaGeek%20Section:%20Tweaks%20%C2%B7%20Current%20Version:%201.0.4%20Maintainer:",
+          "openExternal": true,
+          "tintColor": "#b264ab"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 📣 FAQs:\n- Turn on Haptic Feedback for the keyboard in **Sounds & Haptics** 👌👌👌"
         },
         {
           "class": "DepictionSeparatorView"
@@ -49,14 +79,21 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.0.6\n- 🆕 Improved preference pane",
+          "markdown": "### 🛠️ 1.0.7\n- Simplified settings",
           "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.0.5\n- 🎉 shalaREPO Release",
+          "markdown": "### 🆕 1.0.6\n- Improved preference pane",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 🎉 1.0.5\n- shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
