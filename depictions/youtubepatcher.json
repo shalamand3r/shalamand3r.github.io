@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/youtubepatcher.png?raw=true",
-  "tintColor": "#ff1515",
+  "tintColor": "#fe1818",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -12,13 +12,13 @@
           "text": "Original Tweak",
           "action": "https://cydia.ichitaso.com/depiction/youtubepatcher.html",
           "openExternal": true,
-          "tintColor": "#ff1515"
+          "tintColor": "#fe1818"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### ✨ Features:\n- Block pesky video ads\n- Enable background playback when not in the YouTube app\n- Compatible with the YouTube Music application as well",
+          "markdown": "### ✨ Features:\n- Blocks **annoying** YouTube ads\n- Enables background playback when not in the YouTube app\n- Compatible with the YouTube Music application!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -43,14 +43,14 @@
           "text": "Original Tweak",
           "action": "https://cydia.ichitaso.com/depiction/youtubepatcher.html",
           "openExternal": true,
-          "tintColor": "#ff1515"
+          "tintColor": "#fe1818"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 📣 FAQs:\n- This tweak is based off of PoomSmart's **YouTube X** and thus will conflict\n- No options to configure"
+          "markdown": "### 📣 FAQs:\n- This tweak is based off of PoomSmart's **YouTube X**\n- No options to configure"
         },
         {
           "class": "DepictionSeparatorView"
@@ -73,7 +73,7 @@
           "text": "Original Tweak",
           "action": "https://cydia.ichitaso.com/depiction/youtubepatcher.html",
           "openExternal": true,
-          "tintColor": "#ff1515"
+          "tintColor": "#fe1818"
         },
         {
           "class": "DepictionSeparatorView"
