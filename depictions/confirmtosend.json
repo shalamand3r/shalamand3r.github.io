@@ -18,9 +18,39 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### Features:\n- 📩 Prompts you before sending messages/making calls\n- 🚫 Prevents accidental texts/butt dials!\n- 🔗 Supports various third party applicstions (Signal, WhatsApp, etc)",
+          "markdown": "### ✨ Features:\n- Prompts you before sending messages/making calls\n- Can help mitigate accidental texts/phone calls\n- Supports various third party applicstions (Signal, WhatsApp, etc)",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+        {
+      "tabname": "Wiki",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=confirmtosendDp",
+          "openExternal": true,
+          "tintColor": "#d9e9fa"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 📣 FAQs:\n- Reddit has been removed from ConfirmToSend due to reports of crashing"
         },
         {
           "class": "DepictionSeparatorView"
@@ -49,7 +79,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "markdown": "### 1.1.7\n- 🎉 shalaREPO Release",
+          "markdown": "### 🎉 1.1.7\n- shalaREPO Release",
           "class": "DepictionMarkdownView"
         },
         {
