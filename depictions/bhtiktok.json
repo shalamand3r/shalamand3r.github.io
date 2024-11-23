@@ -80,6 +80,13 @@
         },
         {
           "class": "DepictionMarkdownView",
+          "markdown": "### 🆕 1.7.1\n- Added story photo/video downloads\n- Hide feed banners\n- Keep clear display active\n- Keep playback speed persistent\n- OLED keyboard"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
           "markdown": "### 🆕 1.5.1\n- Added built in FLEX (for developers)\n- Set custom LIVE button actions\n- Fixed TikTok crashing on launch"
         },
         {
