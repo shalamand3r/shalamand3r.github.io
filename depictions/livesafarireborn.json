@@ -28,7 +28,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Version 1.0\n- Rootless support\n- Improved icon masking",
+          "markdown": "### Version 1.0\n- Rootless support added\n- Icon masking updated to squircle design",
           "useSpacing": true
         }
       ]
