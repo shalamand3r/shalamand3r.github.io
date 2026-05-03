@@ -27,7 +27,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.0\n- Rootless support\n- Improved icon masking",
+          "markdown": "### Version 1.0\n- Rootless support\n- Improved icon masking",
           "useSpacing": true
         }
       ]
