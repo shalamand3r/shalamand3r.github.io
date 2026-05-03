@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "tintColor": "#0a84ff",
+  "tintColor": "#ff766a",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -11,7 +11,7 @@
           "text": "Original Tweak",
           "action": "https://github.com/Skittyblock/LiveSafari",
           "openExternal": true,
-          "tintColor": "#0a84ff"
+          "tintColor": "#ff766a"
         },
         {
           "class": "DepictionSeparatorView"
