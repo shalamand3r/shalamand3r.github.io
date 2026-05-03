@@ -388,10 +388,15 @@
         const namespace = 'shalamand3r-repo';
         const key = 'visits';
         let hasLogged = false;
+        let hasFetched = false;
         let hideTimeout;
 
         async function handleCounter() {
             if (hideTimeout) clearTimeout(hideTimeout);
+            if (hasFetched) {
+                if (counterEl.textContent) counterEl.style.opacity = '1';
+                return;
+            }
             try {
                 if (!hasLogged) {
                     await fetch(`https://api.counterapi.dev/v1/${namespace}/${key}/up`);
@@ -401,14 +406,17 @@
                 const response = await fetch(`https://api.counterapi.dev/v1/${namespace}/${key}/`);
                 if (!response.ok) throw new Error('Blocked');
                 const data = await response.json();
-                
+
                 counterEl.textContent = `Visits: ${data.count.toLocaleString()}`;
                 counterEl.style.opacity = '1';
+                hasFetched = true;
             } catch (err) {
+                hasFetched = true;
                 counterEl.textContent = '';
                 counterEl.style.opacity = '0';
             }
         }
+
 
         function startHideTimer() {
             if (hideTimeout) clearTimeout(hideTimeout);
