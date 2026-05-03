@@ -1,4 +1,4 @@
-<b><font size="7">[shalaREPO](https://shalamand3r.github.io) 🦎</font></b>
+# [shalaREPO](https://shalamand3r.github.io) 🦎
 
 ---
 
