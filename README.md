@@ -1,8 +1,4 @@
-<div align="center">
-<img src="CydiaIcon.png" width="120">
-
-# [🦎 shalaREPO](https://shalamand3r.github.io)
-</div>
+# <img src="CydiaIcon.png" width="38" valign="middle"> [🦎 shalaREPO](https://shalamand3r.github.io)
 
 ---
 
