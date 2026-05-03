@@ -17,7 +17,7 @@
             --text-dark: #f4f4f4;
             --card-bg-light: #ffffff;
             --card-bg-dark: #1e1e1e;
-            --spacing: 24px;
+            --spacing: clamp(16px, 3vw, 24px);
         }
 
         * {
@@ -32,12 +32,13 @@
             text-align: center;
             margin: 0;
             padding: var(--spacing);
-            min-height: 100vh;
+            height: 100vh;
+            height: 100dvh;
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            overflow-x: hidden;
+            overflow: hidden;
             position: relative;
             transition: background-color 0.5s ease, color 0.5s ease;
         }
