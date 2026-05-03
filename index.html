@@ -8,241 +8,317 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <style>
+        :root {
+            --primary: #1BC0BC;
+            --secondary: #ff766a;
+            --bg-light: #f8f9fa;
+            --bg-dark: #121212;
+            --text-light: #333;
+            --text-dark: #f4f4f4;
+            --card-bg-light: #ffffff;
+            --card-bg-dark: #1e1e1e;
+            --spacing: 24px;
+        }
+
+        * {
+            box-sizing: border-box;
+            -webkit-tap-highlight-color: transparent;
+        }
+
         body {
             font-family: 'Urbanist', sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
+            background-color: var(--bg-light);
+            color: var(--text-light);
             text-align: center;
             margin: 0;
-            padding: 10px;
-            height: 100vh;
+            padding: var(--spacing);
+            min-height: 100vh;
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            overflow: hidden;
+            overflow-x: hidden;
             position: relative;
+            transition: background-color 0.5s ease, color 0.5s ease;
         }
+
         @media (prefers-color-scheme: dark) {
             body {
-                background-color: #333;
-                color: #f4f4f4;
-            }
-            a {
-                color: white;
-                background-color: #1e90ff;
-                border: 2px solid #1e90ff;
-            }
-            a.zebra {
-                background-color: #555;
-            }
-            a:hover {
-                background-color: #1e90ff;
-            }
-            a.zebra:hover {
-                background-color: #555;
-            }
-            .notification {
-                background-color: rgba(0, 0, 0, 0.9);
-                border: 2px solid #1e90ff;
+                background-color: var(--bg-dark);
+                color: var(--text-dark);
             }
         }
+
         .content {
             position: relative;
-            z-index: 1;
-            user-select: none;
+            z-index: 10;
+            background: rgba(255, 255, 255, 0.7);
+            padding: calc(var(--spacing) * 2) var(--spacing);
+            border-radius: 40px;
+            backdrop-filter: blur(15px);
+            -webkit-backdrop-filter: blur(15px);
+            box-shadow: 0 20px 50px rgba(0,0,0,0.1);
+            width: min(90vw, 480px);
+            border: 1px solid rgba(255,255,255,0.3);
+            display: flex;
+            flex-direction: column;
+            gap: var(--spacing);
         }
-        .overlay {
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background-color: rgba(255, 255, 255, 0);
-            z-index: 0;
+
+        @media (prefers-color-scheme: dark) {
+            .content {
+                background: rgba(30, 30, 30, 0.7);
+                box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+                border: 1px solid rgba(255,255,255,0.1);
+            }
         }
-        @keyframes bounce {
-            0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
-            40% { transform: translateY(-10px); }
-            60% { transform: translateY(-5px); }
+
+        .icon-container {
+            width: clamp(80px, 20vw, 100px);
+            height: clamp(80px, 20vw, 100px);
+            margin: 0 auto;
+            border-radius: 24px;
+            overflow: hidden;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+            transform: rotate(calc(-3deg + var(--extra-rotation, 0deg)));
+            transition: transform 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
         }
+
+        .icon-container:hover {
+            transform: rotate(calc(3deg + var(--extra-rotation, 0deg))) scale(1.1);
+        }
+
+        .icon-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
         h1 {
-            font-size: 7vw;
-            animation: tilt 5s infinite ease-in-out;
-            margin-bottom: 20px;
-            text-shadow: 0 0 5px #f4f4f4;
+            font-size: clamp(2rem, 10vw, 2.8rem);
+            font-weight: 800;
+            margin: 0;
+            letter-spacing: -1.5px;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
         }
-        .sub-header {
-            font-size: 5vw;
-            margin: 5px 0;
-            animation: bounce 1s infinite;
-            text-shadow: 0 0 5px #f4f4f4;
+
+        .buttons {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            gap: calc(var(--spacing) * 0.5);
         }
-        p {
-            font-size: 4vw;
-            margin: 10px 0;
-        }
+
         a {
-            font-size: 5vw;
             text-decoration: none;
-            padding: 12px 18px;
-            border-radius: 5px;
+            padding: 14px 30px;
+            border-radius: 50px;
+            font-weight: 700;
+            font-size: 1rem;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
             color: white;
-            background-color: #1BC0BC;
-            border: 2px solid #1BC0BC;
-            transition: background-color 0.3s, transform 0.3s;
-            display: inline-block;
-            margin: 5px;
             position: relative;
-            z-index: 2;
         }
-        a.zebra {
-            color: white;
-            background-color: #555;
-            border: 2px solid #555;
+
+        .btn-emoji {
+            position: absolute;
+            left: 20px;
+            font-size: 1.1rem;
         }
-        a.discord {
-            background-color: #5865F2; /* Changed to #5865F2 */
-            border: 2px solid #5865F2; /* Changed to #5865F2 */
+
+        .btn-sileo {
+            background-color: var(--primary);
         }
-        a:hover {
-            background-color: #1BC0BC;
-            transform: scale(1.03);
+
+        .btn-sileo:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(27, 192, 188, 0.3);
+            filter: brightness(1.1);
         }
-        a.discord:hover {
-            background-color: #5865F2; /* Changed to #5865F2 */
-            transform: scale(1.03);
+
+        .btn-zebra {
+            background-color: #444;
         }
-        a.zebra:hover {
-            background-color: #555;
-            transform: scale(1.03);
+
+        .btn-zebra:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+            filter: brightness(1.2);
         }
-        @keyframes tilt {
-            0%, 100% { transform: rotate(1deg); }
-            50% { transform: rotate(-1deg); }
+
+        .footer-info {
+            display: flex;
+            flex-direction: column;
+            gap: calc(var(--spacing) * 0.4);
+            align-items: center;
         }
-        @media (min-width: 768px) {
-            h1 { font-size: 4vw; }
-            .sub-header { font-size: 2.8vw; }
-            p { font-size: 2.2vw; }
-            a { font-size: 2.8vw; }
-            .package-count { font-size: 133333rem; } /* Make package count smaller on larger screens */
+
+        .badge {
+            display: inline-block;
+            padding: 6px 16px;
+            border-radius: 50px;
+            background: rgba(0,0,0,0.05);
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--secondary);
         }
+
+        @media (prefers-color-scheme: dark) {
+            .badge {
+                background: rgba(255,255,255,0.1);
+            }
+        }
+
         .emoji {
             position: absolute;
             top: -50px;
             font-size: 2rem;
-            opacity: 0.8;
+            opacity: 0.6;
             animation: fall linear forwards;
-            z-index: 0;
-        }
-        @keyframes fall {
-            0% { transform: translateY(0); opacity: 0.8; }
-            90% { opacity: 0.8; }
-            100% { transform: translateY(100vh); opacity: 0; }
-        }
-        .explosion {
-            position: absolute;
-            font-size: 2rem;
-            animation: explode 0.5s forwards;
-            z-index: 2;
-        }
-        @keyframes explode {
-            0% { transform: scale(1); opacity: 1; }
-            100% { transform: scale(2); opacity: 0; }
-        }
-        /* Total package count styling */
-        .package-count {
-            font-size: 1.1rem;
-            margin-top: 10px;
-            animation: flash 1s infinite alternate;
-        }
-        @keyframes flash {
-            0% { color: black; }
-            100% { color: lightgrey; }
+            pointer-events: auto;
+            cursor: pointer;
+            z-index: 1;
         }
 
-        /* Fade in/out animation for iOS supported text */
-        @keyframes fadeInOut {
-            0%, 100% { opacity: 0; }
-            50% { opacity: 1; }
+        @keyframes fall {
+            0% { transform: translateY(0) rotate(0deg); }
+            100% { transform: translateY(110vh) rotate(360deg); }
         }
-        .package-count {
-            animation: fadeInOut 2s infinite;
+
+        .explosion {
+            position: absolute;
+            font-size: 2.5rem;
+            pointer-events: none;
+            animation: explode 0.6s ease-out forwards;
+            z-index: 5;
         }
+
+        @keyframes explode {
+            0% { transform: scale(0.5); opacity: 1; }
+            50% { transform: scale(1.5); opacity: 0.8; }
+            100% { transform: scale(2); opacity: 0; }
+        }
+
+        .support-text {
+            color: var(--secondary);
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 0.6; transform: scale(1); }
+            50% { opacity: 1; transform: scale(1.05); }
+        }
+
     </style>
 </head>
 <body>
     <div class="content">
-        <h1>hii i made a repo for<br>roothide/bootstrap tweaks</h1>
-        <p class="sub-header">👇 add shalaREPO 👇</p>
-        <p>
-            <a href="sileo://source/https://shalamand3r.github.io/">sileo</a>
-            <a class="zebra" href="zbra://sources/add/https://shalamand3r.github.io/">zebra</a>
-            <a class="discord" href="https://discord.com/invite/twwttTGSuk">discord</a>
-        </p>
-        <p class="package-count">17.0 supported</p>
+        <div class="icon-container">
+            <img src="CydiaIcon.png" alt="shalaREPO Icon">
+        </div>
+        <h1>shalaREPO</h1>
+        
+        <div class="buttons">
+            <a href="sileo://source/https://shalamand3r.github.io/" class="btn-sileo">
+                <span class="btn-emoji">📦</span>
+                <span>Add to Sileo</span>
+            </a>
+            <a href="zbra://sources/add/https://shalamand3r.github.io/" class="btn-zebra">
+                <span class="btn-emoji">🦓</span>
+                <span>Add to Zebra</span>
+            </a>
+        </div>
+
+        <div class="footer-info">
+            <div style="opacity: 0.5;">Compatible with iOS 15.0 - 17.0</div>
+        </div>
     </div>
-    <div class="overlay"></div>
+
     <script>
+        const emojis = ['🍆'];
         let cursorX = 0;
         let cursorY = 0;
-        let spawnInterval;
 
-        document.addEventListener('mousemove', (event) => {
-            cursorX = event.clientX;
-            cursorY = event.clientY;
+        document.addEventListener('mousemove', (e) => {
+            cursorX = e.clientX;
+            cursorY = e.clientY;
+        });
+
+        document.addEventListener('touchstart', (e) => {
+            cursorX = e.touches[0].clientX;
+            cursorY = e.touches[0].clientY;
+        });
+
+        const icon = document.querySelector('.icon-container');
+        let currentRotation = 0;
+
+        icon.addEventListener('click', () => {
+            currentRotation += 720;
+            icon.style.setProperty('--extra-rotation', `${currentRotation}deg`);
         });
 
         function createEmoji() {
             const emoji = document.createElement('div');
-            emoji.classList.add('emoji');
-            emoji.textContent = '🍆';
-
-            const randomX = Math.random() * window.innerWidth;
-            emoji.style.left = `${randomX}px`;
-
+            emoji.className = 'emoji';
+            emoji.textContent = emojis[Math.floor(Math.random() * emojis.length)];
+            
+            const startX = Math.random() * window.innerWidth;
+            emoji.style.left = startX + 'px';
+            
+            const duration = Math.random() * 4 + 3;
+            emoji.style.animationDuration = duration + 's';
+            
             document.body.appendChild(emoji);
 
-            const fallDuration = Math.random() * 3 + 2;
-            emoji.style.animationDuration = `${fallDuration}s`;
+            const pop = () => {
+                explode(parseFloat(emoji.style.left), emoji.getBoundingClientRect().top);
+                emoji.remove();
+            };
+            
+            emoji.addEventListener('mousedown', pop);
+            emoji.addEventListener('touchstart', (e) => {
+                e.preventDefault();
+                pop();
+            });
 
-            const interval = setInterval(() => {
-                const emojiRect = emoji.getBoundingClientRect();
-                if (
-                    cursorX >= emojiRect.left &&
-                    cursorX <= emojiRect.right &&
-                    cursorY >= emojiRect.top &&
-                    cursorY <= emojiRect.bottom
-                ) {
-                    explodeEmoji(emoji);
-                    clearInterval(interval);
+            const checkCollision = setInterval(() => {
+                const rect = emoji.getBoundingClientRect();
+                const topElement = document.elementFromPoint(cursorX, cursorY);
+
+                if (topElement === emoji && 
+                    cursorX > rect.left && cursorX < rect.right && 
+                    cursorY > rect.top && cursorY < rect.bottom) {
+                    explode(rect.left + rect.width/2, rect.top + rect.height/2);
+                    emoji.remove();
+                    clearInterval(checkCollision);
                 }
             }, 50);
 
             emoji.addEventListener('animationend', () => {
+                clearInterval(checkCollision);
                 emoji.remove();
-                clearInterval(interval);
             });
         }
 
-        function explodeEmoji(emoji) {
+        function explode(x, y) {
             const explosion = document.createElement('div');
-            explosion.classList.add('explosion');
+            explosion.className = 'explosion';
             explosion.textContent = '💥';
-            explosion.style.left = `${cursorX}px`;
-            explosion.style.top = `${cursorY}px`;
-
+            explosion.style.left = (x - 20) + 'px';
+            explosion.style.top = (y - 20) + 'px';
             document.body.appendChild(explosion);
-
-            setTimeout(() => {
-                explosion.remove();
-            }, 500);
-
-            emoji.remove();
+            
+            setTimeout(() => explosion.remove(), 600);
         }
 
-        spawnInterval = setInterval(createEmoji, 1000);
+        setInterval(createEmoji, 800);
     </script>
 </body>
 </html>
