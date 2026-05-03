@@ -1,4 +1,4 @@
-# <img src="CydiaIcon.png" width="38" valign="middle"> [shalaREPO](https://shalamand3r.github.io) 🦎
+# [shalaREPO](https://shalamand3r.github.io) 🦎
 
 ---
 
