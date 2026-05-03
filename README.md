@@ -1,7 +1,7 @@
 <div align="center">
   <img src="CydiaIcon.png" width="120" style="border-radius: 22%;">
 
-  # shalaREPO
+  # 🦎 shalaREPO
 
   ---
 
