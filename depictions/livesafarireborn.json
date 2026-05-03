@@ -1,0 +1,38 @@
+{
+  "minVersion": "0.1",
+  "tintColor": "#0a84ff",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/Skittyblock/LiveSafari",
+          "openExternal": true,
+          "tintColor": "#0a84ff"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "useSpacing": true,
+          "markdown": "### LiveSafariReborn\nA modernized, rootless-friendly build of **LiveSafari** that makes Safari’s icon behave like a compass.\n\n- Dynamic Safari icon needle points north\n- Rootless + iOS 15+ compatible build"
+        }
+      ]
+    },
+    {
+      "tabname": "Changelog",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 2.0\n- Rootless/iOS 15+ build\n- Fixed SpringBoard crash\n- Improved icon masking (continuous corners)\n- Needle sizing tuned"
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView"
+}
