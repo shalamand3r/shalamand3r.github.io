@@ -8,7 +8,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "LiveSafariReborn makes the needle on Safari's app icon always point north.",
+          "markdown": "Make the needle on Safari's app icon always point north!",
           "useSpacing": true
         },
         {
@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "LiveSafariReborn revives Skitty's original [LiveSafari](https://github.com/Skittyblock/LiveSafari) for modern rootless jailbreaks.",
+          "markdown": "*This is a **fork** of Skitty's original [LiveSafari](https://github.com/Skittyblock/LiveSafari) for rootless jailbreaks.*",
           "useSpacing": true
         }
       ]
