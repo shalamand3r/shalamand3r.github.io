@@ -13,17 +13,17 @@
         }
       ]
     },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "views": [
         {
-          "class": "DepictionStackView",
-          "tabname": "Changelog",
-          "views": [
-            {
-              "class": "DepictionMarkdownView",
-              "markdown": "### 1.0\n- Rootless support\n- Improved icon masking",
-              "useSpacing": true
-            }
-          ]
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.0\n- Rootless support\n- Improved icon masking",
+          "useSpacing": true
         }
+      ]
+    }
   ],
   "class": "DepictionTabView"
 }
