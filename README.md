@@ -7,7 +7,6 @@
 ---
 
 ### Featured Tweaks
-Modern arm64 utilities for iOS.
 
 <div align="center">
 
