@@ -226,9 +226,40 @@
             50% { opacity: 1; transform: scale(1.05); }
         }
 
+        .visit-counter {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: var(--text-light);
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            z-index: 1000;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 4px 10px;
+            border-radius: 20px;
+            backdrop-filter: blur(5px);
+            -webkit-backdrop-filter: blur(5px);
+            pointer-events: auto;
+            cursor: default;
+        }
+
+        .visit-counter:hover {
+            opacity: 0.6;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            .visit-counter {
+                color: var(--text-dark);
+                background: rgba(255, 255, 255, 0.05);
+            }
+        }
+
     </style>
 </head>
 <body>
+    <div class="visit-counter" id="visit-counter">...</div>
     <div class="content">
         <div class="icon-container">
             <img src="CydiaIcon.png" alt="shalaREPO Icon">
@@ -350,6 +381,18 @@
         }
 
         setInterval(createEmoji, 800);
+
+        async function initCounter() {
+            const counterEl = document.getElementById('visit-counter');
+            try {
+                const response = await fetch('https://api.counterapi.dev/v1/shalamand3r-repo/visits/up');
+                const data = await response.json();
+                counterEl.textContent = `Visits: ${data.count.toLocaleString()}`;
+            } catch (err) {
+                counterEl.style.display = 'none';
+            }
+        }
+        initCounter();
     </script>
 </body>
 </html>
