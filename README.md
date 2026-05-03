@@ -1,9 +1,4 @@
-<table width="100%">
-  <tr>
-    <td align="left"><h1><img src="CydiaIcon.png" width="38" valign="middle"> <a href="https://shalamand3r.github.io">shalaREPO</a></h1></td>
-    <td align="right"><h1>🦎</h1></td>
-  </tr>
-</table>
+# <img src="CydiaIcon.png" width="38" valign="middle"> [shalaREPO](https://shalamand3r.github.io) 🦎
 
 ---
 
