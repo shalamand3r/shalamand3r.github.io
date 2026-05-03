@@ -399,7 +399,8 @@
                 counterEl.style.opacity = '0.6';
             } catch (err) {
                 counterEl.textContent = 'Welcome!';
-                counterEl.style.opacity = '0.6';
+                counterEl.style.opacity = '0';
+                counterEl.style.pointerEvents = 'none';
             }
         }
 	        initCounter();
