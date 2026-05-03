@@ -18,8 +18,11 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "useSpacing": true,
-          "markdown": "### LiveSafariReborn\nA modernized build of **LiveSafari** for rootless jailbreaks.\n\n- Dynamic Safari icon needle points north\n- iOS 15+"
+          "markdown": "### Features:\n- Dynamic Safari icon needle points north\n- Rootless friendly\n- iOS 15+",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
         }
       ]
     },
@@ -28,8 +31,18 @@
       "class": "DepictionStackView",
       "views": [
         {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/Skittyblock/LiveSafari",
+          "openExternal": true,
+          "tintColor": "#ff766a"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "class": "DepictionMarkdownView",
-          "markdown": "### 2.0\n- Rootless + iOS 15+\n- Fixed SpringBoard crash\n- Improved icon masking\n- Needle sizing tuned"
+          "markdown": "### 2.0\n- Rootless support\n- Improved icon masking"
         }
       ]
     }
