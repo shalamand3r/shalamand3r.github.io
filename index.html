@@ -272,8 +272,8 @@
         let currentRotation = 0;
 
         const handleParallax = (x, y) => {
-            const rotateX = (y - window.innerHeight / 2) / 120;
-            const rotateY = -(x - window.innerWidth / 2) / 120;
+            const rotateX = (y - window.innerHeight / 2) / 250;
+            const rotateY = -(x - window.innerWidth / 2) / 250;
             card.style.transform = `rotateX(${-rotateX}deg) rotateY(${-rotateY}deg)`;
         };
 
