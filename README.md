@@ -3,23 +3,18 @@
 
   # [🦎 shalaREPO](https://shalamand3r.github.io)
 
-  `https://shalamand3r.github.io`
+  [![](https://img.shields.io/badge/REPO_URL-https://shalamand3r.github.io-1BC0BC?style=for-the-badge&logo=ios&logoColor=white)](https://shalamand3r.github.io)
+
+  ---
+
+  ### 🗄️ Legacy Archive
+
+  Previously a hub for **arm64e Roothide & Bootstrap** tweaks. 
+  
+  All legacy projects have been moved to the `/archive` directory. They remain fully functional and installable, though they are no longer under active development.
+
+  ---
+
+  *minimalist utilities for modern iOS*
 
 </div>
-
----
-
-## 🌟 Featured
-
-### 🧭 LiveSafariReborn
-Make Safari's app icon needle always point true north!
-- **Support:** iOS 15.0+ (arm64)
-
-### 🔋 StandByNow
-Toggle the iOS StandBy mode even when your device is not charging.
-- **Support:** iOS 17.0+ (arm64)
-
----
-
-## 🗄️ Archive
-*Older tweaks have been moved to the repository archive. They remain installable but are no longer actively updated.*
