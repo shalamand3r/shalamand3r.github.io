@@ -41,6 +41,7 @@
             overflow: hidden;
             position: relative;
             transition: background-color 0.5s ease, color 0.5s ease;
+            perspective: 1000px;
         }
 
         @media (prefers-color-scheme: dark) {
@@ -64,6 +65,8 @@
             display: flex;
             flex-direction: column;
             gap: var(--spacing);
+            transition: transform 0.1s ease-out;
+            transform-style: preserve-3d;
         }
 
         @media (prefers-color-scheme: dark) {
@@ -83,9 +86,10 @@
             box-shadow: 0 10px 20px rgba(0,0,0,0.1);
             transform: rotate(calc(-3deg + var(--extra-rotation, 0deg)));
             transition: transform 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
+            cursor: pointer;
         }
 
-        .icon-container:hover {
+        .icon-container:hover, .icon-container:active {
             transform: rotate(calc(3deg + var(--extra-rotation, 0deg))) scale(1.1);
         }
 
@@ -125,6 +129,11 @@
             box-shadow: 0 4px 10px rgba(0,0,0,0.05);
             color: white;
             position: relative;
+        }
+
+        a:active {
+            transform: scale(0.95);
+            filter: brightness(0.9);
         }
 
         .btn-emoji {
@@ -247,18 +256,60 @@
         let cursorX = 0;
         let cursorY = 0;
 
-        document.addEventListener('mousemove', (e) => {
-            cursorX = e.clientX;
-            cursorY = e.clientY;
-        });
+        const updateCursor = (x, y) => {
+            cursorX = x;
+            cursorY = y;
+        };
 
-        document.addEventListener('touchstart', (e) => {
-            cursorX = e.touches[0].clientX;
-            cursorY = e.touches[0].clientY;
+        document.addEventListener('mousemove', (e) => updateCursor(e.clientX, e.clientY));
+        document.addEventListener('touchstart', (e) => updateCursor(e.touches[0].clientX, e.touches[0].clientY));
+        document.addEventListener('touchmove', (e) => {
+            updateCursor(e.touches[0].clientX, e.touches[0].clientY);
         });
 
         const icon = document.querySelector('.icon-container');
+        const card = document.querySelector('.content');
         let currentRotation = 0;
+
+        const handleParallax = (x, y, isGyro = false) => {
+            let rotateX, rotateY;
+            if (isGyro) {
+                rotateX = Math.max(-10, Math.min(10, (x - 45) / 2));
+                rotateY = Math.max(-10, Math.min(10, y / 2));
+            } else {
+                rotateX = (y - window.innerHeight / 2) / 25;
+                rotateY = -(x - window.innerWidth / 2) / 25;
+            }
+            card.style.transform = `rotateX(${-rotateX}deg) rotateY(${-rotateY}deg)`;
+        };
+
+        const requestGyro = async () => {
+            if (typeof DeviceOrientationEvent !== 'undefined' && typeof DeviceOrientationEvent.requestPermission === 'function') {
+                try {
+                    const response = await DeviceOrientationEvent.requestPermission();
+                    if (response === 'granted') {
+                        window.addEventListener('deviceorientation', (e) => handleParallax(e.beta, e.gamma, true));
+                    }
+                } catch (e) {}
+            } else if ('ontouchstart' in window) {
+                window.addEventListener('deviceorientation', (e) => handleParallax(e.beta, e.gamma, true));
+            }
+        };
+
+        document.body.addEventListener('click', requestGyro, { once: true });
+
+        document.addEventListener('mousemove', (e) => {
+            updateCursor(e.clientX, e.clientY);
+            if (window.innerWidth > 768) handleParallax(e.clientX, e.clientY);
+        });
+
+        document.addEventListener('touchstart', (e) => {
+            updateCursor(e.touches[0].clientX, e.touches[0].clientY);
+        });
+
+        document.addEventListener('touchmove', (e) => {
+            updateCursor(e.touches[0].clientX, e.touches[0].clientY);
+        });
 
         icon.addEventListener('click', () => {
             currentRotation += 720;
