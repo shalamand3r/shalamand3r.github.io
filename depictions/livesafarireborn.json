@@ -8,7 +8,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Make the compass needle on Safari’s App Icon point north.\n\nLiveSafariReborn revives Skitty’s [LiveSafari](https://github.com/Skittyblock/LiveSafari) for modern rootless jailbreaks, bringing back a dynamic Safari app icon on jailbroken iOS devices.",
+          "markdown": "LiveSafariReborn revives Skitty’s original [LiveSafari](https://github.com/Skittyblock/LiveSafari) for modern rootless jailbreaks. It makes the needle on Safari’s app icon behave like a compass—it always points north.",
           "useSpacing": true
         }
       ]
