@@ -271,32 +271,10 @@
         const card = document.querySelector('.content');
         let currentRotation = 0;
 
-        const handleParallax = (x, y, isGyro = false) => {
-            let rotateX, rotateY;
-            if (isGyro) {
-                rotateX = Math.max(-5, Math.min(5, (x - 45) / 8));
-                rotateY = Math.max(-5, Math.min(5, y / 8));
-            } else {
-                rotateX = (y - window.innerHeight / 2) / 80;
-                rotateY = -(x - window.innerWidth / 2) / 80;
-            }
+        const handleParallax = (x, y) => {
+            const rotateX = (y - window.innerHeight / 2) / 120;
             card.style.transform = `rotateX(${-rotateX}deg) rotateY(${-rotateY}deg)`;
         };
-
-        const requestGyro = async () => {
-            if (typeof DeviceOrientationEvent !== 'undefined' && typeof DeviceOrientationEvent.requestPermission === 'function') {
-                try {
-                    const response = await DeviceOrientationEvent.requestPermission();
-                    if (response === 'granted') {
-                        window.addEventListener('deviceorientation', (e) => handleParallax(e.beta, e.gamma, true));
-                    }
-                } catch (e) {}
-            } else if ('ontouchstart' in window) {
-                window.addEventListener('deviceorientation', (e) => handleParallax(e.beta, e.gamma, true));
-            }
-        };
-
-        document.body.addEventListener('click', requestGyro, { once: true });
 
         document.addEventListener('mousemove', (e) => {
             updateCursor(e.clientX, e.clientY);
