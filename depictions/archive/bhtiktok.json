@@ -1,0 +1,134 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/archive/bhtiktok.png?raw=true",
+  "tintColor": "#72415f",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/raulsaeed/TikTokPlusPlus",
+          "openExternal": true,
+          "tintColor": "#72415f"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### ✨ Features:\n- Remove ads/sponsored videos\n- Download photos, videos and sounds\n- Show usernames instead of nicknames\n- Hide the occasional FYP live streams\n- Force HD video uploads\n- Show/hide UI elements\n- Disable pull-to-refresh\n- Larger comment and bio character limits\n- Confirm likes/comments/follows\n- Region spoofing\n- Lock TikTok with biometrics",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Wiki",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/raulsaeed/TikTokPlusPlus",
+          "openExternal": true,
+          "tintColor": "#72415f"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 📣 FAQs:\n- Find BHTikTok++ settings under **Settings and Privacy** in the TikTok app\n- Spoofing follower/like count is **client-sided**; it doesn't **actually** change anything"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    },
+    {
+      "tabname": "Changelog",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Original Tweak",
+          "action": "https://github.com/raulsaeed/TikTokPlusPlus",
+          "openExternal": true,
+          "tintColor": "#72415f"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 🆕 1.7.1\n- Added story photo/video downloads\n- Hide feed banners\n- Keep clear display active\n- Keep playback speed persistent\n- OLED keyboard"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 🆕 1.5.1\n- Added built in FLEX (for developers)\n- Set custom LIVE button actions\n- Fixed TikTok crashing on launch"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 🆕 1.3.1\n- New share sheet toggle"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 🆕 1.2.1\n- Ability to download videos in HD"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 🛠 1.1.1\n- Option to enable transparent comment section\n- Fixed button images"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 🎉 1.0.1\n- shalaREPO Release"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Join the Discord",
+          "action": "https://discord.gg/twwttTGSuk",
+          "openExternal": true,
+          "tintColor": "#5865f2"
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView"
+}
