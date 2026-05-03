@@ -7,7 +7,6 @@
 ---
 
 ### Featured Tweaks
-Modern arm64 utilities for iOS.
 
 [![](https://img.shields.io/badge/LiveSafariReborn-ff766a?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/shalamand3r/LiveSafariReborn)
 [![](https://img.shields.io/badge/StandByNow-404040?style=for-the-badge&logo=weightsandbiases&logoColor=white)](https://github.com/shalamand3r/StandByNow)
