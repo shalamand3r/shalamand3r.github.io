@@ -15,6 +15,4 @@
 
   Looking for the original collection? All legacy projects have been moved to the archive but remain **fully functional and installable**. Simply add the repository to your package manager to access all archived tweaks.
 
-  *Archive Status: Stable / Final Versions*
-
 </div>
