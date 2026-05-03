@@ -274,11 +274,11 @@
         const handleParallax = (x, y, isGyro = false) => {
             let rotateX, rotateY;
             if (isGyro) {
-                rotateX = Math.max(-10, Math.min(10, (x - 45) / 2));
-                rotateY = Math.max(-10, Math.min(10, y / 2));
+                rotateX = Math.max(-5, Math.min(5, (x - 45) / 8));
+                rotateY = Math.max(-5, Math.min(5, y / 8));
             } else {
-                rotateX = (y - window.innerHeight / 2) / 25;
-                rotateY = -(x - window.innerWidth / 2) / 25;
+                rotateX = (y - window.innerHeight / 2) / 80;
+                rotateY = -(x - window.innerWidth / 2) / 80;
             }
             card.style.transform = `rotateX(${-rotateX}deg) rotateY(${-rotateY}deg)`;
         };
