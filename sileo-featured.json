@@ -4,9 +4,9 @@
     "itemCornerRadius": 12.5,
     "banners": [
         {
-            "url": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/datelyrics.png?raw=true",
+            "url": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/media/datelyrics.png?raw=true",
             "title": "DateLyrics",
-            "package": "datelyrics"
+            "package": "com.shalamand3r.datelyrics"
         },
         {
             "url": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/media/barmoji.png?raw=true",
