@@ -9,7 +9,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Toggle StandBy on iOS even when not charging by triple-clicking the power button. This will override existing accessibility shortcuts.",
+          "markdown": "Toggle StandBy on iOS even when not charging. (iOS 17.0+)",
           "useSpacing": true
         },
         {
@@ -17,7 +17,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "*This is a **fork** of pookjw's [StandPad](https://github.com/pookjw/StandPad) that has been modified to force enable StandBy on iPhones. The power button triple-click logic was taken from wrp1002's [Flashlight Settings](https://github.com/wrp1002/FlashlightSettings)*",
+          "markdown": "*This is a **fork** of pookjw's [StandPad](https://github.com/pookjw/StandPad). Activation gestures taken from wrp1002's [Flashlight Settings](https://github.com/wrp1002/FlashlightSettings)*",
           "useSpacing": true
         }
       ]
