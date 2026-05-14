@@ -1,0 +1,38 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/datelyrics.png?raw=true",
+  "tintColor": "#ff7fbd",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Show Apple Music lyrics in the Lock Screen date view!",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "*This is a **fork** of 82Flex's [AMLyrics](https://github.com/Lessica/AMLyrics.git).*",
+          "useSpacing": true
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Version 1.0\n- Initial release.",
+          "useSpacing": true
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView"
+}
