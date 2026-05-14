@@ -16,24 +16,22 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "class": "DepictionMarkdownView",
-          "markdown": "### Demo",
-          "useSpacing": true
-        },
-        {
           "class": "DepictionVideoView",
           "URL": "https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/media/datelyrics-demo.mp4",
-          "width": 240,
-          "height": 426,
+          "width": 210,
+          "height": 373,
           "cornerRadius": 16,
-          "alignment": 1
+          "alignment": 1,
+          "autoplay": true,
+          "showPlaybackControls": false,
+          "loop": true
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "*This is a **fork** of 82Flex's [AMLyrics](https://github.com/Lessica/AMLyrics.git).*",
+          "markdown": "*Inspired by 82Flex's [AMLyrics](https://github.com/Lessica/AMLyrics.git).*",
           "useSpacing": true
         }
       ]
