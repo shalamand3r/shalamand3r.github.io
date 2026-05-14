@@ -16,6 +16,10 @@
           "class": "DepictionSeparatorView"
         },
         {
+          "class": "DepictionSpacerView",
+          "spacing": 10
+        },
+        {
           "class": "DepictionVideoView",
           "URL": "https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/media/datelyrics-demo.mp4",
           "width": 210,
@@ -25,6 +29,10 @@
           "autoplay": true,
           "showPlaybackControls": false,
           "loop": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 10
         },
         {
           "class": "DepictionSeparatorView"
