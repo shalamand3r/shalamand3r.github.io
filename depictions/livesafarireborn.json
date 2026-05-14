@@ -9,7 +9,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Make the needle on Safari's app icon always point north!",
+          "markdown": "Make the needle on Safari's app icon always point north! (iOS 15.0+)",
           "useSpacing": true
         },
         {
