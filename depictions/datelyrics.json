@@ -9,7 +9,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Apple Music lyrics in the Lock Scren date view!",
+          "markdown": "Apple Music lyrics in the Lock Screen date view!",
           "useSpacing": true
         },
         {
