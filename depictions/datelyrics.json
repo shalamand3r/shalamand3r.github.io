@@ -27,8 +27,8 @@
         {
           "class": "DepictionVideoView",
           "URL": "https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/media/datelyrics.mp4",
-          "width": 600,
-          "height": 386,
+          "width": 608,
+          "height": 384,
           "cornerRadius": 16,
           "alignment": 1,
           "autoplay": true,
@@ -39,7 +39,6 @@
           "class": "DepictionSpacerView",
           "spacing": 10
         },
-        {
           "class": "DepictionSeparatorView"
         },
         {
