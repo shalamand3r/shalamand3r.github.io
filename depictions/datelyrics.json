@@ -13,6 +13,9 @@
           "useSpacing": true
         },
         {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "class": "DepictionMarkdownView",
           "markdown": "**Semi-jailbreak users:** inject into the stock iOS Music app for DateLyrics to work.",
           "useSpacing": true
