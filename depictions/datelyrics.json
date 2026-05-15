@@ -25,12 +25,15 @@
           "spacing": 10
         },
         {
-          "class": "DepictionImageView",
-          "URL": "https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/media/datelyrics.gif",
+          "class": "DepictionVideoView",
+          "URL": "https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/media/datelyrics.mp4",
           "width": 600,
           "height": 386,
           "cornerRadius": 16,
-          "alignment": 1
+          "alignment": 1,
+          "autoplay": true,
+          "showPlaybackControls": false,
+          "loop": true
         },
         {
           "class": "DepictionSpacerView",
