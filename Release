@@ -7,3 +7,12 @@ Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: a fire tweak repo
 Icon: file://CydiaIcon.png
+MD5Sum:
+ 2e5a91c2e47067078f112527fb9fee5c 57450 Packages
+ 0e2ac5d57ab8a06bd0821d14a80abdf9 4997 Packages.gz
+SHA1:
+ d160a8da1ecece989c59dcacbc6680f153534218 57450 Packages
+ 9390bfa3da41e88e23b1ebb6abc785df4b57aba8 4997 Packages.gz
+SHA256:
+ e18ecb1b3573cbcdc8abcf5060c2e3cc00ad0481c3a1f1cfb0f7c16c4db18b96 57450 Packages
+ 2b999142f7ebb539701ae20c28cc6e0b3756aadc8b77d9b55977490dc8635106 4997 Packages.gz
