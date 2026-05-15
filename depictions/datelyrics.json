@@ -55,7 +55,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Version 2.0\n- **Added line transitions:** Multiple animation styles (Fade, Up, Down, Push, Pop) for new lyric lines\n- **Custom fonts:** Use any installed system font for lyrics\n- **Syllable highlight trails:** Past syllables can remain highlighted",
+          "markdown": "### Version 2.0\n- Added transitions (Fade, Up, Down, Push, Pop) for new lyric lines\n- Now you can use any installed system font for lyrics\n- Past syllables can remain highlighted",
           "useSpacing": true
         },
         {
