@@ -58,7 +58,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Version 2.0\n- Added lyric transitions (Fade, Up, Down, Push, Pop)\n- Custom fonts support added\n- Option to keep previous syllables highlighted",
+          "markdown": "### Version 2.0\n- Added lyric transitions (Fade, Up, Down, Push, Pop)\n- Custom fonts support added\n- Option to keep previous syllables highlighted\n- Live lyric preview added to preference pane",
           "useSpacing": true
         },
         {
