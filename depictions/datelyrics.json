@@ -58,7 +58,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Version 2.0\n- Added line-by-line transition animations\n- Custom lyric fonts added\n- Option to keep previous syllables highlighted\n- Live lyric preview added to preference pane",
+          "markdown": "### Version 2.0\n- Added line-by-line transition animations\n- Custom lyric fonts added\n- Ad-libs now handled properly (?)\n- Option to keep previous syllables highlighted\n- Live lyric preview added to preference pane",
           "useSpacing": true
         },
         {
