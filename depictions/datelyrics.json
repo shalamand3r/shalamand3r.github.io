@@ -27,8 +27,8 @@
         {
           "class": "DepictionVideoView",
           "URL": "https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/media/datelyrics.mp4",
-          "width": 888,
-          "height": 572,
+          "width": 310,
+          "height": 200,
           "cornerRadius": 16,
           "alignment": 1,
           "autoplay": true,
