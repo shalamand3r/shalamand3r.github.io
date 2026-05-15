@@ -17,7 +17,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "**Semi-jailbreak users:** inject into the stock iOS Music app for DateLyrics to work. Injecting tweaks into the Apple Music app will cause it to behave as if it is "offline" unless you have an active cellular data connection. This is a strange side effect of injecting tweaks into the Music app.",
+          "markdown": "**Semi-jailbreak users:** inject into the stock iOS Music app for DateLyrics to work. Injecting tweaks into the Apple Music app will cause it to behave as if it is \"offline\" unless you have an active cellular data connection. This is a strange side effect of injecting tweaks into the Music app.",
           "useSpacing": true
         },
         {
