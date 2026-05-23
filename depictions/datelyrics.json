@@ -58,7 +58,12 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Version 2.0\n- Added line-by-line transition animations\n- Custom lyric fonts added\n- Ad-libs now handled properly (?)\n- Option to keep previous syllables highlighted\n- Live lyric preview added to preference pane",
+          "markdown": "### Version 2.1\n- New **Opacity** syllable highlighting style\n- Toggle to split long syllable-supported lyrics\n- Ad-libs can now be toggled on/off\n- LSDateView appearance now reverted upon pause",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Version 2.0\n- Added line-by-line transition animations\n- Custom lyric fonts now supported\n- Ad-libs now handled properly (?)\n- Option to keep previous syllables highlighted\n- Live lyric preview added to preference pane",
           "useSpacing": true
         },
         {
