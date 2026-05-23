@@ -9,6 +9,14 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
+          "markdown": "Fix iCloud Private Relay! (iOS 17.0)",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
           "markdown": "RelayRace fixes iCloud Private Relay (Safari, Mail) on iOS 17.0 by patching `networkserviceproxy` so configuration validation can complete normally.",
           "useSpacing": true
         }
