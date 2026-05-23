@@ -28,12 +28,15 @@
           "spacing": 10
         },
         {
-          "class": "DepictionImageView",
-          "URL": "https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/media/datelyrics.jpg",
-          "width": 1170,
-          "height": 782,
-          "cornerRadius": 16,
-          "alignment": 1
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 16,
+          "itemSize": "{350, 234}",
+          "screenshots": [
+            {
+              "url": "https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/media/datelyrics.jpg",
+              "accessibilityText": "DateLyrics preview"
+            }
+          ]
         },
         {
           "class": "DepictionSpacerView",
