@@ -5,7 +5,8 @@
 ### Featured Tweaks
 
 [![](https://img.shields.io/badge/LiveSafariReborn-ff766a?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/shalamand3r/LiveSafariReborn)
-[![](https://img.shields.io/badge/StandByNow-404040?style=for-the-badge&logo=weightsandbiases&logoColor=white)](https://github.com/shalamand3r/StandByNow)
+[![](https://img.shields.io/badge/DateLyrics-ff7fbd?style=for-the-badge&logo=applemusic&logoColor=white)](https://github.com/shalamand3r/DateLyrics)
+[![](https://img.shields.io/badge/RelayRace-564eba?style=for-the-badge&logo=icloud&logoColor=white)](https://github.com/shalamand3r/RelayRace)
 
 ---
 
