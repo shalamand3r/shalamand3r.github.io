@@ -58,6 +58,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
+          "markdown": "### Version 2.2\n- Fixed opacity highlighting when ad-libs were hidden",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
           "markdown": "### Version 2.1\n- New **Opacity** syllable highlighting style\n- Toggle to split long syllable-supported lyrics\n- Ad-libs can now be toggled on/off\n- LSDateView appearance now reverted upon pause",
           "useSpacing": true
         },
