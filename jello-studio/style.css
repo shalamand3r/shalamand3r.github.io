@@ -360,21 +360,30 @@ canvas {
 }
 
 @media (max-width: 768px) {
+    body {
+        height: auto;
+        overflow: auto;
+    }
     main {
         flex-direction: column;
+        overflow: visible;
     }
     .editor-panel {
         width: 100%;
         border-right: none;
-        border-bottom: 1px solid var(--border-color);
-        height: 50vh;
+        height: auto;
+        overflow: visible;
+        order: 2;
     }
     .preview-panel {
-        padding: 10px;
+        padding: 20px 10px;
+        order: 1;
+        border-bottom: 1px solid var(--border-color);
     }
     .canvas-container {
         border-radius: 20px;
         border-width: 4px;
-        max-width: 300px;
+        max-width: 250px;
+        margin: 0 auto;
     }
 }
