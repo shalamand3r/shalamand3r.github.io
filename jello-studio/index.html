@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jello Studio</title>
+    <link rel="stylesheet" href="style.css?v=16">
+</head>
+<body>
+    <header>
+        <h1>Jello Studio</h1>
+        <div class="header-controls">
+            <button id="theme-toggle">🌙</button>
+        </div>
+    </header>
+    <main>
+        <div class="editor-panel">
+            <div class="panel-header">
+                <h2>Presets</h2>
+                <div class="preset-buttons">
+                    <button id="preset-jello" class="preset-btn">Jello</button>
+                    <button id="preset-circle" class="preset-btn">Circle</button>
+                    <button id="preset-star" class="preset-btn">Star</button>
+                    <button id="preset-bars" class="preset-btn">Bars</button>
+                </div>
+            </div>
+            
+            <div class="tabs">
+                <button class="tab active" id="tab-gui">Visual Editor</button>
+                <button class="tab" id="tab-code">Code Editor</button>
+            </div>
+            
+            <div id="gui-container" class="tab-content active">
+                <div id="gui-editor"></div>
+                <button id="btn-add-layer" class="btn-add">+ Add Layer</button>
+            </div>
+
+            <div id="code-container" class="tab-content">
+                <textarea id="json-editor" spellcheck="false"></textarea>
+            </div>
+            
+            <div class="actions">
+                <button id="btn-apply" class="primary">Apply Code</button>
+                <button id="btn-export">Export to Phone</button>
+            </div>
+        </div>
+        <div class="preview-panel">
+            <div class="canvas-container" id="canvas-wrapper">
+                <canvas id="visualizer-canvas"></canvas>
+            </div>
+        </div>
+    </main>
+    <script src="app.js?v=16"></script>
+</body>
+</html>
