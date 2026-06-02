@@ -5,8 +5,35 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jello Playground</title>
     <link rel="stylesheet" href="style.css?v=16">
+    <style>
+        .coming-soon-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.85);
+            backdrop-filter: blur(10px);
+            z-index: 9999;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: #48b2c7;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            text-align: center;
+        }
+        .coming-soon-overlay h1 {
+            font-size: 3rem;
+            margin: 0;
+            text-transform: lowercase;
+        }
+    </style>
 </head>
 <body>
+    <div class="coming-soon-overlay">
+        <h1>coming soon</h1>
+    </div>
     <header>
         <h1>Jello Playground</h1>
         <div class="header-controls">
