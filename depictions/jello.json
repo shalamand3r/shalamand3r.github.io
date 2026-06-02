@@ -51,7 +51,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "*Inspired by the creators of the original Mitsuha tweak.*",
+          "markdown": "*Inspired by the many iterations of the Mitsuha tweak.*",
           "useSpacing": true
         }
       ]
