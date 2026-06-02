@@ -17,7 +17,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Jello repurposes the waveform data iOS already generates for the Lock Screen media player to create a somewhat accurate audio visualizer",
+          "markdown": "Jello repurposes the waveform data iOS already generates for the Lock Screen media player to create a somewhat accurate audio visualizer.",
           "useSpacing": true
         },
         {
