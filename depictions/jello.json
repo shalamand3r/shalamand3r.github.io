@@ -1,0 +1,72 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/jello.png?raw=true",
+  "tintColor": "#48b2c7",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "A Lock Screen audio visualizer for iOS 16.0+/iPadOS 17.0+.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Jello repurposes the waveform data iOS already generates for the Lock Screen media player to create a somewhat accurate audio visualizer",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 10
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 16,
+          "itemSize": "{162, 350}",
+          "screenshots": [
+            {
+              "url": "https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/media/jello1.jpg",
+              "accessibilityText": "Jello Preview 1"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/media/jello2.jpg",
+              "accessibilityText": "Jello Preview 2"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 10
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "*Inspired by the creators of the original Mitsuha tweak.*",
+          "useSpacing": true
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Version 1.0\n- Initial release.",
+          "useSpacing": true
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView"
+}
