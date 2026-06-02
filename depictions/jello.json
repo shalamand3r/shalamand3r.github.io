@@ -33,12 +33,16 @@
           "itemSize": "{162, 350}",
           "screenshots": [
             {
-              "url": "https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/media/jello1.jpg",
-              "accessibilityText": "Jello Preview 1"
+              "url": "https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/media/jellowave.jpg",
+              "accessibilityText": "Waveform View"
             },
             {
-              "url": "https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/media/jello2.jpg",
-              "accessibilityText": "Jello Preview 2"
+              "url": "https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/media/jellojello.jpg",
+              "accessibilityText": "Jello View"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/media/jellocircle.jpg",
+              "accessibilityText": "Circle View"
             }
           ]
         },
