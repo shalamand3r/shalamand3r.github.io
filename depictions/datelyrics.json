@@ -58,7 +58,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Version 2.3\n- Major performance overhaul: lower background CPU use and reduced heat\n- Reworked lyric timing for smoother syllable progress and seek handling\n- New line transitions, including reverse direction when scrubbing backwards\n- Smarter long-line handling and live Minimum Scale adjustments\n- Optional Musixmatch fallback plus in-app debug log tools",
+          "markdown": "### Version 2.3\n- Major performance overhaul: lower background CPU use and reduced heat\n- Reworked lyric timing for smoother syllable progress and seek handling\n- New line transitions, including reverse direction when scrubbing backwards\n- Smarter long-line handling and live Minimum Scale adjustments\n- In-app debug log tools\n- Experimental Musixmatch fallback (currently unavailable)",
           "useSpacing": true
         },
         {
