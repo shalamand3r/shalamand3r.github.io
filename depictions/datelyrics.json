@@ -58,7 +58,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Version 2.3\n- Reworked lyric engine for MUCH lower CPU usage\n- Line transitions animate in reverse when scrubbing backwards",
+          "markdown": "### Version 2.3\n- Reworked lyric engine = lower CPU usage 😁\n- Line transitions animate in reverse when scrubbing backwards",
           "useSpacing": true
         },
         {
