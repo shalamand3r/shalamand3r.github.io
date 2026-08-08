@@ -9,7 +9,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Fix iCloud Private Relay! (iOS 17.0)",
+          "markdown": "Fix iCloud Private Relay! (iOS 17.0+)",
           "useSpacing": true
         },
         {
@@ -17,7 +17,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "RelayRace fixes iCloud Private Relay (Safari, Mail) on iOS 17.0 by patching `networkserviceproxy` so configuration validation can complete normally.",
+          "markdown": "RelayRace fixes iCloud Private Relay (Safari, Mail) on iOS by patching `networkserviceproxy` so configuration validation can complete normally.",
           "useSpacing": true
         }
       ]
@@ -28,7 +28,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Version 1.0\n- Initial release",
+          "markdown": "### Version 1.1\n- Added support for Dopamine 3\n\n### Version 1.0\n- Initial release",
           "useSpacing": true
         }
       ]
