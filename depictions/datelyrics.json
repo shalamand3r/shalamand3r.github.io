@@ -58,6 +58,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
+          "markdown": "### Version 3.0\n- Musixmatch fallback is now enabled by default for songs without usable Apple lyrics\n- Automatically upgrades Apple line-synced lyrics to Musixmatch word-sync when available\n- Shows Loading… while fallback lyrics are being fetched\n- Added duration-aware marquee scrolling for long lyric lines\n- Smoother transitions, reverse animations when scrubbing, and improved playback cleanup\n- Additional performance and caching improvements keep background CPU use low\n- Coming next: Spotify and broader media-app support",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
           "markdown": "### Version 2.3\n- Reworked lyric engine = lower CPU usage\n- Line transitions animate in reverse when scrubbing backwards",
           "useSpacing": true
         },
