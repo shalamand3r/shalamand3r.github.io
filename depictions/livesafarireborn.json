@@ -28,12 +28,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Version 1.2\n- Fixed the Safari icon appearing square instead of using the native iOS rounded shape\n- Preserved the CPU and sensor optimizations from version 1.1",
-          "useSpacing": true
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### Version 1.1\n- Significantly reduced CPU and sensor usage\n- Stops heading updates when the Safari icon is not visible\n- Cached icon assets and rendering\n- Improved iPhone and iPad reliability",
+          "markdown": "### Version 1.1\n- Significantly reduced CPU and sensor usage\n- Smooth display-rate needle movement with efficient heading updates\n- Stops heading updates when the Safari icon is not visible\n- Preserves the native rounded iOS icon shape\n- Improved iPhone and iPad reliability",
           "useSpacing": true
         },
         {
