@@ -28,6 +28,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
+          "markdown": "### Version 1.1\n- Significantly reduced CPU and sensor usage\n- Stops heading updates when the Safari icon is not visible\n- Cached icon assets and rendering\n- Improved iPhone and iPad reliability",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
           "markdown": "### Version 1.0\n- Rootless support added\n- Icon masking updated to squircle design",
           "useSpacing": true
         }
