@@ -28,7 +28,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Version 1.1\n- Significantly reduced CPU and sensor usage\n- Smooth display-rate needle movement with efficient heading updates\n- Stops heading updates when the Safari icon is not visible\n- Preserves the native rounded iOS icon shape\n- Improved iPhone and iPad reliability",
+          "markdown": "### Version 1.1\n- Significantly reduced CPU and sensor usage\n- Smooth display-rate needle movement with efficient heading updates\n- Stops heading updates when the Safari icon is not visible\n- Disables live heading in Low Power Mode with smooth resting-position transitions\n- Preserves the native rounded iOS icon shape\n- Improved iPhone and iPad reliability",
           "useSpacing": true
         },
         {
