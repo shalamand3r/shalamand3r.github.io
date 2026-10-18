@@ -9,7 +9,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Apple Music lyrics in the Lock Screen date view! (iOS 16.0+)",
+          "markdown": "Song lyrics in the Lock Screen date view! (iOS 16.0+)",
           "useSpacing": true
         },
         {
@@ -58,7 +58,12 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Version 4.0\n- Native Always-On Display lyrics with smooth lock/wake animations\n- Smoother marquee, syllable highlighting and play/pause transitions\n- Experimental lyrics for Spotify and other apps via Musixmatch (opt-in)\n- Improved caching, rapid song switching and background performance",
+          "markdown": "### Version 4.0.3\n- Fixed AOD lyrics stopping after locking; extra line refresh is now enabled by default\n- Timed-out paused lyrics stay hidden through AOD and lock/wake changes\n- Live settings preview refreshes Musixmatch lyrics and supports real one-line scores\n- Developer diagnostics are hidden and switched off on every install/update",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Version 4.0\n- Redesigned settings with a live, song-synced lyric preview and font previews\n- Native Always-On Display lyrics with smooth progressive fill and marquee lock/wake handoffs\n- Smoother play/pause motion, backward seeking and interrupted transitions\n- Improved ad-lib highlighting and long/split lyric lines\n- Experimental Spotify, YouTube, Pandora and other app support through Musixmatch (opt-in)\n- Improved offline caching and faster recovery when skipping songs quickly\n- Lyric animations and timers suspend when the Lock Screen/Notification Center is hidden or the display is fully off",
           "useSpacing": true
         },
         {
