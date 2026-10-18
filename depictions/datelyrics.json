@@ -58,6 +58,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
+          "markdown": "### Version 4.0\n- Native Always-On Display lyrics with smooth lock/wake animations\n- Smoother marquee, syllable highlighting and play/pause transitions\n- Experimental lyrics for Spotify and other apps via Musixmatch (opt-in)\n- Improved caching, rapid song switching and background performance",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
           "markdown": "### Version 3.0\n- Musixmatch lyric API fetching added\n- Added marquee scrolling\n- Additional performance and caching improvements\n- Coming next: Spotify and broader media-app support",
           "useSpacing": true
         },
