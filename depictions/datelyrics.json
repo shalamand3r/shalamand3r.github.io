@@ -13,8 +13,7 @@
           "useSpacing": true
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 10
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionScreenshotsView",
@@ -26,10 +25,6 @@
               "accessibilityText": "DateLyrics preview"
             }
           ]
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 10
         },
         {
           "class": "DepictionSeparatorView"
