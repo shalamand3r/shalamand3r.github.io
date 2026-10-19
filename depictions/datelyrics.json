@@ -9,7 +9,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Song lyrics in the Lock Screen date view! (iOS 16.0+)",
+          "markdown": "Lyrics in the Lock Screen date view! (iOS 16.0+)",
           "useSpacing": true
         },
         {
@@ -30,10 +30,10 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 16,
-          "itemSize": "{350, 234}",
+          "itemSize": "{342, 234}",
           "screenshots": [
             {
-              "url": "https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/media/datelyrics.jpg",
+              "url": "https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/media/datelyrics-preview.png",
               "accessibilityText": "DateLyrics preview"
             }
           ]
