@@ -50,6 +50,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
+          "markdown": "### Version 4.0.5\n- Loading indicator stays visible while fetching lyrics\n- Clearer lyric service descriptions and loading notes",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
           "markdown": "### Version 4.0.4\n- Added LRCLIB, NetEase and QQ Music lyric services\n- Customizable lyric service priority\n- Improved song matching, ad-lib filtering and general reliability",
           "useSpacing": true
         },
