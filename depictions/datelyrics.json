@@ -58,6 +58,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
+          "markdown": "### Version 4.0.4\n- Added LRCLIB, NetEase and QQ Music lyric services\n- Customizable lyric service priority\n- Improved song matching, ad-lib filtering and general reliability",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
           "markdown": "### Version 4.0.3\n- Fixed AOD lyrics stopping after locking; extra line refresh is now enabled by default\n- Timed-out paused lyrics stay hidden through AOD and lock/wake changes\n- Live settings preview refreshes Musixmatch lyrics and supports real one-line scores\n- Developer diagnostics are hidden and switched off on every install/update",
           "useSpacing": true
         },
