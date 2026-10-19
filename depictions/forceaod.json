@@ -1,0 +1,48 @@
+{
+  "minVersion": "0.1",
+  "tintColor": "#6c7cff",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Enable Apple’s native Always-On Display on unsupported devices! (iOS 16.0+)",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Includes the native AOD panel with wallpaper and notification options. Always-On StandBy should work too on iOS 17.0+.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Warning: this tweak will impact battery life, especially on non-ProMotion displays. Recommended only for iPhone 13 Pro for now (can theoretically drop to 10Hz). Low Power Mode temporarily disables AOD (this is native behavior).",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Tested on iPhone 13 Pro on iOS 17.0. iOS 16, 18 and 26 are untested. YMMV.",
+          "useSpacing": true
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Version 1.0\n- Initial release.",
+          "useSpacing": true
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView",
+  "headerImage": "https://github.com/shalamand3r/shalamand3r.github.io/blob/main/banners/forceaod.png?raw=true"
+}
