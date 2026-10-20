@@ -1906,3 +1906,21 @@ Size: 448510
 MD5sum: 63c18b2b7a3d20608e269416492f9e94
 SHA1: 39cc413dc527e9cdefa5a620c8400d7bc28df76a
 SHA256: 8220cc93d3c487d6a41fc465e58bfa99abe46f69bf8f582ead6af1790075ad0d
+
+Package: com.shalamand3r.datelyrics
+Name: DateLyrics
+Depends: ellekit | mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Description: Song lyrics in the Lock Screen date view!
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/datelyrics.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/datelyrics.json
+Maintainer: shalamand3r
+Author: shalamand3r
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 4.0.6
+Installed-Size: 1692
+Filename: ./debs/datelyrics/com.shalamand3r.datelyrics_4.0.6_iphoneos-arm64.deb
+Size: 458764
+MD5sum: 2f21f9be1409f0184b59d94f7cd25c7f
+SHA1: ebba5929ad6e772c5a5bd081aef298d0d116f584
+SHA256: 8312a63b5c71b2bc748508e2d2c143b3eeaf1a67fc7611173111618a59690cf8
