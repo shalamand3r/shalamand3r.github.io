@@ -50,6 +50,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
+          "markdown": "### Version 4.0.7\n- Tidier lyric storage and more complete cleanup\n- Settings and preview improvements\n- Fixed clearing logs leaving old entries behind",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
           "markdown": "### Version 4.0.6\n- Added Megalobiz lyric support\n- Online and external app lyrics enabled by default\n- Short, Long and No Limit request timeouts\n- Strict and Relaxed song matching\n- Faster fallback when Musixmatch can't load\n- Added a Wipe Lyrics Cache button with cache size shown in settings",
           "useSpacing": true
         },
