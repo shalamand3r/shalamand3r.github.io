@@ -19,6 +19,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
+          "markdown": "### Version 1.0.1\n- Fixed Music freezing or closing when opening lyrics",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
           "markdown": "### Version 1.0\n- Initial release.",
           "useSpacing": true
         }
