@@ -50,6 +50,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
+          "markdown": "### Version 4.0.12\n- Hidden diagnostics stay visible until hidden again",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
           "markdown": "### Version 4.0.11\n- Quicker access to hidden diagnostics",
           "useSpacing": true
         },
