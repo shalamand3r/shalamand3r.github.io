@@ -2202,3 +2202,21 @@ Size: 151804
 MD5sum: 77bc1489b13c01498df34b6a074dbb8f
 SHA1: b95d6ccc9d09b9ddd7a18f948b6aefbe8040401f
 SHA256: a418c974210727a17cfdc8838748cc4333d4747b701d0fa7f5d604d5f39d2ea3
+
+Package: com.shalamand3r.lyricbridge
+Name: LyricBridge
+Description: Native Apple Music lyrics for unsynced songs
+Depends: preferenceloader, com.shalamand3r.corelyrics (>= 1.0.3), ellekit, firmware (>= 16.2)
+Maintainer: shalamand3r
+Author: shalamand3r
+Section: Tweaks
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/lyricbridge.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/lyricbridge.json
+Architecture: iphoneos-arm64
+Version: 1.0.6
+Installed-Size: 768
+Filename: ./debs/lyricbridge/com.shalamand3r.lyricbridge_1.0.6_iphoneos-arm64.deb
+Size: 152206
+MD5sum: 48ea709c1aacc38288354b46e0dab230
+SHA1: 911bd3ba0aaa5223b286eda3807783545df94111
+SHA256: 32f5973312d0995a5e8dfd0b2ec6c683cedf49b685c654f1fb1d788a0e7c5647
