@@ -2016,3 +2016,41 @@ Size: 136026
 MD5sum: c2254d49683c8d6d9223d7ace768874f
 SHA1: 693c2fb284511ae61d8ae9a06438060bb6868adf
 SHA256: 32ababd1283b57c686422cdd9b9888baa77d0fae7b3820a953c5ca808f202dc1
+
+Package: com.shalamand3r.corelyrics
+Name: CoreLyrics
+Description: Shared lyric fetching and offline storage for DateLyrics and LyricBridge.
+Depends: firmware (>= 16.0)
+Conflicts: com.shalamand3r.datelyrics (<< 4.0.9)
+Breaks: com.shalamand3r.datelyrics (<< 4.0.9)
+Maintainer: shalamand3r
+Author: shalamand3r
+Section: Libraries
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/corelyrics.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/corelyrics.json
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Installed-Size: 368
+Filename: ./debs/corelyrics/com.shalamand3r.corelyrics_1.0.1_iphoneos-arm64.deb
+Size: 74108
+MD5sum: cf39ae588c16650bbd5afabc6de65ef9
+SHA1: 942508027c5d2f635e689590561098780a243886
+SHA256: 6c741b4b70374775952480f00f46dae8257d17344abe00c5786c1d2bc85d89ab
+
+Package: com.shalamand3r.lyricbridge
+Name: LyricBridge
+Description: Native Apple Music lyrics for unsynced songs
+Depends: preferenceloader, com.shalamand3r.corelyrics (>= 1.0), ellekit, firmware (>= 16.2)
+Maintainer: shalamand3r
+Author: shalamand3r
+Section: Tweaks
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/lyricbridge.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/lyricbridge.json
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Installed-Size: 536
+Filename: ./debs/lyricbridge/com.shalamand3r.lyricbridge_1.0.2_iphoneos-arm64.deb
+Size: 137206
+MD5sum: 9506c58f2728980f291e61257d7e791e
+SHA1: cbc95d13ce85d10e7e554d5c5de55af9c6a446d0
+SHA256: 9b029a83e75f048eef005789a9edfa3598681eb73ea62cbf7869b3c5536d8db3
