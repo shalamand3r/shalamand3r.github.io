@@ -1,0 +1,29 @@
+{
+  "minVersion": "0.1",
+  "tintColor": "#ff7fbd",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Description coming soon.",
+          "useSpacing": true
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Version 1.0\n- Initial release.",
+          "useSpacing": true
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView"
+}

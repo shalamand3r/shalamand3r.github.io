@@ -50,6 +50,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
+          "markdown": "### Version 4.0.9\n- Added word-by-word lyrics from QQ Music and NetEase\n- Shared lyric fetching and offline storage with CoreLyrics and LyricBridge\n- More reliable lyric loading and word-by-word upgrades",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
           "markdown": "### Version 4.0.7\n- Tidier lyric storage and more complete cleanup\n- Settings and preview improvements\n- Fixed clearing logs leaving old entries behind",
           "useSpacing": true
         },
