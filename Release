@@ -8,11 +8,11 @@ Components: main
 Description: a fire tweak repo
 Icon: file://CydiaIcon.png
 MD5Sum:
- 949a1af5d9f67c3aa9fbcf0ffb96a2b3 89264 Packages
- 7dc58f5e09a1ca847f5b48dfeb201ccb 17226 Packages.gz
+ 0d6cbe6c03e4836cf360cb430a580f87 91787 Packages
+ 3bc8cdf29047e0eba6115eed74217793 17568 Packages.gz
 SHA1:
- 7880d9741e4e354b39a1c0cb93baaf2aa1915fc0 89264 Packages
- dde16ae9949d3d14596bda41e69a5fa36aae98f3 17226 Packages.gz
+ 694603233d6466a443772fa57bdc75ca56b1c71a 91787 Packages
+ 90f05bca10c9201f4189afe8712c29713830842b 17568 Packages.gz
 SHA256:
- 862f1507578c24818221e5c297b6db2c15f2aae0eaed52c1fd4b021cc79e2033 89264 Packages
- ac90acd5194cafab6ff4461831a85c6d1499234cd5bf56ac7aa5c3ed915305ef 17226 Packages.gz
+ c475bd34fdcad4d68611c63803f2a6193226b6e57732a2eb69b73ec9df4fbb03 91787 Packages
+ 1b91997d43f23c99e02163a2ce9ebaeed304c9e1965d48d86f00dc5d2de073dc 17568 Packages.gz

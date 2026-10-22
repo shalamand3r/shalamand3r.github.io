@@ -19,6 +19,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
+          "markdown": "### Version 1.0.3\n- Added hidden debug and performance logging\n- View, import, export and clear logs from Experimental options",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
           "markdown": "### Version 1.0.2\n- Fixed lyrics failing to upgrade until switching songs",
           "useSpacing": true
         },

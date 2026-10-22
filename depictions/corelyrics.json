@@ -19,6 +19,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
+          "markdown": "### Version 1.0.2\n- Added anonymous debug and performance logs\n- Improved sharing of late lyric results between tweaks",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
           "markdown": "### Version 1.0.1\n- Faster lyric fetching when services are slow\n- Less unnecessary work after lyrics load or songs change",
           "useSpacing": true
         },
