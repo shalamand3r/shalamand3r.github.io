@@ -19,7 +19,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Version 1.0.8\n- Fixed lyric replacement for imported songs with plain lyrics\n- Added Apple First, Automatic and Online First lyric loading options",
+          "markdown": "### Version 1.0.8\n- Fixed lyric replacement for imported songs with plain lyrics\n- Added Apple First, Automatic and Online First lyric loading options\n\nThanks to [u/m9z2w4d8vw-blip](https://www.reddit.com/user/m9z2w4d8vw-blip/) for the imported-lyrics fix!",
           "useSpacing": true
         },
         {
