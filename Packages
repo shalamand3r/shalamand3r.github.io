@@ -2145,24 +2145,6 @@ MD5sum: 7f1a2eb908a7e834e92c547a17324eb9
 SHA1: d6fb5ea164c17375df9ce799467dfb9f8e7cb59a
 SHA256: e6560c258caeb7264464c5653a0b719a5e87a105bd74754dd3e2a4a21084d0b6
 
-Package: com.shalamand3r.lyricbridge
-Name: LyricBridge
-Description: Native Apple Music lyrics for unsynced songs
-Depends: preferenceloader, com.shalamand3r.corelyrics (>= 1.0.5), ellekit, firmware (>= 16.2)
-Maintainer: shalamand3r
-Author: shalamand3r
-Section: Tweaks
-Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/lyricbridge.png?raw=true
-SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/lyricbridge.json
-Architecture: iphoneos-arm64
-Version: 1.0.9
-Installed-Size: 772
-Filename: ./debs/lyricbridge/com.shalamand3r.lyricbridge_1.0.9_iphoneos-arm64.deb
-Size: 154134
-MD5sum: f94bc4cdf37939e39a212ae750ca8ce8
-SHA1: 0614669378915aae12d935a58654a34870f7175e
-SHA256: 798c4c8a57491917b0404c46bb5654f51974598d3409bf0263d9a700feea8196
-
 Package: com.shalamand3r.corelyrics
 Name: CoreLyrics
 Description: Shared lyric fetching and offline storage for DateLyrics and LyricBridge.
@@ -2182,3 +2164,21 @@ Size: 88308
 MD5sum: 6e57b8eb9076d52071b289ceff88e37b
 SHA1: 36f871434c11e87d590286f8cddfa1891133a1f3
 SHA256: 861b7523eaa4bc4a1780059a1c6f2b5d4d9b296427f31592fefe48c8bc64ab12
+
+Package: com.shalamand3r.lyricbridge
+Name: LyricBridge
+Description: Native Apple Music lyrics for unsynced songs
+Depends: preferenceloader, com.shalamand3r.corelyrics (>= 1.0.5), ellekit, firmware (>= 16.2)
+Maintainer: shalamand3r
+Author: shalamand3r
+Section: Tweaks
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/lyricbridge.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/lyricbridge.json
+Architecture: iphoneos-arm64
+Version: 1.0.9
+Installed-Size: 768
+Filename: ./debs/lyricbridge/com.shalamand3r.lyricbridge_1.0.9_iphoneos-arm64.deb
+Size: 153610
+MD5sum: c20bb1a637c58c6c1940d9f2b29c5bce
+SHA1: 1cdf722bc1ec2ba9eb0622c281a74ac5a45251f0
+SHA256: 7d660cf18610dfece83c71bec04f59254f08a7b66f469a95395c9f8cf80f391f
