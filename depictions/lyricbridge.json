@@ -19,6 +19,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
+          "markdown": "### Version 1.0.8\n- Fixed lyric replacement for imported songs with plain lyrics\n- Added Apple First, Automatic and Online First lyric loading options",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
           "markdown": "### Version 1.0.7\n- More reliable lyric loading and automatic word-by-word upgrades\n- Fixed Sing on local songs without an Apple Music subscription\n- Improved settings and diagnostics",
           "useSpacing": true
         },
