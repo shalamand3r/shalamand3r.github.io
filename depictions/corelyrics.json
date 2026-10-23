@@ -19,27 +19,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Version 1.0.5\n- Automatically retry temporary lyric-loading failures\n- Smarter waits when services are busy or rate-limited\n- Reuse lyrics that finish loading in the background",
-          "useSpacing": true
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### Version 1.0.4\n- Faster lyric loading when services are slow\n- Improved recovery from connection problems\n- Long request timeout increased to 15 seconds",
-          "useSpacing": true
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### Version 1.0.3\n- Combined debug and performance details in one log",
-          "useSpacing": true
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### Version 1.0.2\n- Added anonymous debug and performance logs\n- Improved sharing of late lyric results between tweaks",
-          "useSpacing": true
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### Version 1.0.1\n- Faster lyric fetching when services are slow\n- Less unnecessary work after lyrics load or songs change",
+          "markdown": "### Version 1.0.5\n- Faster lyric fetching across services\n- Automatic retries and smarter handling of busy services\n- More reliable sharing of lyrics between tweaks\n- Added anonymous diagnostics",
           "useSpacing": true
         },
         {

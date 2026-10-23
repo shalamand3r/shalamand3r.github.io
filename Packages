@@ -2259,6 +2259,24 @@ MD5sum: adcf6e8f6934e4bc5f5e85be2a4e2f3c
 SHA1: b4857d2bcca509f9925c6496d56544cb3aa58427
 SHA256: 5e8b9b60f5d3fc1fe464ce54a9b7bed050a95af44a81734ed5f71b004418e94a
 
+Package: com.shalamand3r.datelyrics
+Name: DateLyrics
+Depends: com.shalamand3r.corelyrics (>= 1.0.5), ellekit | mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Description: Lyrics in the Lock Screen date view!
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/datelyrics.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/datelyrics.json
+Maintainer: shalamand3r
+Author: shalamand3r
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 4.1
+Installed-Size: 1544
+Filename: ./debs/datelyrics/com.shalamand3r.datelyrics_4.1_iphoneos-arm64.deb
+Size: 422426
+MD5sum: 394ee1ffe89ac0bef27a647b92c55964
+SHA1: b9243e33602eaa8264cc134dd94dbb404fdcce10
+SHA256: c6116449fb6e9d27bb9997a53bbf326f51681713dda44a750dc35e416b4fa318
+
 Package: com.shalamand3r.corelyrics
 Name: CoreLyrics
 Description: Shared lyric fetching and offline storage for DateLyrics and LyricBridge.
@@ -2292,7 +2310,7 @@ Architecture: iphoneos-arm64
 Version: 1.0.7
 Installed-Size: 768
 Filename: ./debs/lyricbridge/com.shalamand3r.lyricbridge_1.0.7_iphoneos-arm64.deb
-Size: 152358
-MD5sum: 53c1852ff088ebedcf5f03e55660d652
-SHA1: d7fb38e0242df2f9ac8c808f9ac280c8bd29d541
-SHA256: d83ebd899218dd01dfcd103f208e6928b35668b97e236fb43b0c4d4bad58ee2e
+Size: 152272
+MD5sum: 027316b812211aa1b2dde9dd9b5f7e9a
+SHA1: a121cd913b915e21beda608118460f1b1bec3bdc
+SHA256: 3d9270ace8e97182bd2571b9cf8074afaef236f3a39b6b231d432e3e355e9167

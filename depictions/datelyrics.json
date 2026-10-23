@@ -50,22 +50,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Version 4.0.13\n- Improved lyric loading and recovery with CoreLyrics\n- Updated the Long request timeout to 15 seconds",
-          "useSpacing": true
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### Version 4.0.12\n- Hidden diagnostics stay visible until hidden again",
-          "useSpacing": true
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### Version 4.0.11\n- Quicker access to hidden diagnostics",
-          "useSpacing": true
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### Version 4.0.10\n- Fixed late-arriving lyrics not appearing on the Lock Screen",
+          "markdown": "### Version 4.1\n- Faster lyric loading and more reliable word-by-word upgrades\n- Automatic retries when lyric services have connection problems\n- Improved settings and diagnostics",
           "useSpacing": true
         },
         {
