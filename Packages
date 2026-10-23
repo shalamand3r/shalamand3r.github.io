@@ -2162,3 +2162,23 @@ Size: 154134
 MD5sum: f94bc4cdf37939e39a212ae750ca8ce8
 SHA1: 0614669378915aae12d935a58654a34870f7175e
 SHA256: 798c4c8a57491917b0404c46bb5654f51974598d3409bf0263d9a700feea8196
+
+Package: com.shalamand3r.corelyrics
+Name: CoreLyrics
+Description: Shared lyric fetching and offline storage for DateLyrics and LyricBridge.
+Depends: firmware (>= 16.0)
+Conflicts: com.shalamand3r.datelyrics (<< 4.0.9)
+Breaks: com.shalamand3r.datelyrics (<< 4.0.9)
+Maintainer: shalamand3r
+Author: shalamand3r
+Section: Libraries
+Icon: https://github.com/shalamand3r/shalamand3r.github.io/blob/main/icons/corelyrics.png?raw=true
+SileoDepiction: https://raw.githubusercontent.com/shalamand3r/shalamand3r.github.io/refs/heads/main/depictions/corelyrics.json
+Architecture: iphoneos-arm64
+Version: 1.0.6
+Installed-Size: 448
+Filename: ./debs/corelyrics/com.shalamand3r.corelyrics_1.0.6_iphoneos-arm64.deb
+Size: 88308
+MD5sum: 6e57b8eb9076d52071b289ceff88e37b
+SHA1: 36f871434c11e87d590286f8cddfa1891133a1f3
+SHA256: 861b7523eaa4bc4a1780059a1c6f2b5d4d9b296427f31592fefe48c8bc64ab12

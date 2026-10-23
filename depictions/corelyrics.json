@@ -19,6 +19,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
+          "markdown": "### Version 1.0.6\n- Shared lyric searches between DateLyrics and LyricBridge to reduce repeated requests",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
           "markdown": "### Version 1.0.5\n- Faster lyric fetching across services\n- Automatic retries and smarter handling of busy services\n- More reliable sharing of lyrics between tweaks\n- Added anonymous diagnostics",
           "useSpacing": true
         },
