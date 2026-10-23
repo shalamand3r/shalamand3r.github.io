@@ -50,6 +50,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
+          "markdown": "### Version 4.0.13\n- Improved lyric loading and recovery with CoreLyrics\n- Updated the Long request timeout to 15 seconds",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
           "markdown": "### Version 4.0.12\n- Hidden diagnostics stay visible until hidden again",
           "useSpacing": true
         },
