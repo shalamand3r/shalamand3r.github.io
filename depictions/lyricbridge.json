@@ -19,7 +19,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Version 1.0.6\n- Fixed Sing not reducing vocals on local songs without an Apple Music subscription on iOS 17.0",
+          "markdown": "### Version 1.0.6\n- Fixed Sing not reducing vocals on local songs without an Apple Music subscription",
           "useSpacing": true
         },
         {
