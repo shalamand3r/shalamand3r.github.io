@@ -19,6 +19,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
+          "markdown": "### Version 1.0.7\n- Reduced repeated processing when matching songs\n- Avoided duplicate lyric updates",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
           "markdown": "### Version 1.0.6\n- Shared lyric searches between DateLyrics and LyricBridge to reduce repeated requests",
           "useSpacing": true
         },

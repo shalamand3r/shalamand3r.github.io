@@ -19,17 +19,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Version 1.0.9\n- Fixed the Sing button remaining visible after closing lyrics\n- Simplified settings with automatic lyric selection",
-          "useSpacing": true
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### Version 1.0.8\n- Fixed lyric replacement for imported songs with plain lyrics\n\nThanks to [u/m9z2w4d8vw-blip](https://www.reddit.com/user/m9z2w4d8vw-blip/) for the imported-lyrics fix!",
-          "useSpacing": true
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### Version 1.0.7\n- More reliable lyric loading and automatic word-by-word upgrades\n- Fixed Sing on local songs without an Apple Music subscription\n- Improved settings and diagnostics",
+          "markdown": "### Version 1.1\n- More reliable lyric loading and automatic word-by-word upgrades\n- Fixed Sing on local songs without an Apple Music subscription\n- Fixed lyric replacement for imported songs\n- Fixed the Sing button showing outside the lyrics panel\n- Improved Sing controls when switching songs\n- Simpler settings and diagnostics\n\nThanks to [u/m9z2w4d8vw-blip](https://www.reddit.com/user/m9z2w4d8vw-blip/) for the imported-lyrics fix!",
           "useSpacing": true
         },
         {

@@ -50,6 +50,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
+          "markdown": "### Version 4.1.1\n- AOD options stay off when unavailable or disabled\n- Reduced repeated lyric updates\n- Safer handling of cached lyrics",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
           "markdown": "### Version 4.1\n- Faster lyric loading and more reliable word-by-word upgrades\n- Automatic retries when lyric services have connection problems\n- Improved settings and diagnostics",
           "useSpacing": true
         },
